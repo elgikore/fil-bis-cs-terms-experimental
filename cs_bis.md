@@ -27,6 +27,13 @@
 * **PA** / **Paadelantado** / **Pagpaadelantado** / **Pagpaadelantadong Kompila** = Ahead-of-Time Compilation / AOT
     * Adelantado literally means "ahead of time"
     * **PA** = **P**a**a**delantado
+* **Lenggwa** = Language
+    * Borrowed from Filipino since Bisaya has the long form (lenggwahe)
+    * Also avoids clasing with *pinulongan*, which usually refers to spoken language
+* **Lenggwang Kinompila** = Compiled Language
+* **Lenggwang Ininterpreta** = Interpreted Language
+    * Surprisingly *interpreta* is not common on Filipino dictionaries but is present in Bisaya
+* **Tiginterpreta** = Interpreter
 
 # Data Science/ML
 * **Datos** = Data

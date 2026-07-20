@@ -25,12 +25,19 @@
 * **PA** / **Paadelantado** / **Pagpapaadelantado** / **Pagpapaadelantadong Kompila** = Ahead-of-Time Compilation / AOT
     * Adelantado literally means "ahead of time"
     * **PA** = **P**a**a**delantado
+* **Lenggwa** = Language
+    * To avoid clashing with *wika*, which usually refers to spoken language
+* **Lenggwang Kinompila** = Compiled Language
+* **Lenggwang Ininterpreta** = Interpreted Language
+    * Surprisingly *interpreta* is not common on Filipino dictionaries even if it is used IRL
+* **Tagainterpreta** = Interpreter
 
 # Data Science/ML
 * **Datos** = Data
 * **Datosan** = Dataset
 * **Sandatosan** = Data Center
 * **Talaorasan** = Time Series
+    * Repurposing
 * **Pagpapatalaorasan** = Time Series Analysis
 
 # Virtualization
