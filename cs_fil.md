@@ -19,3 +19,6 @@
     * *Para-* = Alongside and in active involment
 * **Sangbirtwal** = Sandbox
     * *Sang-* is used to cover the idea of a bounded virtualized area, but not just a generic virtual-space
+* **Kernel**
+    * As is; pronounciation does heavy lifting
+* **Kernelan** = Kernel Space

@@ -20,5 +20,5 @@
 * **Kabirbirtwalisasyon** = Paravirtualization
     * *Para-* = Alongside and in active involment
 * **Bilirtwalan** = Sandbox
-    * Uses an old infix-suffix pattern: -il- + -on/-an
+    * Uses an old infix-suffix pattern: *-il-* + *-on/-an*
     * Modeled from tilingban (council) and sililongan (shade)
