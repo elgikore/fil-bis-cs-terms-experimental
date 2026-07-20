@@ -76,3 +76,5 @@
 * **Pagpapabloke** = Paging
 * **Lalagyan** = Block
     * Since a lalagyan (container) can be of any size, the flexibility is implied
+* **Pagsasakonteksto** = Context Switching
+    * *Pagsasa-* implies switching because the CPU focuses on one thing at a time (not truly parallel)

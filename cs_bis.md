@@ -80,3 +80,5 @@
 * **Pagpapabloke** = Paging
 * **Sudlanan** = Block
     * Since a sudlanan (container) can be of any size, the flexibility is implied
+* **Pagpahikonteksto** = Context Switching
+    * Used the *hi-*/*hing-* to replicate *pagsasa-* in Bisaya; also, it fits because it is a inclination or propensity of CPU to switch to context when the process is interrupted or preempted
