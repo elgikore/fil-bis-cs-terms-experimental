@@ -15,6 +15,11 @@
 * **Lawom nga Antas** = Low-Level Abstraction / Low-Level
     * Mababa implies less, but low here means at the bottom in strata
     * Ditto (Reason for borrowing antas)
+* **Pagpasaoras** = Just-in-Time Compilation
+    * Borrowed from Filipino and slightly modified
+* **Pagpaadelantado** = Ahead-of-Time Compilation
+    * Adelantado literally means "ahead of time"
+    * Pagpaadelantado -> Pagpadelantado
 
 # Data Science/ML
 * **Datos** = Data

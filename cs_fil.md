@@ -11,6 +11,12 @@
 * **Mataas na Antas** = High-Level Abstraction / High-Level
 * **Malalim na Antas** = Low-Level Abstraction / Low-Level
     * Mababa implies less, but low here means at the bottom in strata
+* **Pagpapasaoras** = Just-in-Time Compilation
+    * Contraction of "sa oras" to one word
+    * Modeled from *Sumasainyo* = Suma + (sa inyo)
+* **Pagpapadelantado** = Ahead-of-Time Compilation
+    * Pagpapaadelantado -> Pagpapadelantado
+    * Adelantado literally means "ahead of time"
 
 
 # Data Science/ML
