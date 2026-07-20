@@ -27,3 +27,6 @@
     * As is; pronounciation does heavy lifting
 * **Kernelan** = Kernel Space
 * **Mangagamitanan** / **Tig-gamitanan** = User Space
+* **Pangunang OS** = Host OS
+* **Kasamang OS** = Guest OS
+* **Kasamang Tig-gamitanan** / **Kasamang Mangagamitanan** = Guest User Space

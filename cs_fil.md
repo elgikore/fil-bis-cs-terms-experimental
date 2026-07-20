@@ -25,3 +25,6 @@
 * **Kernelan** = Kernel Space
 * **Mangagamitan** / **Tagagamitan** = User Space
     * Uses the "place of X" reading of *-an*
+* **Pangunang OS** = Host OS
+* **Kasamang OS** = Guest OS
+* **Kasamang Tagagamitan** / **Kasamang Mangagamitan** = Guest User Space
