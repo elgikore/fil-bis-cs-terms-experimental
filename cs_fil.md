@@ -33,6 +33,8 @@
 * **Tagainterpreta** = Interpreter
 * **Talaan** = Spreadsheet
     * Spreadsheet is quite literally a table of records
+* **Memorya** = Memory
+    * Neutral than alala or gunita
 
 # Data Science/ML
 * **Datos** = Data
@@ -65,3 +67,7 @@
 * **Esperong Pamprotekta** = Protection Rings
 * **Ikaserong Espero** / **Espero 0** / **Nakakernel** = Ring 0 / Kernel Mode
 * **Ikatlong Espero** / **Espero 3** = Ring 3 / User Mode
+* **Nakamemorya** / **Pisikal na Memorya** / **Memorya-Pisikal** = Physical Memory
+    * *Nakamemorya* = Memory that is actually stored
+* **Malamemorya** / **Birtwal na Memorya** / **Memorya-Birtwal** = Virtual Memory
+    * *Malamemorya* = Memory-like i.e. similar to memory but not phsyical memory

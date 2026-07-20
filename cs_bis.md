@@ -36,6 +36,8 @@
 * **Tiginterpreta** = Interpreter
 * **Talaan** = Spreadsheet
     * Spreadsheet is quite literally a table of records
+* **Memorya** = Memory
+    * Neutral than panumdoman
 
 # Data Science/ML
 * **Datos** = Data
@@ -69,3 +71,7 @@
 * **Esperong Pamprotekta** = Protection Rings
 * **Ikaserong Espero** / **Espero 0** / **Nakakernel** = Ring 0 / Kernel Mode
 * **Ikatulong Espero** / **Espero 3** = Ring 3 / User Mode
+* **Nakamemorya** / **Pisikal nga Memorya** / **Memorya-Pisikal** = Physical Memory
+    * *Nakamemorya* = Memory that is actually stored
+* **Minimemorya** / **Birtwal nga Memorya** / **Memorya-Birtwal** = Virtual Memory
+    * *-in-* uses the "in the style of X" reading
