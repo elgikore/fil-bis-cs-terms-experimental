@@ -11,18 +11,18 @@
 * **Mataas na Antas** = High-Level Abstraction / High-Level
 * **Malalim na Antas** = Low-Level Abstraction / Low-Level
     * Mababa implies less, but low here means at the bottom in strata
-* **Pagpapasaoras** = Just-in-Time Compilation
-    * Contraction of "sa oras" to one word
-    * Modeled from *Sumasainyo* = Suma + (sa inyo)
-* **Pagpapaadelantado** = Ahead-of-Time Compilation
-    * Adelantado literally means "ahead of time"
 * **Kompila** / **Ikompila** = Compile
     * From removal of *-syon* in kompilasyon
 * **Pagsasakompila** / **Kompilasyon** = Compilation
-    * *Pagsasa-* pattern modeled from pagsasaayos (adjustment), pagsasapubliko (publicize), pagsasatao (personification); now that I realized, its similar to **-tion** but more flexible
+    * *Pagsasa-* pattern modeled from pagsasaayos (adjustment), pagsasapubliko (publicize), pagsasatao (personification); now that I realized, its similar to *-tion* but more flexible
 * **Tagakompila** = Compiler
 * **Tagakawing** / **Tagakawing-kawing** = Linker
     * Reduplication if you want to emphasize the systematic linking for every related part in the compilation process
+* **Pagpapasaoras** / **Pagpapasaorasang Kompila** = Just-in-Time Compilation
+    * Contraction of "sa oras" to one word
+    * Modeled from *Sumasainyo* = Suma + (sa inyo)
+* **Pagpapaadelantado** / **Pagpapaadelantadong Kompila** = Ahead-of-Time Compilation
+    * Adelantado literally means "ahead of time"
 
 # Data Science/ML
 * **Datos** = Data

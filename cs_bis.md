@@ -15,16 +15,16 @@
 * **Lawom nga Antas** = Low-Level Abstraction / Low-Level
     * Mababa implies less, but low here means at the bottom in strata
     * Ditto (Reason for borrowing antas)
-* **Pagpasaoras** = Just-in-Time Compilation
-    * Borrowed from Filipino and slightly modified
-* **Pagpaadelantado** = Ahead-of-Time Compilation
-    * Adelantado literally means "ahead of time"
 * **Kompila** / **Ikompila** = Compile
     * From removal of *-syon* in kompilasyon
 * **Pagpakompila** / **Kompilasyon** = Compilation
 * **Tigkompila** = Compiler
 * **Tiglanggikit** = Linker
     * Uses the "link" meaning of langgikit
+* **Pagpasaoras** / **Pagpasaorasang Kompila** = Just-in-Time Compilation
+    * Borrowed from Filipino and slightly modified
+* **Pagpaadelantado** / **Pagpaadelantadong Kompila** = Ahead-of-Time Compilation
+    * Adelantado literally means "ahead of time"
 
 # Data Science/ML
 * **Datos** = Data
