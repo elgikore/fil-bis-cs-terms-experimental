@@ -41,3 +41,8 @@
 * **Kasamang OS** = Guest OS
 * **Kasamang Tig-gamitanan** / **Kasamang Mangagamitanan** = Guest User Space
 * **Nakaprotektado** = Protected Mode
+* **Espero** = Ring
+    * Used espero (sphere) metaphorically like a "sphere of influence", rather than the hollow center imagery of singsing (ring)
+* **Esperong Pamprotekta** = Protection Rings
+* **Ikaserong Espero** / **Espero 0** / **Nakakernel** = Ring 0 / Kernel Mode
+* **Ikatulong Espero** / **Espero 3** = Ring 3 / User Mode
