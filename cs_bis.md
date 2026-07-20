@@ -5,6 +5,16 @@
     * Same as Filipino
 * **Hiramentahan** = Framework
 * **Mangagamit** / **Tig-gamit** = User
+* **Pagpaantas-antas** / **Abstraksyon** = Abstraction
+    * Used antas-antas because abstraction in CS is in essence a high level cover for a low level one
+    * Borrowed antas from Filipino since there is no equivalent in Bisaya
+* **Mga Antas-Antas** / **Mga Abstrak-Abstraksyon** = Abstraction Layers
+    * Ditto (Reason for borrowing antas)
+* **Taas nga Antas** = High-Level Abstraction / High-Level
+    * Ditto (Reason for borrowing antas)
+* **Lawom nga Antas** = Low-Level Abstraction / Low-Level
+    * Mababa implies less, but low here means at the bottom in strata
+    * Ditto (Reason for borrowing antas)
 
 # Data Science/ML
 * **Datos** = Data
@@ -30,3 +40,4 @@
 * **Pangunang OS** = Host OS
 * **Kasamang OS** = Guest OS
 * **Kasamang Tig-gamitanan** / **Kasamang Mangagamitanan** = Guest User Space
+* **Nakaprotektado** = Protected Mode

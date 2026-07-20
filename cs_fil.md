@@ -5,6 +5,13 @@
 * **Sanggamitan** = Framework
     * Sangkagamitan -> Sanggamitan
 * **Mangagamit** / **Tagagamit** = User
+* **Pagpaantas-antas** / **Abstraksyon** = Abstraction
+    * Used antas-antas because abstraction in CS is in essence a high level cover for a low level one
+* **Mga Antas-Antas** / **Mga Abstrak-Abstraksyon** = Abstraction Layers
+* **Mataas na Antas** = High-Level Abstraction / High-Level
+* **Malalim na Antas** = Low-Level Abstraction / Low-Level
+    * Mababa implies less, but low here means at the bottom in strata
+
 
 # Data Science/ML
 * **Datos** = Data
@@ -28,3 +35,4 @@
 * **Pangunang OS** = Host OS
 * **Kasamang OS** = Guest OS
 * **Kasamang Tagagamitan** / **Kasamang Mangagamitan** = Guest User Space
+* **Nakaprotektado** = Protected Mode
