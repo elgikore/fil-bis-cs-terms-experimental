@@ -31,6 +31,8 @@
 * **Lenggwang Ininterpreta** = Interpreted Language
     * Surprisingly *interpreta* is not common on Filipino dictionaries even if it is used IRL
 * **Tagainterpreta** = Interpreter
+* **Talaan** = Spreadsheet
+    * Spreadsheet is quite literally a table of records
 
 # Data Science/ML
 * **Datos** = Data
@@ -39,6 +41,8 @@
 * **Talaorasan** = Time Series
     * Repurposing
 * **Pagpapatalaorasan** = Time Series Analysis
+* **Taladatosan** = Database
+    * Tala here uses the "structured/record"-type reading, not just table
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
