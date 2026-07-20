@@ -21,10 +21,12 @@
 * **Tigkompila** = Compiler
 * **Tiglanggikit** = Linker
     * Uses the "link" meaning of langgikit
-* **Pagpasaoras** / **Pagpasaorasang Kompila** = Just-in-Time Compilation
+* **PSO** / **Pasaoras** / **Pagpasaoras** / **Pagpasaorasang Kompila** = Just-in-Time Compilation / JIT
     * Borrowed from Filipino and slightly modified
-* **Pagpaadelantado** / **Pagpaadelantadong Kompila** = Ahead-of-Time Compilation
+    * **PSO** = **P**a**s**a**o**ras
+* **PA** / **Paadelantado** / **Pagpaadelantado** / **Pagpaadelantadong Kompila** = Ahead-of-Time Compilation / AOT
     * Adelantado literally means "ahead of time"
+    * **PA** = **P**a**a**delantado
 
 # Data Science/ML
 * **Datos** = Data

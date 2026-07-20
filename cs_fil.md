@@ -18,11 +18,13 @@
 * **Tagakompila** = Compiler
 * **Tagakawing** / **Tagakawing-kawing** = Linker
     * Reduplication if you want to emphasize the systematic linking for every related part in the compilation process
-* **Pagpapasaoras** / **Pagpapasaorasang Kompila** = Just-in-Time Compilation
+* **PSO** / **Pasaoras** / **Pagpapasaoras** / **Pagpapasaorasang Kompila** = Just-in-Time Compilation / JIT
     * Contraction of "sa oras" to one word
     * Modeled from *Sumasainyo* = Suma + (sa inyo)
-* **Pagpapaadelantado** / **Pagpapaadelantadong Kompila** = Ahead-of-Time Compilation
+    * **PSO** = **P**a**s**a**o**ras
+* **PA** / **Paadelantado** / **Pagpapaadelantado** / **Pagpapaadelantadong Kompila** = Ahead-of-Time Compilation / AOT
     * Adelantado literally means "ahead of time"
+    * **PA** = **P**a**a**delantado
 
 # Data Science/ML
 * **Datos** = Data
