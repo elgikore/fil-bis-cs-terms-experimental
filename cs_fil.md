@@ -15,8 +15,14 @@
     * Contraction of "sa oras" to one word
     * Modeled from *Sumasainyo* = Suma + (sa inyo)
 * **Pagpapaadelantado** = Ahead-of-Time Compilation
-    * Pagpapaadelantado -> Pagpapadelantado
-
+    * Adelantado literally means "ahead of time"
+* **Kompila** / **Ikompila** = Compile
+    * From removal of *-syon* in kompilasyon
+* **Pagsasakompila** / **Kompilasyon** = Compilation
+    * *Pagsasa-* pattern modeled from pagsasaayos (adjustment), pagsasapubliko (publicize), pagsasatao (personification); now that I realized, its similar to **-tion** but more flexible
+* **Tagakompila** = Compiler
+* **Tagakawing** / **Tagakawing-kawing** = Linker
+    * Reduplication if you want to emphasize the systematic linking for every related part in the compilation process
 
 # Data Science/ML
 * **Datos** = Data

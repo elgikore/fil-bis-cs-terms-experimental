@@ -19,6 +19,12 @@
     * Borrowed from Filipino and slightly modified
 * **Pagpaadelantado** = Ahead-of-Time Compilation
     * Adelantado literally means "ahead of time"
+* **Kompila** / **Ikompila** = Compile
+    * From removal of *-syon* in kompilasyon
+* **Pagpakompila** / **Kompilasyon** = Compilation
+* **Tigkompila** = Compiler
+* **Tiglanggikit** = Linker
+    * Uses the "link" meaning of langgikit
 
 # Data Science/ML
 * **Datos** = Data
