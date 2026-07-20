@@ -23,3 +23,5 @@
 * **Kernel**
     * As is; pronounciation does heavy lifting
 * **Kernelan** = Kernel Space
+* **Mangagamitan** / **Tagagamitan** = User Space
+    * Uses the "place of X" reading of *-an*

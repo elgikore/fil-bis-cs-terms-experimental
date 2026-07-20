@@ -26,3 +26,4 @@
 * **Kernel**
     * As is; pronounciation does heavy lifting
 * **Kernelan** = Kernel Space
+* **Mangagamitanan** / **Tig-gamitanan** = User Space
