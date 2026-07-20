@@ -71,3 +71,8 @@
     * *Nakamemorya* = Memory that is actually stored
 * **Malamemorya** / **Birtwal na Memorya** / **Memorya-Birtwal** = Virtual Memory
     * *Malamemorya* = Memory-like i.e. similar to memory but not phsyical memory
+* **Bloke** = Page
+    * Since bloke also means brick, the "fixed" size is implied
+* **Pagpapabloke** = Paging
+* **Lalagyan** = Block
+    * Since a lalagyan (container) can be of any size, the flexibility is implied

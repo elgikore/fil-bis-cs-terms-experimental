@@ -75,3 +75,8 @@
     * *Nakamemorya* = Memory that is actually stored
 * **Minimemorya** / **Birtwal nga Memorya** / **Memorya-Birtwal** = Virtual Memory
     * *-in-* uses the "in the style of X" reading
+* **Bloke** = Page
+    * Since bloke also means brick, the "fixed" size is implied
+* **Pagpapabloke** = Paging
+* **Sudlanan** = Block
+    * Since a sudlanan (container) can be of any size, the flexibility is implied
