@@ -4,6 +4,7 @@
 * **Kasangkapan** = Library
     * Same as Filipino
 * **Hiramentahan** = Framework
+* **Mangagamit** / **Tig-gamit** = User
 
 # Data Science/ML
 * **Datos** = Data
@@ -22,3 +23,6 @@
 * **Bilirtwalan** = Sandbox
     * Uses an old infix-suffix pattern: *-il-* + *-on/-an*
     * Modeled from tilingban (council) and sililongan (shade)
+* **Kernel**
+    * As is; pronounciation does heavy lifting
+* **Kernelan** = Kernel Space

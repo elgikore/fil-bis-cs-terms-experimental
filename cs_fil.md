@@ -4,6 +4,7 @@
     * Using the "collection" reading of *ka- -an* and sangkap implies ingredients
 * **Sanggamitan** = Framework
     * Sangkagamitan -> Sanggamitan
+* **Mangagamit** / **Tagagamit** = User
 
 # Data Science/ML
 * **Datos** = Data
