@@ -14,9 +14,8 @@
 * **Pagpapasaoras** = Just-in-Time Compilation
     * Contraction of "sa oras" to one word
     * Modeled from *Sumasainyo* = Suma + (sa inyo)
-* **Pagpapadelantado** = Ahead-of-Time Compilation
+* **Pagpapaadelantado** = Ahead-of-Time Compilation
     * Pagpapaadelantado -> Pagpapadelantado
-    * Adelantado literally means "ahead of time"
 
 
 # Data Science/ML

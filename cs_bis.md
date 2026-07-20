@@ -19,7 +19,6 @@
     * Borrowed from Filipino and slightly modified
 * **Pagpaadelantado** = Ahead-of-Time Compilation
     * Adelantado literally means "ahead of time"
-    * Pagpaadelantado -> Pagpadelantado
 
 # Data Science/ML
 * **Datos** = Data
