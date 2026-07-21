@@ -38,6 +38,16 @@
     * Spreadsheet is quite literally a table of records
 * **Memorya** = Memory
     * Neutral than panumdoman
+* **Kagawian** / **Gawi** = Workflow
+    * As in software workflow, data science workflow, etc.
+    * If you think about it, a workflow is an "established customs and practices" of a particular thing
+
+# Development Process
+* **Kagawiang Pagsunod-sunod** / **Gawi-Pagsunodsunod** = Waterfall Model
+    * Because it is in discrete phases and no going back
+* **Kagawiang Agile** / **Gawi-Agile** = Agile Methodology / Agile Workflow
+* **Kagawiang Dihadihaa** / **Gawi-Dihadihaa** = Extreme Programming
+    * Since the original term emphasizes quick, "instant" releases; *-a* focuses on the thing, not just general instantness
 
 # Data Science/ML
 * **Datos** = Data
