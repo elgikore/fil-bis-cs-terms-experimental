@@ -52,6 +52,12 @@
 * **Pagpaatiatiman sa Memorya** / **Pagatiatiman-Memorya** / **Atiman-Mano** = Manual Memory Management
 * **Tiglimpyo sa Memorya** / **Tiglimpyo-Memorya** = Garbage Collector
 * **Pagpalimpyo sa Memorya** / **Pagpalimpyo-Memorya** = Garbage Collection
+* **Dinungan** / **Pasabaysabay** = Concurrency / Concurrent
+    * *Pa-* + sabay (2x) = imitation version of sabay
+    * -in- here uses the reading "in the style of"
+* **Pagkahinungan** / **Pagkahinabay** / **Pagkaparalel** / **Paralelismo** = Parallelism
+    * *Pagkahi-* to replicate *pagkaka-* in Filipino
+    * No need for *hi-* in pagkaparalel because it is understood by context like in English
 
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model

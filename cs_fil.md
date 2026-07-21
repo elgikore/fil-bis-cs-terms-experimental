@@ -51,6 +51,10 @@
     * The exact nuance of *Pagpapa-* is needed for this
 * **Tagapaglinis ng Memorya** / **Tagapaglinis-Memorya** = Garbage Collector
 * **Pagpapalinis ng Memorya** / **Pagpapalinis-Memorya** = Garbage Collection
+* **Malapagsabayan** / **Malapagsabay** = Concurrency / Concurrent
+    * *Mala-* (-ish) + *pagsabay* (act of simultaneity) + *-an* (on a place; verb reading of -an)
+    * Technically the root sabay already means concurrent/simultaneous but in a computer context, "simultaneity" is an illusion -- it is just CPU switching contexts fast enough that it looks like simultaneous
+* **Pagkakasabayan** / **Pagkakasabay** / **Pagkakaparalel** / **Paralelismo** = Parallelism
 
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
