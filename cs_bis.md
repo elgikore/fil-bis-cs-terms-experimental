@@ -41,6 +41,8 @@
 * **Kagawian** / **Gawi** = Workflow
     * As in software workflow, data science workflow, etc.
     * If you think about it, a workflow is an "established customs and practices" of a particular thing
+* **Sundanan** = Pipeline
+    * A pipeline is an establised pattern to follow
 
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model

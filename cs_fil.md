@@ -38,6 +38,8 @@
 * **Kagawian** / **Gawi** = Workflow
     * As in software workflow, data science workflow, etc.
     * If you think about it, a workflow is an "established customs and practices" of a particular thing
+* **Talunton** = Pipeline
+    * Repurposing since "following a line or path" captures the semantics of Pipeline
 
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
