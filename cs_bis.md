@@ -80,7 +80,7 @@
 * **Bilirtwalan** = Sandbox
     * Uses an old infix-suffix pattern: *-il-* + *-on/-an*
     * Modeled from tilingban (council) and sililongan (shade)
-* **Pamirtwalanan** = Virtual Machine
+* **Pamertwalanan** = Virtual Machine
     * Borrowed from Filipino with slight changes; still retains the meaning since it is just *pang-* + *-anan*, lit. "An instrument/tool for the (dedicated) virtual-space"
 * **Tigpanghimertwalan** = Virtual Machine Monitor / Hypervisor
     * *tig-* (one that does) + *pang-* (instrument) + *him-* (propensity/inclination; to mirror the strengthened *tagapag-* in Filipino)
