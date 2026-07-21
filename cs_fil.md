@@ -42,6 +42,8 @@
     * Repurposing since "following a line or path" captures the semantics of Pipeline
 * **Baper** = Buffer
     * Transliterated because it is not just a general storage nor is it a stopping place from A to B, it is a temp. storage that also serves as an active intermediary between A and B by the means of a queue
+* **Lapwas** = Overflow
+    * Repurposing; used an uncommon synonym for overflow
 
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model

@@ -45,6 +45,8 @@
     * A pipeline is an establised pattern to follow
 * **Baper** = Buffer
     * Transliterated because it is not just a general storage nor is it a stopping place from A to B, it is a temp. storage that also serves as an active intermediary between A and B by the means of a queue
+* **Lanap** = Overflow
+    * Repurposing; used an uncommon synonym for overflow
 
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
