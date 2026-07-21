@@ -69,8 +69,8 @@
 # Virtualization
 * **Birtwalisasyon** = Virtualization
 * **Nilahatang Birtwalisasyon** / **Binirtwalisasyon** = Full Virtualization
-* **Kabirbirtwalisasyon** = Paravirtualization
-    * *Para-* = Alongside and in active involment
+* **Pakikipagbirtwalisasyon** = Paravirtualization
+    * *Para-* = Alongside and in active involment, the closest match is *pakikipag-*
 * **Sangbirtwal** = Sandbox
     * *Sang-* is used to cover the idea of a bounded virtualized area, but not just a generic virtual-space
 * **Kernel**

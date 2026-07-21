@@ -70,8 +70,8 @@
 # Virtualization
 * **Birtwalisasyon** = Virtualization
 * **Gitanang Birtwalisasyon** / **Binirtwalisasyon** = Full Virtualization
-* **Kabirbirtwalisasyon** = Paravirtualization
-    * *Para-* = Alongside and in active involment
+* **Pakigpabirtwalisasyon** = Paravirtualization
+    * *Pakig-* (activity or endeavor to do something) + *pa-* (cause virtualization) 
 * **Bilirtwalan** = Sandbox
     * Uses an old infix-suffix pattern: *-il-* + *-on/-an*
     * Modeled from tilingban (council) and sililongan (shade)
