@@ -45,6 +45,12 @@
 * **Baperan** = Buffer Space / Buffer Memory
 * **Lapwas** = Overflow
     * Repurposing; used an uncommon synonym for overflow
+* **Pagpaasikaso sa Memorya** / **Pagasikaso-Memorya** = Memory Management
+    * No need for *Pagpapa-* because its not really a continuous thing
+* **Pagpapaasikasikaso sa Memorya** / **Pagpapaasikasikaso** / **Pagasikasikaso-Memorya** / **Mano-Asikaso** = Manual Memory Management
+    * The exact nuance of *Pagpapa-* is needed for this
+* **Tagapaglinis ng Memorya** / **Tagapaglinis-Memorya** = Garbage Collector
+* **Pagpapalinis ng Memorya** / **Pagpapalinis-Memorya** = Garbage Collection
 
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
@@ -113,3 +119,6 @@
     * Since a lalagyan (container) can be of any size, the flexibility is implied
 * **Pagsasakonteksto** = Context Switching
     * *Pagsasa-* implies switching because the CPU focuses on one thing at a time (not truly parallel)
+* **Pagsasamakamemorya** = Direct Memory Access
+    * Modeled from samakatuwid (therefore) breakdown: *sa-* + makatuwid (to be able to straighten); and *maka-* focuses on the actor, and the potentiality/be able to do on the root word
+    * *Pagsasa-* implies requesting again and again, not just once
