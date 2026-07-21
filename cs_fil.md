@@ -78,6 +78,10 @@
     * *Para-* = Alongside and in active involment, the closest match is *pakikipag-*
 * **Sangbirtwal** = Sandbox
     * *Sang-* is used to cover the idea of a bounded virtualized area, but not just a generic virtual-space
+* **Pamirtwalan** = Virtual Machine
+    * Modeled from pamilihan (marketplace)
+* **Tagapagpamirtwalan** = Virtual Machine Monitor / Hypervisor
+    * *Tagapag-* mirrors the *hyper* because it isnt just the one whose occupation is virtualization (*taga*) but *the* one (head chef) that does virtualization, even though there is a lot of intersection of *taga-* and *tagapag-*
 * **Kernel**
     * As is; pronounciation does heavy lifting
 * **Kernelan** = Kernel Space
