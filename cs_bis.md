@@ -43,11 +43,16 @@
     * If you think about it, a workflow is an "established customs and practices" of a particular thing
 
 # Development Process
-* **Kagawiang Pagsunod-sunod** / **Gawi-Pagsunodsunod** = Waterfall Model
+* **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
     * Because it is in discrete phases and no going back
 * **Kagawiang Agile** / **Gawi-Agile** = Agile Methodology / Agile Workflow
 * **Kagawiang Dihadihaa** / **Gawi-Dihadihaa** = Extreme Programming
     * Since the original term emphasizes quick, "instant" releases; *-a* focuses on the thing, not just general instantness
+* **Pagpatigman-tigman** = Continuous Integration
+* **Pagpadala-dala** = Continuous Delivery
+* **Pagpakatap-katap** = Continuous Deployment
+    * *Pakatap* = Deploy (lit. to cause a spread out)
+* **Pagpatigman-katap** = Continuous Integeration and Continuous Deployment/Delivery
 
 # Data Science/ML
 * **Datos** = Data

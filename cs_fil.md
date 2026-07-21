@@ -40,11 +40,19 @@
     * If you think about it, a workflow is an "established customs and practices" of a particular thing
 
 # Development Process
-* **Kagawiang Pagsunod-sunod** / **Gawi-Pagsunodsunod** = Waterfall Model
+* **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
     * Because it is in discrete phases and no going back
 * **Kagawiang Agile** / **Gawi-Agile** = Agile Methodology / Agile Workflow
 * **Kagawiang Iglap-Iglap** / **Gawi-Iglap** = Extreme Programming
     * Since the original term emphasizes quick, frequent releases
+* **Pagpapatigman-tigman** = Continuous Integration
+    * Borrowed from Bisaya and slightly modified
+* **Pagpapadala-dala** = Continuous Delivery
+    * Ditto (borrowing)
+* **Pagpapakatap-katap** = Continuous Deployment
+    * Ditto (borrowing)
+* **Pagpapatigman-katap** = Continuous Integeration and Continuous Deployment/Delivery
+    * Ditto (borrowing)
 
 # Data Science/ML
 * **Datos** = Data
