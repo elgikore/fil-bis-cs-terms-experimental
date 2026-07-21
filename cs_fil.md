@@ -70,6 +70,7 @@
 * **Pagpapatalaorasan** = Time Series Analysis
 * **Taladatosan** = Database
     * Tala here uses the "structured/record"-type reading, not just table
+* **Pagpapalahat** = Generalization
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
@@ -83,6 +84,10 @@
     * Pambirtwalan -> Pamirtwalan -> Pamertwalan 
 * **Tagapagpamertwalan** = Virtual Machine Monitor / Hypervisor
     * *Tagapag-* mirrors the *hyper* because it isnt just the one whose occupation is virtualization (*taga-*) but *the* one (head chef) that does virtualization, even though there is a lot of intersection of *taga-* and *tagapag-*
+* **Tagatawag-Sistema** / **Tagatawag** = Syscall
+* **Pampatagatawag** = Hypercall
+    * *Pampa-* + *Taga-*
+    * Lit. Instrument that causes the one whose occupation is calling
 * **Kernel**
     * As is; pronounciation does heavy lifting
 * **Kernelan** = Kernel Space

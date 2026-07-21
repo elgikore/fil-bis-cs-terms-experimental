@@ -71,6 +71,7 @@
 * **Pagpatalaorasan** = Time Series Analysis
 * **Taladatosan** = Database
     * Tala here uses the "structured/record"-type reading, not just table
+* **Pagpatanan** = Generalization
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
@@ -86,6 +87,11 @@
     * *tig-* (one that does) + *pang-* (instrument) + *him-* (propensity/inclination; to mirror the strengthened *tagapag-* in Filipino)
     * Lit. "One that does (*tig-*) an instrument (*pang-*), where the instrument has the inclination/propensity of virtualizing (*him-*) in a virtual space (*-an*)"
     * Tigpamirtwalan -> Tigpanghibirtwalanan (strengthened with *hi-*) -> Tigpanghimbertwalan -> Tigpanghimertwalan
+* **Tigpatawag-Sistema** / **Tigpatawag** = Syscall
+    * Need extra *pa-* in *tig-* to recreate the same meaning as *taga-* in *tagatawag* in Filipino
+* **Pampatigpatawag** = Hypercall
+    * Ditto (needing extra *pa-* in *tig-*)
+    * Somehow recreates the intense affix stacking of pagkatigpalabaw (haughtiness)
 * **Kernel**
     * As is; pronounciation does heavy lifting
 * **Kernelan** = Kernel Space
