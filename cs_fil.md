@@ -107,7 +107,7 @@
     * As is
 * **Pahinarya** / **Panid** = Webpage
     * Pahinarya already exists
-    * Panid borrowed from Bisaya because it is more broader (pahina = page, panel, arrange)
+    * Panid borrowed from Bisaya because it is more broader (panid = page, panel, arrange)
 * **Tag**
     * As is
 * **Lengwang Pangtag** = Markup Language

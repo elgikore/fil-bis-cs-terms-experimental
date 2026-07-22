@@ -112,8 +112,9 @@
 * **Lengwang Pangtag** = Markup Language
 * **Kalinkanan** = Hypertext
     * Collection reading of *ka- -an*
-* **Lengwang Panlinkanan** = Hypertext Markup Language
-    * No need to specify Markup because it is already implied by lengwa and *pan- -anan*
+* **Lengwang Panlinkanan** / **LP** = Hypertext Markup Language
+    * No need to specify Markup because it is already implied by lengwa and *pan-* + *-anan*
+    * **L**enggwa **P**anlinkanan
 
 
 # Data Science/ML
