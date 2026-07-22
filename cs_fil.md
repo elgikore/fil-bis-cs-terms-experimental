@@ -56,6 +56,27 @@
     * Technically the root sabay already means concurrent/simultaneous but in a computer context, "simultaneity" is an illusion -- it is just CPU switching contexts fast enough that it looks like simultaneous
 * **Pagkakasabayan** / **Pagkakasabay** / **Pagkakaparalel** / **Paralelismo** = Parallelism
 
+# Data Types
+* **Titik** = Character
+    * Also used metaphorically
+* **Titikan** / **Sulat** = String
+    * Titikan (lit. "place of titik") comes from the character array definition of string
+* **Sangbilang** / **Buong-Bilang** / **Inteher** / **Intedyer** = Integer
+    * *Inteher* (Spanish-style transliteration)
+    * *Intedyer* (English-style transliteration)
+    * *Sang-* already carries "wholeness" so buong-bilang can be contracted to sangbilang
+    * By corollary: 
+        * **Sangbilangan** = Real Number / Real Number Line
+        * **Sangmalabilangan** = Imaginary Number / Imaginary Number Line
+* **Bulyan** = Boolean
+    * Transliteration
+* **Listahan** = List
+* **Talahanayan** = Array
+* **Talabilangan** / **Talaan** = Matrix
+* **Sangtalaan** / **Talatalaan** = Multidimensional Array / Multidimensional Matrix / n-Dimensional Array
+* **Talaang Dos por Dos** / **Talabilangang Dos por Dos** / **Dos por Dos** = 2x2 Matrix
+    * Used a common carpentry expression: X por Y
+
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
     * Because it is in discrete phases and no going back

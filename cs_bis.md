@@ -59,6 +59,28 @@
     * *Pagkahi-* to replicate *pagkaka-* in Filipino
     * No need for *hi-* in pagkaparalel because it is understood by context like in English
 
+# Data Types
+* **Titik** = Character
+    * Already used as character in Bisaya
+* **Titikanan** / **Sulat** / **Suwat** = String
+    * Titikanan (lit. "place of titik") comes from the character array definition of string
+* **Sangihap** / **Inteher** / **Intedyer** = Integer
+    * Borrowed from Filipino with some slight adjustments
+    * By corollary: 
+        * **Sangihapan** = Real Number / Real Number Line
+        * **Sanginihapan** = Imaginary Number / Imaginary Number Line (using the reading of "in the style of X" in -in-)
+* **Bulyan** = Boolean
+    * Transliteration
+* **Listahan** = List
+* **Talabahinan** / **Talabahin** = Array
+    * Bahin already means portion and/or element, which fits nicely because arrays are also referred by their elements
+* **Talaihapanan** / **Talaihapan** / **Talaan** = Matrix
+* **Sangtalaan** / **Daktalaan** / **Talatalaan** = Multidimensional Array / Multidimensional Matrix / n-Dimensional Array
+    * Sangtalaan borrowed from Filipino
+    * *Dak-* modeled from dakbayan, dakbalay
+* **Talaang Dos por Dos** / **Talaihapang Dos por Dos** / **Dos por Dos** = 2x2 Matrix
+    * Used a common carpentry expression: X por Y
+
 # Development Process
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
     * Because it is in discrete phases and no going back
