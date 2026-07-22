@@ -98,9 +98,9 @@
 * **Palitan** / **I-palit** = Replace
 * **Seleksyon** = Selection
 * **Tulong** = Help
-* **Setin** = Setting
+* **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
-* **Sansetinan** = Control Panel / Global Setting / System Configuration
+* **Sansetingan** = Control Panel / Global Setting / System Configuration
 
 # Data Types
 * **Titik** = Character

@@ -101,9 +101,9 @@
 * **Ilisdi** / **I-ilis** = Replace
 * **Seleksyon** = Selection
 * **Tabang** = Help
-* **Setin** = Setting
+* **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
-* **Sansetinan** = Control Panel / Global Setting / System Configuration
+* **Sansetingan** = Control Panel / Global Setting / System Configuration
     * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
 
 
