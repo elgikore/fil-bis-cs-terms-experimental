@@ -119,6 +119,9 @@
 * **Manlalaping BPE** / **Tagalangkit** = BPE Tokenizer
 * **Partikula** = Subword
     * Repurposing. Literal "word particle", not grammatical particle
+* **Lapi** = Token
+    * As corollary of pagpapalapi and lapi being used metaphorically (e.g. panlapi)
+    * English already uses token as metaphor anyway, sometimes ambiguously
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
