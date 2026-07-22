@@ -121,7 +121,7 @@
     * Repurposing. Literal "word particle", not grammatical particle
 * **Lapi** = Token
     * As corollary of pagpapalapi and lapi being used metaphorically (e.g. panlapi)
-    * English already uses token as metaphor anyway, sometimes ambiguously
+    * English already uses token as metaphor anyway, sometimes ambiguously since it can mean so many things depending on definition
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
