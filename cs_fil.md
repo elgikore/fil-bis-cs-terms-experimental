@@ -59,6 +59,34 @@
     * *Taga-* + pamahalaan -> Tagapamahalaan -> Tagapamahala 
     * Lit. One whos occupation (*taga-*) is to use an instrument (*pama-*) for managing (pamahala)
 
+# File and Folder System
+* **Payru** = File
+    * Borrowed from Japanese (fairu)
+    * Fairu -> Payru by transliteration
+    * Avoids the awkward "payl" transliteration from English
+    * File and folder are actually very hard to translate even if their functions are so simple
+* **Payruhan** = Folder
+* **Kapayruhan** = Drive / Logical Drive
+* **Sampayruhan** = Physical Drive / HDD / SSD
+* **Pagpapapayruhan** / **Pagpapahati** = Partitioning Process / Partitioning
+    * Uses the more general reading of payruhan (place of files)
+    * Lit. The act of causing places of/for files
+* **Pampapayruhan** = Partition Manager
+    * Uses the more general reading of payruhan (place of files)
+    * Lit. The instrument of causing places of/for files
+* **Pampayru** = File Manager / File Explorer
+    * It's not *-han* because it operates on files at a fundamental level, not *pampa-* because it doesn't cause or create, and also not *taga-*, *tagapag-*, nor *mang-* since it is more of a passive tool 
+* **Sapayru** = Track
+    * Uses the "means to a purpose" reading of *sa-* i.e. means (file) to a purpose (put/record files)
+* **Sapayruhan** = Sector
+    * Uses the "means to a purpose" reading of *sa-* i.e. means (file) to a purpose (put/record files), and "place of X" reading of *-han*
+* **Himayru** = Disk Cleaner / File Cleaner
+    * Yes, I used an apparently unproductive affix today simply because it has the exact "removal or cleaning" reading
+
+> [!NOTE]
+>
+> *Everything really is a file lol*
+
 # Data Types
 * **Titik** = Character
     * Also used metaphorically
@@ -99,6 +127,10 @@
 * **Websayt** = Website
     * Although pook-sapot exists, it scales badly, especially when many internet terms starts with web
 * **Sangwebsaytan** = World Wide Web
+* **Pampawebsayt** = Web Browser
+    * Though panginain exists, this just makes sense
+    * Specifically for web browser, not a general browser
+    * Lit. Instrument that causes a website
 * **Bahayan** = Homepage
     * Analogue to Bisaya's balayan as homepage
 * **Kawing** / **Link** = Link / Hyperlink

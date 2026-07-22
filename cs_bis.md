@@ -62,6 +62,35 @@
     * *Tig-* + *pang-* + dumala
     * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for administering/managing (dumala)
 
+# File and Folder System
+* **Payru** = File
+    * Borrowed from Japanese (fairu)
+    * Fairu -> Payru by transliteration
+    * Avoids the awkward "payl" transliteration from English
+    * File and folder are actually very hard to translate even if their functions are so simple
+* **Payruhan** = Folder
+* **Kapayruhan** = Drive / Logical Drive
+* **Sampayruhan** = Physical Drive / HDD / SSD
+    * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
+* **Pagpapayruhan** / **Pagpabahin** = Partitioning Process / Partitioning
+    * Uses the more general reading of payruhan (place of files)
+    * Lit. The act of causing places of/for files
+* **Pampapayruhan** = Partition Manager
+    * Uses the more general reading of payruhan (place of files)
+    * Lit. The instrument of causing places of/for files
+* **Pampayru** = File Manager / File Explorer
+    * It's not *-han* because it operates on files at a fundamental level, not *pampa-* because it doesn't cause or create, and also not *taga-*, *tagapag-*, nor *mang-* since it is more of a passive tool 
+* **Himpayru** = Track
+    * Uses the "propensity" meaning of *him-*/*hing-*, the natural propensity that a file is stored on a disk
+* **Himpayruhan** = Sector
+    * Uses the "place of X" reading of *-han*
+* **Payruhang Panglimpyo** = Disk Cleaner / File Cleaner
+
+
+> [!NOTE]
+>
+> *Everything really is a file lol*
+
 # Data Types
 * **Titik** = Character
     * Already used as character in Bisaya
@@ -100,6 +129,9 @@
 * **Websayt** = Website
 * **Kawebsaytan** = World Wide Web
     * Modeled from katawhan (humanity), kapupud-an (archipelago), etc.
+* **Pampawebsayt** = Web Browser
+    * Specifically for web browser, not a general browser
+    * Lit. Instrument that causes a website
 * **Balayan** = Homepage
     * Already exists; just that it needs disambiguation because it shares meanings with website and homepage
 * **Link** / **Linkanan** = Link / Hyperlink
