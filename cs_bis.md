@@ -115,6 +115,12 @@
 * **Lengwang Panlinkanan** / **LP** = Hypertext Markup Language
     * No need to specify Markup because it is already implied by lengwa and *pan-* + *-anan*
     * **L**enggwa **P**anlinkanan
+* **E-suwat** / **E-sulat** = Email
+    * Pun of i-sulat/i-suwat
+    * Same as Filipino
+* **E-palit** / **E-palitanan** = E-commerce
+    * Pun of i-palit and i-palitanan
+    * Use e-palitanan if you want to emphasize the commerce side
 
 
 # Data Science/ML

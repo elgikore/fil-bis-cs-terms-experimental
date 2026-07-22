@@ -116,6 +116,12 @@
 * **Lengwang Pangkawingan** / **Lengwang Panlinkan** / **LP** = Hypertext Markup Language
     * No need to specify Markup because it is already implied by lengwa and *pan- -an*/*pang- -an*
     * **L**enggwa **P**angkawingan/Panlinkan
+* **E-sulat** = Email
+    * Pun of i-sulat, even if sulatroniko exists
+    * Heard it from Reddit
+* **E-bili** / **E-bilihan** = E-commerce
+    * Pun of i-bili and i-bilihan
+    * Use e-bilihan if you want to emphasize the commerce side
 
 # Data Science/ML
 * **Datos** = Data
