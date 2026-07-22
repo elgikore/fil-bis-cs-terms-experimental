@@ -92,8 +92,17 @@
 * **Pamertwalan** = Virtual Machine
     * Modeled from pamilihan (marketplace)
     * Pambirtwalan -> Pamirtwalan -> Pamertwalan 
-* **Tagapagpamertwalan** = Virtual Machine Monitor / Hypervisor
+* **Tagapagpamertwal** = Virtual Machine Monitor / Hypervisor
     * *Tagapag-* mirrors the *hyper* because it isnt just the one whose occupation is virtualization (*taga-*) but *the* one (head chef) that does virtualization, even though there is a lot of intersection of *taga-* and *tagapag-*
+    * Tagapagpamertwalan -> Tagapagpamertwal
+* **Tagapagmanloob** = Hyperjacker
+    * Natural mirror of tagapagpamertwalan
+    * From simplification: Tagapagpamanloloob -> Tagapagmanloob
+    * Manloob here can read literally i.e. "the practice of going inside" or metaphorically like in the original word (the act of seizing/pillaging)
+* **Pagpapaloob sa Mamertwal** / **Pagpapamanloob** = Hyperjacking
+    * *Tagapag-* inverts to *mang-* because you are looking from the outside in (3rd person POV), at least that is how I interpret the difference between *mang-*, *taga-*, and *tagapag-*
+    * Simplification or the full name: Tagapagpamertwalan -> Mamemertwalan (POV shift as regular worker) -> Mamemertwal -> Mamertwal (from interaction of Pagpapaloob, and wording already implies a hypervisor being targeted)
+    * The short form needs *manloob* to disambiguate. Lit. The continuous action of manloob
 * **Tagatawag-Sistema** / **Tagatawag** = Syscall
 * **Pampatagatawag** = Hypercall
     * *Pampa-* + *Taga-*
