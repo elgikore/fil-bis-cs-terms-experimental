@@ -27,11 +27,11 @@
 * **PA** / **Paadelantado** / **Pagpaadelantado** / **Pagpaadelantadong Kompila** = Ahead-of-Time Compilation / AOT
     * Adelantado literally means "ahead of time"
     * **PA** = **P**a**a**delantado
-* **Lenggwa** = Language
-    * Borrowed from Filipino since Bisaya has the long form (lenggwahe)
+* **Lengwa** = Language
+    * Borrowed from Filipino since Bisaya has the long form (Lengwahe)
     * Also avoids clasing with *pinulongan*, which usually refers to spoken language
-* **Lenggwang Kinompila** = Compiled Language
-* **Lenggwang Ininterpreta** = Interpreted Language
+* **Lengwang Kinompila** = Compiled Language
+* **Lengwang Ininterpreta** = Interpreted Language
     * Surprisingly *interpreta* is not common on Filipino dictionaries but is present in Bisaya
 * **Tiginterpreta** = Interpreter
 * **Talaan** = Spreadsheet
@@ -96,6 +96,26 @@
     * *Pakatap* = Deploy (lit. to cause a spread out)
 * **Pagpatigman-katap** = Continuous Integeration and Continuous Deployment/Delivery
 
+# Internet
+* **Websayt** = Website
+* **Kawebsaytan** = World Wide Web
+    * Modeled from katawhan (humanity), kapupud-an (archipelago), etc.
+* **Balayan** = Homepage
+    * Already exists; just that it needs disambiguation because it shares meanings with website and homepage
+* **Link** / **Linkanan** = Link / Hyperlink
+    * Root spelling as is
+* **Internet**
+    * Though dagitpukot exists, it also scales badly since dagit-/dagitab is more on electricity
+* **Panid** = Page / Webpage
+* **Tag**
+    * As is
+* **Lengwang Pangtag** = Markup Language
+* **Kalinkanan** = Hypertext
+    * Collection reading of *ka- -an*
+* **Lengwang Panlinkanan** = Hypertext Markup Language
+    * No need to specify Markup because it is already implied by lengwa and *pan- -anan*
+
+
 # Data Science/ML
 * **Datos** = Data
 * **Datosan** = Dataset
@@ -111,6 +131,10 @@
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
     * No need for full-word pinulongan (language) because its understood by context (metonymy)
+* **Modelong Dakpulongan** / **Dakpulongan** = Large Language Model
+    * *Dak-* (e.g. dakbayan, dakbalay) + pulong + *-an*
+    * Interaction of *dak-* overrides the meaning of pulongan (phrase) and gets interpreted as a generic "place of words/pulong"
+* **Pagpoproseso ng Dakpulongan** = Large Language Processing
 * **Pagpalanggikit** = Tokenization
     * Using langgikit (affix) as metaphor since after tokenization, the result looks like abritrary affixes that can combine and recombine
 * **Tiglanggikit** / **Manglanggikitay** = Tokenizer

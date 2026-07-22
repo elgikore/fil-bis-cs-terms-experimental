@@ -25,10 +25,10 @@
 * **PA** / **Paadelantado** / **Pagpapaadelantado** / **Pagpapaadelantadong Kompila** = Ahead-of-Time Compilation / AOT
     * Adelantado literally means "ahead of time"
     * **PA** = **P**a**a**delantado
-* **Lenggwa** = Language
+* **Lengwa** = Language
     * To avoid clashing with *wika*, which usually refers to spoken language
-* **Lenggwang Kinompila** = Compiled Language
-* **Lenggwang Ininterpreta** = Interpreted Language
+* **Lengwang Kinompila** = Compiled Language
+* **Lengwang Ininterpreta** = Interpreted Language
     * Surprisingly *interpreta* is not common on Filipino dictionaries even if it is used IRL
 * **Tagainterpreta** = Interpreter
 * **Talaan** = Spreadsheet
@@ -95,6 +95,27 @@
 * **Pagpapatigman-katap** = Continuous Integeration and Continuous Deployment/Delivery
     * Ditto (borrowing)
 
+# Internet
+* **Websayt** = Website
+    * Although pook-sapot exists, it scales badly, especially when many internet terms starts with web
+* **Sangwebsaytan** = World Wide Web
+* **Bahayan** = Homepage
+    * Analogue to Bisaya's balayan as homepage
+* **Kawing** / **Link** = Link / Hyperlink
+    * Already exists
+* **Internet**
+    * As is
+* **Pahinarya** / **Panid** = Webpage
+    * Pahinarya already exists
+    * Panid borrowed from Bisaya because it is more broader (pahina = page, panel, arrange)
+* **Tag**
+    * As is
+* **Lengwang Pangtag** = Markup Language
+* **Kakawingan** / **Kalinkan** = Hypertext
+    * Larger location reading of *ka- -an*
+* **Lengwang Pangkawingan** / **Lengwang Panlinkan** = Hypertext Markup Language
+    * No need to specify Markup because it is already implied by lengwa and *pan- -an*/*pang- -an*
+
 # Data Science/ML
 * **Datos** = Data
 * **Datosan** = Dataset
@@ -108,6 +129,9 @@
 
 # Deep Learning
 * **Pagpoproseso ng Wika** = Natural Language Processing
+* **Modelong Sangwikaan** / **Sangwikaan** = Large Language Model
+    * Large is already absorbed by *sang- -an*
+* **Pagpoproseso ng Sangwikaan** = Large Language Processing
 * **Pagpapalapi** = Tokenization
     * Using panlapi (affix) as metaphor since after tokenization, the result looks like abritrary affixes that can combine and recombine
         * Also, panlapi by itself is already a metaphor, sice lapi (root) literally means 1/4
