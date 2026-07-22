@@ -113,8 +113,9 @@
 * **Lengwang Pangtag** = Markup Language
 * **Kakawingan** / **Kalinkan** = Hypertext
     * Larger location reading of *ka- -an*
-* **Lengwang Pangkawingan** / **Lengwang Panlinkan** = Hypertext Markup Language
+* **Lengwang Pangkawingan** / **Lengwang Panlinkan** / **LP** = Hypertext Markup Language
     * No need to specify Markup because it is already implied by lengwa and *pan- -an*/*pang- -an*
+    * **L**enggwa **P**angkawingan/Panlinkan
 
 # Data Science/ML
 * **Datos** = Data
