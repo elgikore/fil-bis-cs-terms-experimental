@@ -111,6 +111,18 @@
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
     * No need for full-word pinulongan (language) because its understood by context (metonymy)
+* **Pagpalanggikit** = Tokenization
+    * Using langgikit (affix) as metaphor since after tokenization, the result looks like abritrary affixes that can combine and recombine
+* **Tiglanggikit** / **Manglanggikitay** = Tokenizer
+    * Manglanggikitay only works as a standalone word as I observed
+* **Tiglangkit** = Byte-Pair Encoding
+    * Chosen because langkit (join two pieces at the edge) and BPE merges frequent pairs
+    * Found langkit after wanting to simplify langgikit e.g. langgikit -> langkit (remove "gi"). Wouldn't be surprised if langgikit came from langkit
+* **Tiglanggikitang BPE** / **Tiglangkit** = BPE Tokenizer
+* **Punggamay** = Subword
+    * Pung (variant of pulong) + gamay
+    * Mirrors punglihok (verb), pungway (adjective), etc.
+
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization

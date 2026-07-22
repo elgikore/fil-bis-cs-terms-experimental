@@ -108,6 +108,17 @@
 
 # Deep Learning
 * **Pagpoproseso ng Wika** = Natural Language Processing
+* **Pagpapalapi** = Tokenization
+    * Using panlapi (affix) as metaphor since after tokenization, the result looks like abritrary affixes that can combine and recombine
+        * Also, panlapi by itself is already a metaphor, sice lapi (root) literally means 1/4
+    * Pagpapapanlapi -> Pagpapalapi (by simplification)
+* **Manlalapi** / **Tagalapi** = Tokenizer
+    * Tagalapi only works as a standalone word as I observed
+* **Tagalangkit** = Byte-Pair Encoding
+    * Borrowed from Bisaya and slightly modified
+* **Manlalaping BPE** / **Tagalangkit** = BPE Tokenizer
+* **Partikula** = Subword
+    * Repurposing. Literal "word particle", not grammatical particle
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
