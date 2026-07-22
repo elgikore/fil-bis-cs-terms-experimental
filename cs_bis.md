@@ -62,7 +62,7 @@
     * *Tig-* + *pang-* + dumala
     * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for administering/managing (dumala)
 
-# File and Folder System
+# File, Folder System, and Common Commands
 * **Payru** = File
     * Borrowed from Japanese (fairu)
     * Fairu -> Payru by transliteration
@@ -86,10 +86,27 @@
     * Uses the "place of X" reading of *-han*
 * **Payruhang Panglimpyo** = Disk Cleaner / File Cleaner
 
-
 > [!NOTE]
 >
 > *Everything really is a file lol*
+
+* **Balika** / **Ibalik** = Undo
+* **Usba** / **I-usab** = Redo
+* **Abliha** / **I-abli** = Open (File/Folder)
+* **Kopyaha** / **Ikopya** = Copy
+* **Butanga** / **Ibutang** = Paste
+* **Hiwa-a** / **Ihiwa** = Cut
+    * Better than putol or tanggal since hiwa can imply getting a small piece after cutting and not necessarily discarding it right away
+* **Pangita-a** / **I-pangita** = Find
+* **Ilisdi** / **I-ilis** = Replace
+* **Seleksyon** = Selection
+* **Tabang** = Help
+* **Setin** = Setting
+    * Setting is used broadly in Filipino, its more closer to configuration
+* **Sansetinan** = Control Panel / Global Setting / System Configuration
+    * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
+
+
 
 # Data Types
 * **Titik** = Character

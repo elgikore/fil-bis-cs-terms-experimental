@@ -59,7 +59,7 @@
     * *Taga-* + pamahalaan -> Tagapamahalaan -> Tagapamahala 
     * Lit. One whos occupation (*taga-*) is to use an instrument (*pama-*) for managing (pamahala)
 
-# File and Folder System
+# File, Folder System, and Common Commands
 * **Payru** = File
     * Borrowed from Japanese (fairu)
     * Fairu -> Payru by transliteration
@@ -86,6 +86,21 @@
 > [!NOTE]
 >
 > *Everything really is a file lol*
+
+* **Balikan** / **Ibalik** = Undo
+* **Ulitin** / **I-ulit** = Redo
+* **Buksan** / **Ibukas** = Open (File/Folder)
+* **Kopyahin** / **Ikopya** = Copy
+* **Lagyan** / **Ilagay** = Paste
+* **Hiwain** / **I-hiwa** = Cut
+    * Better than putol or tanggal since hiwa can imply getting a small piece after cutting and not necessarily discarding it right away
+* **Hanapin** / **I-hanap** = Find
+* **Palitan** / **I-palit** = Replace
+* **Seleksyon** = Selection
+* **Tulong** = Help
+* **Setin** = Setting
+    * Setting is used broadly in Filipino, its more closer to configuration
+* **Sansetinan** = Control Panel / Global Setting / System Configuration
 
 # Data Types
 * **Titik** = Character
