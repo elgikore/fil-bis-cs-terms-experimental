@@ -157,3 +157,6 @@
     * Used the *hi-*/*hing-* to replicate *pagsasa-* in Bisaya; also, it fits because it is a inclination or propensity of CPU to switch to context when the process is interrupted or preempted
 * **Pagpahimemorya** = Direct Memory Access
     * Used the *hi-*/*hing-* to replicate *pagsasa-* in Bisaya; and it fits because it is not a one time request but an inclination to request memory
+* **Pagpabalhin** = Cold Migration
+* **Pagpabalhin-balhinon** / **Pagpabalhin-balhin** = Live Migration
+* **Aksesibilidad nga Lig-on** / **Lig-on** = High Availability

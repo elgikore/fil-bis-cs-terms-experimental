@@ -156,3 +156,6 @@
 * **Pagsasamakamemorya** = Direct Memory Access
     * Modeled from samakatuwid (therefore) breakdown: *sa-* + makatuwid (to be able to straighten); and *maka-* focuses on the actor, and the potentiality/be able to do on the root word
     * *Pagsasa-* implies requesting again and again, not just once
+* **Pagpalipatan** / **Pagpalipat** = Cold Migration
+* **Pagsasalipatan** / **Pagpapalipatan** = Live Migration
+* **Mataas na Aksesibilidad** / **Matibay** = High Availability
