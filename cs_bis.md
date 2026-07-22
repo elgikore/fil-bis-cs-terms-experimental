@@ -58,6 +58,9 @@
 * **Pagkahinungan** / **Pagkahinabay** / **Pagkaparalel** / **Paralelismo** = Parallelism
     * *Pagkahi-* to replicate *pagkaka-* in Filipino
     * No need for *hi-* in pagkaparalel because it is understood by context like in English
+* **Tigpangdumala** = Task Manager
+    * *Tig-* + *pang-* + dumala
+    * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for administering/managing (dumala)
 
 # Data Types
 * **Titik** = Character
@@ -104,6 +107,10 @@
 * **Taladatosan** = Database
     * Tala here uses the "structured/record"-type reading, not just table
 * **Pagpatanan** = Generalization
+
+# Deep Learning
+* **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
+    * No need for full-word pinulongan (language) because its understood by context (metonymy)
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization

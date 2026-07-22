@@ -55,6 +55,9 @@
     * *Mala-* (-ish) + *pagsabay* (act of simultaneity) + *-an* (on a place; verb reading of -an)
     * Technically the root sabay already means concurrent/simultaneous but in a computer context, "simultaneity" is an illusion -- it is just CPU switching contexts fast enough that it looks like simultaneous
 * **Pagkakasabayan** / **Pagkakasabay** / **Pagkakaparalel** / **Paralelismo** = Parallelism
+* **Tagapamahala** = Task Manager
+    * *Taga-* + pamahalaan -> Tagapamahalaan -> Tagapamahala 
+    * Lit. One whos occupation (*taga-*) is to use an instrument (*pama-*) for managing (pamahala)
 
 # Data Types
 * **Titik** = Character
@@ -102,6 +105,9 @@
 * **Taladatosan** = Database
     * Tala here uses the "structured/record"-type reading, not just table
 * **Pagpapalahat** = Generalization
+
+# Deep Learning
+* **Pagpoproseso ng Wika** = Natural Language Processing
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
