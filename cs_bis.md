@@ -82,11 +82,15 @@
     * Lit. "One that does (*tig-*) an instrument (*pang-*), where the instrument has the inclination/propensity of processing (*hin-*)"
     * I did it like this because *tig-* is too broad and *pang-* without *hi-* doesn't encompass the all-rounding autonomy and automaticity of processes
     * Sipiyu is a transliteration of CPU
+* **Dyipiyu** / **Jipiyu** / **Tigpanghiprosesong Pang-grapiko** = Graphics Processing Unit / GPU
+    * Ditto (reason why *tigpanghi-* is used)
+    * Jipiyu is a modern style transliteration of GPU and Dyipiyu is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
 * **Sipiyuhan** / **Sipiyu** = Tower Case / CPU
     * Mirrors real life
 * **Sangprosesohan** / **Kasipiyu** = Motherboard
     * Natural pair of CPU (*ka-* companion reading)
     * Sangprosesohan borrowed from Filipino since it is not just a bigger scale like *dak-*
+* **Tig-imprenta** = Printer
 
 # File, Folder System, and Common Commands
 * **Payru** = File

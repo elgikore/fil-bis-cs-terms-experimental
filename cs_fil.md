@@ -77,11 +77,15 @@
 * **Katerminalan** = Terminal Environment (e.g. `tmux`)
 * **Sipiyu** / **Tagapagprosesong Panguna** = Central Processing Unit / CPU
     * Sipiyu is a transliteration of CPU
+* **Dyipiyu** / **Jipiyu** / **Tagapagprosesong Pang-grapiko** = Graphics Processing Unit / GPU
+    * Jipiyu is a modern style transliteration of GPU and Dyipiyu is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
 * **Sipiyuhan** / **Sipiyu** = Tower Case / CPU
     * Mirrors real life
 * **Sangprosesohan** / **Kasipiyu** = Motherboard
     * Natural pair of CPU (*ka-* companion reading)
     * Mirrors how guni (mind) became sanggunian out of a simple root
+* **Tagaimprenta** = Printer
+
 
 # File, Folder System, and Common Commands
 * **Payru** = File
