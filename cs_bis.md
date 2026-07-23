@@ -65,7 +65,12 @@
     * As is
 * **Deskta** / **Deska** = Desktop
     * Transliteration
+* **Desktahanan** / **Deskahanan** = Virtual Desktop
 * **Kadesktahan** / **Kadeskahan** = Desktop Environment
+* **Windo** = Window
+    * Transliteration; bintana doesn't really scale well
+* **Tigpangwindo** = Window Manager (e.g. Hyprland, XFCE, KWin)
+    * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for windows (windo)
 
 # File, Folder System, and Common Commands
 * **Payru** = File
@@ -107,8 +112,8 @@
 * **Tanggala** / **I-tangal** = Delete
 * **Seleksyon** = Selection
 * **Tabang** = Help
-* **Atras** = Previous (Navigation)
-* **Sunod** = Next (Navigation)
+* **Atras** = Previous (Navigation Button)
+* **Sunod** = Next (Navigation Button)
 * **Mosaka** / **Saka** = Up (as in go up one folder)
 * **Mobaba** / **Monaog** / **Naog** / **Baba** = Down (as in go down one folder)
     * Baba (from Filipino) is very common
