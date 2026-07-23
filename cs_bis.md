@@ -93,6 +93,30 @@
 * **Tig-imprenta** = Printer
 * **Sinalagmang Pagpahimemorya** / **Pagpahimemomemorya** / **Memorya** / **RAM** = Random Access Memory / RAM
     * Lit. of Pagpahimemomemorya = The act of causing (*pagpa-*) a propensity for memory or requesting memory (*hi-*) at a really fast rate (memomemorya) or can be interpreted as randomly 
+* **Pisa** = Bit
+    * Keeps the English pun (bit and bite) and preserve meaning (piece)
+    * Variant of piyesa in Bisaya
+* **Pyesa** = Byte
+    * Keeps the English pun (bit and bite) and preserve meaning (piece), and the orthographic change (bite -> byte; piyesa -> pyesa)
+    * Pyesa is also a common variant
+* **Pyesa-Libo** = Kilobyte
+    * Counting semantics (libo = 1000)
+* **Pyesa-Yukot** = Megabyte
+    * Archaic form of milyon (yukot) to mirror Greek prefixing; from [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
+* **Pyesa-Wakat** = Gigabyte
+    * Archaic form of billion (wakat) to mirror Greek prefixing; from [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
+* **Pyesa-Ipaw** = Terabyte
+    * Borrowed ipaw (trillion) from Filipino to mirror Greek prefixing since there is no equivalent; from [https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers](https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers)
+* **Pyesa-Liboipaw** = Petabyte
+    * Libo + ipaw
+* **Pyesa-Yukoipaw** = Exabyte
+    * Yukot + ipaw
+    * Yukotipaw -> Yukoipaw by smoothing 
+* **Pyesa-Wakaipaw** = Zettabyte
+    * Wakat + ipaw
+    * Wakatipaw -> Wakaipaw by smoothing 
+* **Pyesa-Ipawipaw** = Yottabyte
+    * Ipaw * Ipaw
 
 
 # File, Folder System, and Common Commands

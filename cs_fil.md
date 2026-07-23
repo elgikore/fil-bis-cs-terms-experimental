@@ -88,6 +88,28 @@
 * **Sinalagmang Pagsasamemorya** / **Pagsasamemomemorya** / **Memorya** / **RAM** = Random Access Memory / RAM
     * Sinalagma is borrowed from Bisaya (random; from root salagma = by chance) since Filipino lacks a dedicated term for randomness, not just disorderliness, or sapalaran
     * Lit. of Pagsasamemomemorya = The act (*pag-*) of doing a method for memory continuously (*sasa-*) and at a really fast rate (memomemorya) or can be interpreted as randomly 
+* **Pisa** = Bit
+    * Keeps the English pun (bit and bite) and preserve meaning (piece)
+    * Variant of piyesa in Bisaya
+* **Pyesa** = Byte
+    * Keeps the English pun (bit and bite) and preserve meaning (piece), and the orthographic change (bite -> byte; piyesa -> pyesa)
+    * Pyesa is also a common variant
+* **Pyesa-Libo** = Kilobyte
+    * Counting semantics (libo = 1000)
+* **Pyesa-Angaw** = Megabyte
+    * Archaic form of milyon (angaw) to mirror Greek prefixing
+* **Pyesa-Atos** = Gigabyte
+    * Used atos to mirror Greek prefixing; from [https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers](https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers)
+* **Pyesa-Ipaw** = Terabyte
+    * Used ipaw to mirror Greek prefixing; from [https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers](https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers)
+* **Pyesa-Liboipaw** = Petabyte
+    * Libo + ipaw
+* **Pyesa-Angawipaw** = Exabyte
+    * Angaw + ipaw
+* **Pyesa-Atosipaw** = Zettabyte
+    * Atos + ipaw
+* **Pyesa-Ipawipaw** = Yottabyte
+    * Ipaw * Ipaw
 
 
 # File, Folder System, and Common Commands
