@@ -110,7 +110,21 @@
     * Atos + ipaw
 * **Pyesa-Ipawipaw** = Yottabyte
     * Ipaw * Ipaw
-
+* **Tigalawa** = Binary
+    * Used a variant of tig-dalawa
+* **Tigatlo** = Ternary
+    * Used a variant of tig-tatlo
+* **Tigesisais** / **Tigesais** = Hexadecimal
+    * *Tig-* + dyesesais -> Tigdyesesais -> Tigesisais (by common fusion from variants) -> Tigesais (by simplification)
+* **Sai** = Sign (Floating-pt.)
+    * Transliterated
+* **Lab-a** / **Eksponen** / **Ekspone** = Exponent (Floating-pt.)
+    * From lab-a (exponent) in Bisaya: [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
+    * Eksponen / Ekspone is transliterated from English
+* **Sikapisa** = Mantissa (Floating-pt.)
+    * *Sika-* (prefix for denominators; borrowed from Bisaya) + pisa
+        * This is because it always refer to the fractional bit in IEEE-754 visualizations
+    * Modeled from [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika) and [https://en.wiktionary.org/wiki/sikatulo#Cebuano](https://en.wiktionary.org/wiki/sikatulo#Cebuano)
 
 # File, Folder System, and Common Commands
 * **Payru** = File

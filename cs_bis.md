@@ -117,6 +117,21 @@
     * Wakatipaw -> Wakaipaw by smoothing 
 * **Pyesa-Ipawipaw** = Yottabyte
     * Ipaw * Ipaw
+* **Tagduha** = Binary
+* **Tagtres** / **Tagres** = Ternary
+    * Tagtres -> Tagres (by simplification)
+* **Tagesisais** / **Tagesais** = Hexadecimal
+    * *Tag-* + dyesesais -> Tagdyesesais -> Tagesisais (by common fusion from some variants) -> Tagesais (by simplification)
+* **Sai** = Sign (Floating-pt.)
+    * Transliterated
+* **Lab-a** / **Eksponen** / **Ekspone** = Exponent (Floating-pt.)
+    * From lab-a (exponent): [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
+    * Eksponen / Ekspone is transliterated from English
+* **Sikapisa** = Mantissa (Floating-pt.)
+    * *Sika-* (prefix for denominators) + pisa
+        * This is because it always refer to the fractional bit in IEEE-754 visualizations
+    * Modeled from [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika) and [https://en.wiktionary.org/wiki/sikatulo#Cebuano](https://en.wiktionary.org/wiki/sikatulo#Cebuano)
+
 
 
 # File, Folder System, and Common Commands
