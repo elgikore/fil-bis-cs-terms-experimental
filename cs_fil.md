@@ -116,7 +116,7 @@
 
 > [!NOTE]
 >
-> *Everything really is a file lol. It really feels like using a Builder/Decorator/Fluent pattern for the defivations of payru.*
+> *Everything really is a file lol. It really feels like using a Builder/Decorator/Fluent pattern for the derivations of payru.*
 
 * **Balikan** / **Ibalik** = Undo
 * **Ulitin** / **I-ulit** = Redo
