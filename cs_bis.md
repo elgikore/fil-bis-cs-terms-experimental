@@ -77,6 +77,16 @@
     * Dubug ultimately means fixing
 * **Terminal nga Pampaayo** / **Terminal-Pampaayo** = Debugging Console
 * **Katerminalan** = Terminal Environment (e.g. `tmux`)
+* **Sipiyu** / **Tigpanghiprosesong Panguna** = Central Processing Unit / CPU
+    * *tig-* (one that does) + *pang-* (instrument) + *hi-* (propensity/inclination; to mirror the strengthened *tagapag-* in Filipino)
+    * Lit. "One that does (*tig-*) an instrument (*pang-*), where the instrument has the inclination/propensity of processing (*hin-*)"
+    * I did it like this because *tig-* is too broad and *pang-* without *hi-* doesn't encompass the all-rounding autonomy and automaticity of processes
+    * Sipiyu is a transliteration of CPU
+* **Sipiyuhan** / **Sipiyu** = Tower Case / CPU
+    * Mirrors real life
+* **Sangprosesohan** / **Kasipiyu** = Motherboard
+    * Natural pair of CPU (*ka-* companion reading)
+    * Sangprosesohan borrowed from Filipino since it is not just a bigger scale like *dak-*
 
 # File, Folder System, and Common Commands
 * **Payru** = File

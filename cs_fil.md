@@ -75,6 +75,13 @@
     * Dubug ultimately means fixing
 * **Terminal na Pampaayos** / **Terminal-Pampaayos** = Debugging Console
 * **Katerminalan** = Terminal Environment (e.g. `tmux`)
+* **Sipiyu** / **Tagapagprosesong Panguna** = Central Processing Unit / CPU
+    * Sipiyu is a transliteration of CPU
+* **Sipiyuhan** / **Sipiyu** = Tower Case / CPU
+    * Mirrors real life
+* **Sangprosesohan** / **Kasipiyu** = Motherboard
+    * Natural pair of CPU (*ka-* companion reading)
+    * Mirrors how guni (mind) became sanggunian out of a simple root
 
 # File, Folder System, and Common Commands
 * **Payru** = File
