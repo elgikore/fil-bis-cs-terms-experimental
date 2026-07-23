@@ -68,6 +68,13 @@
     * Transliteration; bintana doesn't really scale well
 * **Tagapangwindo** = Window Manager (e.g. Hyprland, XFCE, KWin)
     * Lit. One whos occupation (*taga-*) is to use an instrument (*pama-*) for windows (windo)
+* **Konsol** / **Terminal** = Console / Terminal
+* **Sipyat** / **Bug** = Bug
+    * Sipyat borrowed from Bisaya (mistake, miss)
+* **Pagsasaayos** = Debug
+    * Dubug ultimately means fixing
+* **Terminal na Pampaayos** / **Terminal-Pampaayos** = Debugging Console
+* **Katerminalan** = Terminal Environment (e.g. `tmux`)
 
 # File, Folder System, and Common Commands
 * **Payru** = File

@@ -71,6 +71,12 @@
     * Transliteration; bintana doesn't really scale well
 * **Tigpangwindo** = Window Manager (e.g. Hyprland, XFCE, KWin)
     * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for windows (windo)
+* **Konsol** / **Terminal** = Console / Terminal
+* **Sipyat** / **Bug** = Bug
+* **Pagpaayo** = Debug
+    * Dubug ultimately means fixing
+* **Terminal nga Pampaayo** / **Terminal-Pampaayo** = Debugging Console
+* **Katerminalan** = Terminal Environment (e.g. `tmux`)
 
 # File, Folder System, and Common Commands
 * **Payru** = File
