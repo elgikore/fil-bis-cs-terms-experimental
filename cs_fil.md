@@ -58,6 +58,11 @@
 * **Tagapamahala** = Task Manager
     * *Taga-* + pamahalaan -> Tagapamahalaan -> Tagapamahala 
     * Lit. One whos occupation (*taga-*) is to use an instrument (*pama-*) for managing (pamahala)
+* **Tab**
+    * As is
+* **Deskta** / **Deska** = Desktop
+    * Transliteration
+* **Kadesktahan** / **Kadeskahan** = Desktop Environment
 
 # File, Folder System, and Common Commands
 * **Payru** = File

@@ -61,6 +61,11 @@
 * **Tigpangdumala** = Task Manager
     * *Tig-* + *pang-* + dumala
     * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for administering/managing (dumala)
+* **Tab**
+    * As is
+* **Deskta** / **Deska** = Desktop
+    * Transliteration
+* **Kadesktahan** / **Kadeskahan** = Desktop Environment
 
 # File, Folder System, and Common Commands
 * **Payru** = File
