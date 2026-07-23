@@ -189,6 +189,15 @@
         * **Sanginihapan** = Imaginary Number / Imaginary Number Line (using the reading of "in the style of X" in -in-)
 * **Bulyan** = Boolean
     * Transliteration
+* **Duhati** / **Duhatiang-32** = Float
+    * Duha (Bisaya) + Hati (Filipino)
+    * Because of powers of halves
+* **Hatiduha** / **Duhatiang-16** = Half
+    * Root reversal method from Filipino slang to change directionality/meaning
+* **Hatitunga** / **Duhatiang-64**  = Double
+    * Hati (Filipino) + Tunga (Bisaya)
+    * Lit. Half and Half
+    * Basically 1 Float (hati) + 1 Float (tunga) = Double, and keeping the powers of halves metaphor
 * **Listahan** = List
 * **Talabahinan** / **Talabahin** = Array
     * Bahin already means portion and/or element, which fits nicely because arrays are also referred by their elements

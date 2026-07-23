@@ -177,6 +177,16 @@
         * **Sangmalabilangan** = Imaginary Number / Imaginary Number Line
 * **Bulyan** = Boolean
     * Transliteration
+* **Duhati** / **Duhatiang-32** = Float
+    * Duha (Bisaya) + Hati (Filipino)
+    * Because of powers of halves
+* **Hatiduha** / **Duhatiang-16** = Half
+    * Root reversal method from Filipino slang to change directionality/meaning
+* **Hatitunga** / **Duhatiang-64**  = Double
+    * Hati (Filipino) + Tunga (Bisaya)
+    * Lit. Half and Half
+    * Basically 1 Float (hati) + 1 Float (tunga) = Double, and keeping the powers of halves metaphor
+    * Though tunga means arrival in Filipino, it is so uncommon, since dating (to arrive) is pretty much used
 * **Listahan** = List
 * **Talahanayan** = Array
 * **Talabilangan** / **Talaan** = Matrix
