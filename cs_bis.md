@@ -91,6 +91,9 @@
     * Natural pair of CPU (*ka-* companion reading)
     * Sangprosesohan borrowed from Filipino since it is not just a bigger scale like *dak-*
 * **Tig-imprenta** = Printer
+* **Sinalagmang Pagpahimemorya** / **Pagpahimemomemorya** / **Memorya** / **RAM** = Random Access Memory / RAM
+    * Lit. of Pagpahimemomemorya = The act of causing (*pagpa-*) a propensity for memory or requesting memory (*hi-*) at a really fast rate (memomemorya) or can be interpreted as randomly 
+
 
 # File, Folder System, and Common Commands
 * **Payru** = File
@@ -118,7 +121,7 @@
 
 > [!NOTE]
 >
-> *Everything really is a file lol*
+> *Everything really is a file lol. It really feels like using a Builder/Decorator/Fluent pattern for the defivations of payru.*
 
 * **Balika** / **Ibalik** = Undo
 * **Usba** / **I-usab** = Redo

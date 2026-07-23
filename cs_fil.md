@@ -85,6 +85,9 @@
     * Natural pair of CPU (*ka-* companion reading)
     * Mirrors how guni (mind) became sanggunian out of a simple root
 * **Tagaimprenta** = Printer
+* **Sinalagmang Pagsasamemorya** / **Pagsasamemomemorya** / **Memorya** / **RAM** = Random Access Memory / RAM
+    * Sinalagma is borrowed from Bisaya (random; from root salagma = by chance) since Filipino lacks a dedicated term for randomness, not just disorderliness, or sapalaran
+    * Lit. of Pagsasamemomemorya = The act (*pag-*) of doing a method for memory continuously (*sasa-*) and at a really fast rate (memomemorya) or can be interpreted as randomly 
 
 
 # File, Folder System, and Common Commands
@@ -113,7 +116,7 @@
 
 > [!NOTE]
 >
-> *Everything really is a file lol*
+> *Everything really is a file lol. It really feels like using a Builder/Decorator/Fluent pattern for the defivations of payru.*
 
 * **Balikan** / **Ibalik** = Undo
 * **Ulitin** / **I-ulit** = Redo
