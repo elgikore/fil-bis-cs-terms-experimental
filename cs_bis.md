@@ -117,7 +117,7 @@
     * Uses the "propensity" meaning of *him-*/*hing-*, the natural propensity that a file is stored on a disk
 * **Himpayruhan** = Sector
     * Uses the "place of X" reading of *-han*
-* **Payruhang Panglimpyo** = Disk Cleaner / File Cleaner
+* **Panglimpyong Pampayru** = Disk Cleaner / File Cleaner
 
 > [!NOTE]
 >
