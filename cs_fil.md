@@ -96,8 +96,13 @@
     * Better than putol or tanggal since hiwa can imply getting a small piece after cutting and not necessarily discarding it right away
 * **Hanapin** / **I-hanap** = Find
 * **Palitan** / **I-palit** = Replace
+* **Tanggala** / **I-tangal** = Delete
 * **Seleksyon** = Selection
 * **Tulong** = Help
+* **Atras** = Previous (Navigation)
+* **Sunod** = Next (Navigation)
+* **Umakyat** / **Akyat** = Up (as in go up one folder)
+* **Bumaba** / **Baba** = Down (as in go down one folder)
 * **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
 * **Sansetingan** = Control Panel / Global Setting / System Configuration

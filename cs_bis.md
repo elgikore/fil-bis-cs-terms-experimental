@@ -99,8 +99,14 @@
     * Better than putol or tanggal since hiwa can imply getting a small piece after cutting and not necessarily discarding it right away
 * **Pangita-a** / **I-pangita** = Find
 * **Ilisdi** / **I-ilis** = Replace
+* **Tanggala** / **I-tangal** = Delete
 * **Seleksyon** = Selection
 * **Tabang** = Help
+* **Atras** = Previous (Navigation)
+* **Sunod** = Next (Navigation)
+* **Mosaka** / **Saka** = Up (as in go up one folder)
+* **Mobaba** / **Monaog** / **Naog** / **Baba** = Down (as in go down one folder)
+    * Baba (from Filipino) is very common
 * **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
 * **Sansetingan** = Control Panel / Global Setting / System Configuration
