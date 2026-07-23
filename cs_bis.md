@@ -105,6 +105,11 @@
 * **Kapayruhan** = Drive / Logical Drive
 * **Sampayruhan** = Physical Drive / HDD / SSD
     * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
+* **Sampayruhang Giplakahan** = Hard Disk Drive
+    * *Gi- -han* because it was done/applied on a place (focus on location)
+* **Sampayruhang Gisilikahan** = Solid State Drive
+    * *Gi- -han* because it was done/applied on a place (focus on location)
+    * Silika was used because SSDs are made of ICs, and ICs are finished with silicon. Using sampayruhan as base disambiguates regular silicon
 * **Pagpapayruhan** / **Pagpabahin** = Partitioning Process / Partitioning
     * Uses the more general reading of payruhan (place of files)
     * Lit. The act of causing places of/for files

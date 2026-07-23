@@ -99,6 +99,9 @@
 * **Payruhan** = Folder
 * **Kapayruhan** = Drive / Logical Drive
 * **Sampayruhan** = Physical Drive / HDD / SSD
+* **Sampayruhang Nakaplaka** = Hard Disk Drive
+* **Sampayruhang Nakasilika** = Solid State Drive
+    * Silika was used because SSDs are made of ICs, and ICs are finished with silicon. Using sampayruhan as base disambiguates regular silicon
 * **Pagpapapayruhan** / **Pagpapahati** = Partitioning Process / Partitioning
     * Uses the more general reading of payruhan (place of files)
     * Lit. The act of causing places of/for files
