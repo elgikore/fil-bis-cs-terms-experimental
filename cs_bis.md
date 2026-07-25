@@ -170,6 +170,9 @@
 
 * **Balika** / **Ibalik** = Undo
 * **Usba** / **I-usab** = Redo
+* **Plastaron** / **Iplastar** = Save
+    * Because you are not saving something literally, nor saving your money, but to put things into place metaphorically. In this case, it is to put/place things in storage
+    * One of the hardest to translate
 * **Abliha** / **I-abli** = Open (File/Folder)
 * **Kopyaha** / **Ikopya** = Copy
 * **Butanga** / **Ibutang** = Paste

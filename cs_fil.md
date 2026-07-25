@@ -159,6 +159,10 @@
 
 * **Balikan** / **Ibalik** = Undo
 * **Ulitin** / **I-ulit** = Redo
+* **Plastarin** / **Iplastar** = Save
+    * Borrowed from Bisaya
+    * Because you are not saving something literally, nor saving your money, but to put things into place metaphorically. In this case, it is to put/place things in storage
+    * One of the hardest to translate
 * **Buksan** / **Ibukas** = Open (File/Folder)
 * **Kopyahin** / **Ikopya** = Copy
 * **Lagyan** / **Ilagay** = Paste
