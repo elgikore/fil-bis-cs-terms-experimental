@@ -38,6 +38,7 @@
     * Spreadsheet is quite literally a table of records
 * **Memorya** = Memory
     * Neutral than panumdoman
+    * 【Proposal】 Memori (from borrowing of memori from Japanese) because it is faster to pronounce 
 * **Kagawian** / **Gawi** = Workflow
     * As in software workflow, data science workflow, etc.
     * If you think about it, a workflow is an "established customs and practices" of a particular thing
