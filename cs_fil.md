@@ -178,6 +178,8 @@
 * **Sunod** = Next (Navigation Button)
 * **Umakyat** / **Akyat** = Up (as in go up one folder)
 * **Bumaba** / **Baba** = Down (as in go down one folder)
+* **Ipamarkador** = Highlight
+    * From markador (highlighter)
 * **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
 * **Sansetingan** = Control Panel / Global Setting / System Configuration

@@ -189,6 +189,8 @@
 * **Mosaka** / **Saka** = Up (as in go up one folder)
 * **Mobaba** / **Monaog** / **Naog** / **Baba** = Down (as in go down one folder)
     * Baba (from Filipino) is very common
+* **Ipamarkador** = Highlight
+    * From markador (highlighter)
 * **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
 * **Sansetingan** = Control Panel / Global Setting / System Configuration
