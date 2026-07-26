@@ -3,7 +3,7 @@
 >This is a highly experimental repo (dev build) because many of these coinages are non-standard. Do not treat it as some sort of standardization since these are coined for the fun of it, in the sense that I am bored and just exploring translations for CS-related terms.
 
 # The Experimental Terminology Repo
-Repo born out of boredom from studying Deep Learning finals lol because I realized many of them can be interpreted naturally as if you are naming these concepts, not just a translation. I translated it in Filipino and Bisaya since I can speak it. I also use affixes a lot so that it isn't wordy like it came from Google Translate.
+Repo born out of boredom from studying Deep Learning finals lol because I realized many of them can be interpreted naturally as if you are naming these concepts, not just a translation. I translated it in Filipino and Bisaya since I can speak it. I also use affixes a lot so that it isn't wordy like it came from Google Translate. It also aims not to be a very comprehensive list but focusing on terms that are more easily translatable.
 
 # Inspirations
 * [https://www.reddit.com/r/Tagalog/comments/1mpvlkm/i_created_a_list_of_neologisms_for/](https://www.reddit.com/r/Tagalog/comments/1mpvlkm/i_created_a_list_of_neologisms_for/)
