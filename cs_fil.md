@@ -272,6 +272,30 @@
 * **Taladatosan** = Database
     * Tala here uses the "structured/record"-type reading, not just table
 * **Pagpapalahat** = Generalization
+* **Sukod** = Feature / Dimension
+    * Because sukod also carries the dual sense of dimension and measure, which cleanly explains why a column is also called a dimension
+* **Pagsasanay** = Training
+* **Pagsusubok** = Testing
+
+## Time Series
+* **Pagdidiperensya** = Differencing
+* **Ikaunang Diperensya** = First Order Difference
+* **Ikalawang Diperensya** = Second Order Difference
+* **Pagkapanahon** = Seasonality
+* **Pampanahong Diperensya** = Seasonal Difference
+* **Patunguhan** = Trend (Statistics sense)
+* **Pagkasiklo** / **Siklikal** = Cyclical
+* **Naiwan** = Residual (Statistics sense)
+* **Dekomposisyon** = Decomposition
+    * Transliteration
+* **Modelong Dinagdagan** = Additive Model
+* **Modelong Minimultiplika** / **Modelong Minimultika** / **Modelong Pinilopilo** = Multiplicative Model
+    * Minimultika is a simplification of Minimultiplika by trimming multiplikasyon -> multika (multiply)
+    * Pilo is borrowed from Bisaya, where it means [multiply](https://www.binisaya.com/content/pagtudlo-sa-matimatika). Convienently it uses folding (pilo) as metaphor, similar to how classical English uses fold to mean multiply
+* **Pagsasadipanahon** = Seasonally Adjusted / Deseasonalization
+    * Translation based on deseasonalization because "seasonally adjusted" is ambiguous since it sounds like you are adding seasonality
+* **Panangkapang Talaorasan** = Raw Series Data
+    * Lit. Raw material time record
 
 # Deep Learning
 * **Pagpoproseso ng Wika** = Natural Language Processing

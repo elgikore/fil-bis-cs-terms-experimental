@@ -282,6 +282,30 @@
 * **Taladatosan** = Database
     * Tala here uses the "structured/record"-type reading, not just table
 * **Pagpatanan** = Generalization
+* **Sukod** = Feature / Dimension
+    * Because sukod also carries the dual sense of dimension and measure, which cleanly explains why a column is also called a dimension
+* **Pagpabansay** = Training
+* **Pagpasulay** = Testing
+
+## Time Series
+* **Pagpadiperensya** = Differencing
+* **Ikaunang Diperensya** = First Order Difference
+* **Ikaduhang Diperensya** = Second Order Difference
+* **Pagkapanahon** = Seasonality
+* **Pampanahong Diperensya** = Seasonal Difference
+* **Tungdanan** = Trend (Statistics sense)
+    * Used Tungdan (aim) as base
+* **Pagkasiklo** / **Siklikal** = Cyclical
+* **Nabilin** = Residual (Statistics sense)
+* **Dekomposisyon** = Decomposition
+    * Transliteration
+* **Modelong Dinugangan** = Additive Model
+* **Modelong Minimultiplika** / **Modelong Minimultika** / **Modelong Pinilopilo** = Multiplicative Model
+    * Minimultika is a simplification of Minimultiplika by trimming multiplikasyon -> multika (multiply)
+* **Pagpadipanahon** = Seasonally Adjusted / Deseasonalization
+    * Translation based on deseasonalization because "seasonally adjusted" is ambiguous since it sounds like you are adding seasonality
+* **Lughasong Talaorasan** = Raw Series Data
+    * Lit. Raw material time record
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
