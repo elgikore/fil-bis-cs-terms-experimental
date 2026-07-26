@@ -291,7 +291,7 @@
 * **Modelong Dinagdagan** = Additive Model
 * **Modelong Minimultiplika** / **Modelong Minimultika** / **Modelong Pinilopilo** = Multiplicative Model
     * Minimultika is a simplification of Minimultiplika by trimming multiplikasyon -> multika (multiply)
-    * Pilo is borrowed from Bisaya, where it means [multiply](https://www.binisaya.com/content/pagtudlo-sa-matimatika). Convienently it uses folding (pilo) as metaphor, similar to how classical English uses fold to mean multiply
+    * Pilo (pronounced piLO, not PIlo) is borrowed from Bisaya, where it means [multiply](https://www.binisaya.com/content/pagtudlo-sa-matimatika). Convienently it uses folding (pilo) as metaphor, similar to how classical English uses fold to mean multiply
 * **Pagsasadipanahon** = Seasonally Adjusted / Deseasonalization
     * Translation based on deseasonalization because "seasonally adjusted" is ambiguous since it sounds like you are adding seasonality
 * **Panangkapang Talaorasan** = Raw Series Data
