@@ -138,6 +138,8 @@
     * *pa-* + usa + hatag 
 * **Tudlo** = Cursor (Mouse)
     * Because tudlo also means point, and metonymically also refers to fingers
+* **Hanaysay** = Syntax
+    * Already exists; borrowed grammar term
 
 
 # File, Folder System, and Common Commands

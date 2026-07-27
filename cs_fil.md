@@ -132,6 +132,9 @@
     * *pa-* + isa + bigay 
 * **Turo** = Cursor (Mouse)
     * Because of existence of hintuturo (index finger) and turo also means point
+* **Palaugnayan** = Syntax
+    * Already exists; borrowed grammar term
+
 
 # File, Folder System, and Common Commands
 * **Payru** = File
