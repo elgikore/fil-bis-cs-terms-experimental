@@ -246,7 +246,7 @@
 * **Pagkapamahimo** = Feasibility
     * Mahimo already means feasible so just need to adjust slightly
 * **Paniksikang Pamahimo** = Feasibility Study
-* **Pagpahinginahanglan** / **Pagpahinghanglan**= Requirements Elicitation
+* **Pagpahinginahanglan** / **Pagpahinghanglan** = Requirements Elicitation
     * *Pagpa-* + *hing-* (habitual reading of it) + kinahanglan
     * Lit. Act of causing habitual requirement searching
     * Pagpahingahanglan naturally arises when you speak it fast enough
@@ -323,7 +323,7 @@
 * **Modelong Dakpulongan** / **Dakpulongan** = Large Language Model
     * *Dak-* (e.g. dakbayan, dakbalay) + pulong + *-an*
     * Interaction of *dak-* overrides the meaning of pulongan (phrase) and gets interpreted as a generic "place of words/pulong"
-* **Pagpoproseso ng Dakpulongan** = Large Language Processing
+* **Pagpoproseso sa Dakpulongan** = Large Language Processing
 * **Pagpalanggikit** = Tokenization
     * Using langgikit (affix) as metaphor since after tokenization, the result looks like abritrary affixes that can combine and recombine
 * **Tiglanggikit** / **Manglanggikitay** = Tokenizer
