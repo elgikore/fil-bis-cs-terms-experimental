@@ -357,7 +357,7 @@
     * *Tagapag-* mirrors the *hyper* because it isnt just the one whose occupation is virtualization (*taga-*) but *the* one (head chef) that does virtualization, even though there is a lot of intersection of *taga-* and *tagapag-*
     * Tagapagpamertwalan -> Tagapagpamertwal
 * **Tagapagmanloob** = Hyperjacker
-    * Natural mirror of tagapagpamertwalan
+    * Natural mirror of tagapagpamertwal
     * From simplification: Tagapagpamanloloob -> Tagapagmanloob
     * Manloob here can read literally i.e. "the practice of going inside" or metaphorically like in the original word (the act of seizing/pillaging)
 * **Pagpapaloob sa Mamertwal** / **Pagpapamanloob** = Hyperjacking
