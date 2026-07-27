@@ -327,6 +327,7 @@
 * **Pagkaplantsang Eksponensyal** = Exponential Smoothing
     * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
 * **Pagkakaplantsa** = Smoothing Factor
+    * By corollary, this is the generic word for "smoothing factor"
 
 # Deep Learning
 * **Pagpoproseso ng Wika** = Natural Language Processing

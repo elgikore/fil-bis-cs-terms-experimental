@@ -337,6 +337,7 @@
     * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
 * **Pagkahimlantsa** = Smoothing Factor 
     * *Pagkahim-* to replicate *pagkaka-* in Filipino
+    * By corollary, this is the generic word for "smoothing factor" 
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
