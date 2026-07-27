@@ -245,7 +245,7 @@
 * **Pagpatigman-katap** = Continuous Integeration and Continuous Deployment/Delivery
 * **Pagkapamahimo** = Feasibility
     * Mahimo already means feasible so just need to adjust slightly
-* **Paniksikang Pagkapamahimo** = Feasibility Study
+* **Paniksikang Pamahimo** = Feasibility Study
 
 # Internet
 * **Websayt** = Website

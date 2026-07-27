@@ -235,7 +235,8 @@
     * Ditto (borrowing)
 * **Pagkapagawa** = Feasibility
     * I used gawa as root word because it emphasizes the "buildability" of the thing
-* **Pananaliksikang Pagkapagawa** = Feasibility Study
+* **Pananaliksikang Pangkapagawa** = Feasibility Study
+    * *Pang-* (method) + *ka-* (state) + *pa-* (causing/making) + gawa
 
 # Internet
 * **Websayt** = Website
