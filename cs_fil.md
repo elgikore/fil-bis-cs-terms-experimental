@@ -316,7 +316,7 @@
     * Lit. Raw material time record
 * **Pamamaraang Holt** = Holt's Method
 * **Menosagadang Holt** = Dampened Holt's Method
-    * Menos + sagad (Filipino) = Menosagad to capture the specifc kind of lessening in the word "dampen", which is to make some small adjustments so that it isn't too much. Dampen by itself is a metaphor
+    * Menos + sagad (Filipino) = Menosagad to capture the specifc kind of lessening in the word "dampen", which is to make some small adjustments so that it isn't too much. Dampen by itself is a metaphor. By corollary, Menosagad = Damp (in technical sense)
 * **Pampanahong Holt-Winters** = Holt-Winters Seasonal Method
 * **Pandagdagang Holt-Winters** Holt-Winters Additive Method
 * **Pangmultiplikang Holt-Winters** / **Pangmultikang Holt-Winters** / **Pampilopilong Holt-Winters** = Holt-Winters Multiplicative Method
