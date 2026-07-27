@@ -322,6 +322,8 @@
 * **Pangmultiplikang Holt-Winters** / **Pangmultikang Holt-Winters** / **Pampilopilong Holt-Winters** = Holt-Winters Multiplicative Method
     * Multika (multiply) is a simplification by trimming multiplikasyon
     * Pilo (pronounced piLO, not PIlo) is borrowed from Bisaya, where it means [multiply](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
+* **Pagkatalupaya** = Stationarity
+    * Talupaya already means stationary, or more specifically: "always standing or standing without moving on one foot only". It just needs *pagka-* to do the trick
 
 # Deep Learning
 * **Pagpoproseso ng Wika** = Natural Language Processing

@@ -331,6 +331,8 @@
 * **Pandagdagang Holt-Winters** Holt-Winters Additive Method
 * **Pangmultiplikang Holt-Winters** / **Pangmultikang Holt-Winters** / **Pampilopilong Holt-Winters** = Holt-Winters Multiplicative Method
     * Multika (multiply) is a simplification by trimming multiplikasyon
+* **Pagkapuyo** = Stationarity
+    * Because the mean, variance, and autocorrelation are constant (stay in place)
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
