@@ -140,6 +140,10 @@
     * Because tudlo also means point, and metonymically also refers to fingers
 * **Hanaysay** = Syntax
     * Already exists; borrowed grammar term
+* **Iguugnayan** = Interface
+    * *Ig-* + first syllable redup. (agency in doing something/dedicated instrument, e.g. iglalakaw) + ugnay + *-an* ("place of X" reading)
+    * Borrowed ugnay from Filipino since it has fitting semantics but adjusted slightly
+    * This is because an interface is broad and its more on information exchange between two or more components
 
 
 # File, Folder System, and Common Commands

@@ -134,6 +134,9 @@
     * Because of existence of hintuturo (index finger) and turo also means point
 * **Palaugnayan** = Syntax
     * Already exists; borrowed grammar term
+* **Saugnayan** = Interface
+    * *Sa-* ("method for" reading) + ugnay + *-an* ("place of X" reading)
+    * This is because an interface is broad and its more on information exchange between two or more components
 
 
 # File, Folder System, and Common Commands
