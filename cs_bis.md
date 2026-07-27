@@ -136,6 +136,8 @@
     * Because it gives an output
 * **Usausa-Hatag** / **Pausahatag** = Lazy Evaluation / `yield`
     * *pa-* + usa + hatag 
+* **Tudlo** = Cursor (Mouse)
+    * Because tudlo also means point, and metonymically also refers to fingers
 
 
 # File, Folder System, and Common Commands

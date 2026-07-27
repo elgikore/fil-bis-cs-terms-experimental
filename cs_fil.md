@@ -130,6 +130,8 @@
     * Because it gives an output
 * **Isaisa-Bigay** / **Paisabigay** = Lazy Evaluation / `yield`
     * *pa-* + isa + bigay 
+* **Turo** = Cursor (Mouse)
+    * Because of existence of hintuturo (index finger) and turo also means point
 
 # File, Folder System, and Common Commands
 * **Payru** = File
