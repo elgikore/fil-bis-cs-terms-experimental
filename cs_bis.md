@@ -324,6 +324,9 @@
     * Translation based on deseasonalization because "seasonally adjusted" is ambiguous since it sounds like you are adding seasonality
 * **Lughasong Talaorasan** = Raw Series Data
     * Lit. Raw material time record
+* **Pamaaging Holt** = Holt's Method
+* **Menosagadang Holt** = Dampened Holt's Method
+    * Menos + sagad (Filipino) = Menosagad to capture the specifc kind of lessening in the word "dampen", which is to make some small adjustments so that it isn't too much. Dampen by itself is a metaphor
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
