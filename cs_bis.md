@@ -243,6 +243,9 @@
 * **Pagpakatap-katap** = Continuous Deployment
     * *Pakatap* = Deploy (lit. to cause a spread out)
 * **Pagpatigman-katap** = Continuous Integeration and Continuous Deployment/Delivery
+* **Pagkapamahimo** = Feasibility
+    * Mahimo already means feasible so just need to adjust slightly
+* **Paniksikang Pagkapamahimo** = Feasibility Study
 
 # Internet
 * **Websayt** = Website
