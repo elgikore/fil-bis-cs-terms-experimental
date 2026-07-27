@@ -221,7 +221,7 @@
     * Basically 1 Float (hati) + 1 Float (tunga) = Double, and keeping the powers of halves metaphor
     * Though tunga means arrival in Filipino, it is so uncommon, since dating (to arrive) is pretty much used
 * **Listahan** = List
-* **Talahanayan** = Array
+* **Talahileran** = Array
 * **Talabilangan** / **Talaan** = Matrix
 * **Sangtalaan** / **Talatalaan** = Multidimensional Array / Multidimensional Matrix / n-Dimensional Array
 * **Talaang Dos por Dos** / **Talabilangang Dos por Dos** / **Dos por Dos** = 2x2 Matrix
