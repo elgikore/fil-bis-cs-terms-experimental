@@ -237,6 +237,8 @@
     * I used gawa as root word because it emphasizes the "buildability" of the thing
 * **Pananaliksikang Pangkapagawa** = Feasibility Study
     * *Pang-* (method) + *ka-* (state) + *pa-* (causing/making) + gawa
+* **Pagsasakailangan** = Requirements Elicitation
+    * *Sa-* + kailangan = Sakailangan = A method (means) to get (purpose) requirements (kailangan)
 
 # Internet
 * **Websayt** = Website

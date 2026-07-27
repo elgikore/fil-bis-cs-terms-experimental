@@ -246,6 +246,10 @@
 * **Pagkapamahimo** = Feasibility
     * Mahimo already means feasible so just need to adjust slightly
 * **Paniksikang Pamahimo** = Feasibility Study
+* **Pagpahinginahanglan** / **Pagpahinghanglan**= Requirements Elicitation
+    * *Pagpa-* + *hing-* (habitual reading of it) + kinahanglan
+    * Lit. Act of causing habitual requirement searching
+    * Pagpahingahanglan naturally arises when you speak it fast enough
 
 # Internet
 * **Websayt** = Website
