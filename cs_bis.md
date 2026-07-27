@@ -132,7 +132,10 @@
     * *Sika-* (prefix for denominators) + pisa
         * This is because it always refer to the fractional bit in IEEE-754 visualizations
     * Modeled from [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika) and [https://en.wiktionary.org/wiki/sikatulo#Cebuano](https://en.wiktionary.org/wiki/sikatulo#Cebuano)
-
+* **Hatag** = Return / Return Type
+    * Because it gives an output
+* **Usausa-Hatag** / **Pausahatag** = Lazy Evaluation / `yield`
+    * *pa-* + usa + hatag 
 
 
 # File, Folder System, and Common Commands

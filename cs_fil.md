@@ -126,6 +126,10 @@
     * *Sika-* (prefix for denominators; borrowed from Bisaya) + pisa
         * This is because it always refer to the fractional bit in IEEE-754 visualizations
     * Modeled from [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika) and [https://en.wiktionary.org/wiki/sikatulo#Cebuano](https://en.wiktionary.org/wiki/sikatulo#Cebuano)
+* **Bigay** = Return / Return Type
+    * Because it gives an output
+* **Isaisa-Bigay** / **Paisabigay** = Lazy Evaluation / `yield`
+    * *pa-* + isa + bigay 
 
 # File, Folder System, and Common Commands
 * **Payru** = File
