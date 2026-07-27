@@ -331,7 +331,6 @@
 * **Pandagdagang Holt-Winters** Holt-Winters Additive Method
 * **Pangmultiplikang Holt-Winters** / **Pangmultikang Holt-Winters** / **Pampilopilong Holt-Winters** = Holt-Winters Multiplicative Method
     * Multika (multiply) is a simplification by trimming multiplikasyon
-    * Pilo (pronounced piLO, not PIlo) is borrowed from Bisaya, where it means [multiply](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
