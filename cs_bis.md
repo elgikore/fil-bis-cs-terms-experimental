@@ -333,6 +333,8 @@
     * Multika (multiply) is a simplification by trimming multiplikasyon
 * **Pagkapuyo** = Stationarity
     * Because the mean, variance, and autocorrelation are constant (stay in place)
+* **Pagkaplantsang Eksponensyal** = Exponential Smoothing
+    * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
