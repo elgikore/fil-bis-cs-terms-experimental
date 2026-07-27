@@ -324,10 +324,12 @@
     * Pilo (pronounced piLO, not PIlo) is borrowed from Bisaya, where it means [multiply](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
 * **Pagkatalupaya** = Stationarity
     * Talupaya already means stationary, or more specifically: "always standing or standing without moving on one foot only". It just needs *pagka-* to do the trick
-* **Pagkaplantsang Eksponensyal** = Exponential Smoothing
-    * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
-* **Pagkakaplantsa** = Smoothing Factor
+* **Pagkaplantsang Eksponensyal** / **Pagkaplanchang Eksponensyal** = Exponential Smoothing
+    * Plantsa/plancha is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
+    * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
+* **Pagkakaplantsa** / **Pagkakaplancha** = Smoothing Factor
     * By corollary, this is the generic word for "smoothing factor"
+    * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
 
 # Deep Learning
 * **Pagpoproseso ng Wika** = Natural Language Processing

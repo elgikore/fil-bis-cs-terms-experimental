@@ -333,11 +333,13 @@
     * Multika (multiply) is a simplification by trimming multiplikasyon
 * **Pagkapuyo** = Stationarity
     * Because the mean, variance, and autocorrelation are constant (stay in place)
-* **Pagkaplantsang Eksponensyal** = Exponential Smoothing
-    * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
-* **Pagkahimlantsa** = Smoothing Factor 
+* **Pagkaplantsang Eksponensyal** / **Pagkaplanchang Eksponensyal** = Exponential Smoothing
+    * Plantsa/plancha is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
+    * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
+* **Pagkahimlantsa** / **Pagkahimlancha** = Smoothing Factor 
     * *Pagkahim-* to replicate *pagkaka-* in Filipino
     * By corollary, this is the generic word for "smoothing factor" 
+    * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
