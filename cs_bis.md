@@ -334,7 +334,7 @@
 * **Pagkapuyo** = Stationarity
     * Because the mean, variance, and autocorrelation are constant (stay in place)
 * **Pagkaplantsang Eksponensyal** = Exponential Smoothing
-    * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like
+    * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
 
 # Deep Learning
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
