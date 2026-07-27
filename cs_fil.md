@@ -326,6 +326,7 @@
     * Talupaya already means stationary, or more specifically: "always standing or standing without moving on one foot only". It just needs *pagka-* to do the trick
 * **Pagkaplantsang Eksponensyal** = Exponential Smoothing
     * Plantsa is used because you *iron out* the wrinkles in a raw predicted trendline, in this case by the way of an exponential/exponential-like. And also, plantsa is already used metaphorically
+* **Pagkakaplantsa** = Smoothing Factor
 
 # Deep Learning
 * **Pagpoproseso ng Wika** = Natural Language Processing
