@@ -303,6 +303,10 @@
 * **Pagkapanahon** = Seasonality
 * **Pampanahong Diperensya** = Seasonal Difference
 * **Patunguhan** = Trend (Statistics sense)
+* **Dipinatunguhan** = Detrended (result focus)
+* **Dipinatungo** = Detrend / Detrended
+* **Paditungo** = Detrend (verb)
+* **Ipaditungo** = To detrend
 * **Pagkasiklo** / **Siklikal** = Cyclical
 * **Naiwan** = Residual (Statistics sense)
 * **Dekomposisyon** = Decomposition

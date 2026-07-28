@@ -313,6 +313,10 @@
 * **Pampanahong Diperensya** = Seasonal Difference
 * **Tungdanan** = Trend (Statistics sense)
     * Used Tungdan (aim) as base
+* **Digipatungdan** = Detrended (result focus)
+* **Digipatungod** Detrend / Detrended
+* **Paditungod** = Detrend (verb)
+* **Ipaditungod** = To detrend
 * **Pagkasiklo** / **Siklikal** = Cyclical
 * **Nabilin** = Residual (Statistics sense)
 * **Dekomposisyon** = Decomposition
