@@ -342,6 +342,8 @@
     * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
 
 # Deep Learning
+* **Patagtanos** = Rectified Linear Unit
+    * Patag (0) + tanos (x)
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
     * No need for full-word pinulongan (language) because its understood by context (metonymy)
 * **Modelong Dakpulongan** / **Dakpulongan** = Large Language Model

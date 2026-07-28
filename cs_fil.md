@@ -333,6 +333,8 @@
     * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
 
 # Deep Learning
+* **Patagtuwid** = Rectified Linear Unit
+    * Patag (0) + tuwid (x)
 * **Pagpoproseso ng Wika** = Natural Language Processing
 * **Modelong Sangwikaan** / **Sangwikaan** = Large Language Model
     * Large is already absorbed by *sang- -an*
