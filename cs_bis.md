@@ -313,10 +313,8 @@
 * **Pampanahong Diperensya** = Seasonal Difference
 * **Tungdanan** = Trend (Statistics sense)
     * Used Tungdan (aim) as base
-* **Digipatungdan** = Detrended (result focus)
-* **Digipatungod** Detrend / Detrended
-* **Paditungod** = Detrend (verb)
-* **Ipaditungod** = To detrend
+* **Paditungdan** / **Ditungdan** = Detrend / Detrended
+* **Ditinungdan** = Detrended (output focus)
 * **Nakanhi** = Lag
     * Kanhi = Former
     * Because it is quite literally "previous time steps"

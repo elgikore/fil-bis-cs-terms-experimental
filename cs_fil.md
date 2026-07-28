@@ -303,10 +303,8 @@
 * **Pagkapanahon** = Seasonality
 * **Pampanahong Diperensya** = Seasonal Difference
 * **Patunguhan** = Trend (Statistics sense)
-* **Dipinatunguhan** = Detrended (result focus)
-* **Dipinatungo** = Detrend / Detrended
-* **Paditungo** = Detrend (verb)
-* **Ipaditungo** = To detrend
+* **Paditunguhan** / **Ditunguhan** = Detrend / Detrended
+* **Ditinunguhan** = Detrended (output focus)
 * **Nakaraan** = Lag
     * Because it is quite literally "previous time steps"
 * **Ikaserong Nakaraan** = Lag 0
