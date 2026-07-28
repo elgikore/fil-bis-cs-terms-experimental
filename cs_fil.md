@@ -335,6 +335,10 @@
 # Deep Learning
 * **Patagtuwid** = Rectified Linear Unit
     * Patag (0) + tuwid (x)
+* **Patagpatagangtuwid** / **Patagpatagtuwid** = Leaky Rectified Linear Unit
+    * Patagpatagang (Leaky; not 0) + tuwid (x)
+    * Used the *-an* (with root reduplication) imitation reading
+    * By collorary of Patagtanos = RELU
 * **Pagpoproseso ng Wika** = Natural Language Processing
 * **Modelong Sangwikaan** / **Sangwikaan** = Large Language Model
     * Large is already absorbed by *sang- -an*

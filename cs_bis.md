@@ -344,6 +344,10 @@
 # Deep Learning
 * **Patagtanos** = Rectified Linear Unit
     * Patag (0) + tanos (x)
+* **Papatagpatagtanos** / **Patagpatagtanos** = Leaky Rectified Linear Unit
+    * Papatagpatag (Leaky; not 0) + tanos (x)
+    * Used the *pa-* (with root reduplication) imitation reading
+    * By collorary of Patagtanos = RELU
 * **Pagpahiproseso sa Pulong** / **Pagpaproseso sa Pulong** = Natural Language Processing
     * No need for full-word pinulongan (language) because its understood by context (metonymy)
 * **Modelong Dakpulongan** / **Dakpulongan** = Large Language Model
