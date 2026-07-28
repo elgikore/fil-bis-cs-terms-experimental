@@ -307,6 +307,10 @@
 * **Dipinatungo** = Detrend / Detrended
 * **Paditungo** = Detrend (verb)
 * **Ipaditungo** = To detrend
+* **Nakaraan** = Lag
+    * Because it is quite literally "previous time steps"
+* **Ikaserong Nakaraan** = Lag 0
+* **Ika-X Nakaraan** / **Ika-X na Nakaraan** = Lag X
 * **Pagkasiklo** / **Siklikal** = Cyclical
 * **Naiwan** = Residual (Statistics sense)
 * **Dekomposisyon** = Decomposition

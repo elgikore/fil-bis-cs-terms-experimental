@@ -317,6 +317,11 @@
 * **Digipatungod** Detrend / Detrended
 * **Paditungod** = Detrend (verb)
 * **Ipaditungod** = To detrend
+* **Nakanhi** = Lag
+    * Kanhi = Former
+    * Because it is quite literally "previous time steps"
+* **Ikaserong Nakanhi** = Lag 0
+* **Ika-X Nakanhi** / **Ika-X nga Nakanhi** = Lag X
 * **Pagkasiklo** / **Siklikal** = Cyclical
 * **Nabilin** = Residual (Statistics sense)
 * **Dekomposisyon** = Decomposition
