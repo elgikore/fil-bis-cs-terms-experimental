@@ -313,6 +313,8 @@
     * Pagpapamapabilang is based on the broadness of "mapping towards a continuous numerical space"
     * Lit. Act (*pag-*) of causing [present progressive-ish aspect sense] (*papa-*) a thing to do ["potentiality of X" reading] (*mapa-*) a number
 * **Pagpapaklase** / **Klasipikasyon** = Classification
+* **Kapwa-Paligid** / **Kapwapaligid** = Nearest Neighbor/s (Generic Sense)
+* **Pagpapakapwa-datos** / **Pagpapakapwadatos** = k Nearest Neighbors
 
 ## Time Series
 * **Pagdidiperensya** = Differencing
