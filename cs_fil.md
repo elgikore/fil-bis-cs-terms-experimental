@@ -170,6 +170,8 @@
 * **Permisopayru** / **Permiso** = File Permissions
 * **Sistemang Pampayru** = File System
     * Semantics shift pampayru to a generic instrument for files
+* **Impopayru** / **Infopayru** = File Metadata
+    * Impo = Transliterated ver. of info, or also can be interpreted as shortening from the word impormasyon
 
 > [!NOTE]
 >
