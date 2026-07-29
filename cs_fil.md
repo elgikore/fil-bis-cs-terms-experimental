@@ -165,6 +165,11 @@
     * Uses the "means to a purpose" reading of *sa-* i.e. means (file) to a purpose (put/record files), and "place of X" reading of *-han*
 * **Himayru** = Disk Cleaner / File Cleaner
     * Yes, I used an apparently unproductive affix today simply because it has the exact "removal or cleaning" reading
+* **Birtwalpayru** / **Birtwal-Payru** = Virtual File
+* **Klasepayru** / **Klase ng Payru** = File Type
+* **Permisopayru** / **Permiso** = File Permissions
+* **Sistemang Pampayru** = File System
+    * Semantics shift pampayru to a generic instrument for files
 
 > [!NOTE]
 >
@@ -221,7 +226,7 @@
     * Basically 1 Float (hati) + 1 Float (tunga) = Double, and keeping the powers of halves metaphor
     * Though tunga means arrival in Filipino, it is so uncommon, since dating (to arrive) is pretty much used
 * **Listahan** = List
-* **Talahileran** = Array
+* **Talahilera** = Array
     * Tala + Hilera (row)
 * **Talabilangan** / **Talaan** = Matrix
 * **Sangtalaan** / **Talatalaan** = Multidimensional Array / Multidimensional Matrix / n-Dimensional Array

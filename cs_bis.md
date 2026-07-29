@@ -175,6 +175,11 @@
     * Uses the "place of X" reading of *-han*
 * **Panglimpyong Pampayru** = Disk Cleaner / File Cleaner
     * Semantics shift pampayru to a "general instrument for files" i.e. Cleaner for Files
+* **Birtwalpayru** / **Birtwal-Payru** = Virtual File
+* **Klasepayru** / **Klase sa Payru** = File Type
+* **Permisopayru** / **Permiso** = File Permissions
+* **Sistemang Pampayru** = File System
+    * Semantics shift pampayru to a generic instrument for files
 
 > [!NOTE]
 >
