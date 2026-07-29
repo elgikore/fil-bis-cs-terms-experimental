@@ -204,6 +204,7 @@
 * **Kasetinan** = Local Settings
     * Uses the collection reading of *ka- -an*
 * **Sansetinan** = Control Panel / Global Settings / System Configuration
+* **Burahin** = Format (Formatting files sense)
 
 # Data Types
 * **Titik** = Character

@@ -215,7 +215,7 @@
     * Uses the collection reading of *ka- -an*
 * **Sansetinan** = Control Panel / Global Settings / System Configuration
     * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
-
+* **Panason** = Format (Formatting files sense)
 
 
 # Data Types
