@@ -313,6 +313,13 @@
     * Because sukod also carries the dual sense of dimension and measure, which cleanly explains why a column is also called a dimension
 * **Pagpabansay** = Training
 * **Pagpasulay** = Testing
+* **Regresyon** = Regression (Generic Sense)
+    * Transliteration
+* **Pagpasentrosentro** / **Regresyon** = Regression (Classical Statistics Sense)
+    * Pagpasentrosentro is based on "regression towards the mean" definition
+* **Pagpakaihap** / **Regresyon** = Regression (ML/AI/Deep Learning Sense)
+    * Pagpakaihap is based on the broadness of "mapping towards a continuous numerical space"
+    * Lit. Act (*pag-*) of causing (*pa-*) a state (*ka-*) of number; or [Allowing a thing to perform](https://philippinesillustrated.blogspot.com/2023/10/affixes-used-in-cebuano.html) (*pagpaka-*) numbers
 
 ## Time Series
 * **Pagpadiperensya** = Differencing
