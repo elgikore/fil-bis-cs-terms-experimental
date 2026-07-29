@@ -209,11 +209,11 @@
     * Baba (from Filipino) is very common
 * **Ipamarkador** = Highlight
     * From markador (highlighter)
-* **Seting** = Setting
+* **Setin** / **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
-* **Kasetingan** = Local Settings
+* **Kasetinan** = Local Settings
     * Uses the collection reading of *ka- -an*
-* **Sansetingan** = Control Panel / Global Settings / System Configuration
+* **Sansetinan** = Control Panel / Global Settings / System Configuration
     * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
 
 

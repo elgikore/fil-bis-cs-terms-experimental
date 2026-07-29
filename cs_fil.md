@@ -199,11 +199,11 @@
 * **Bumaba** / **Baba** = Down (as in go down one folder)
 * **Ipamarkador** = Highlight
     * From markador (highlighter)
-* **Seting** = Setting
+* **Setin** / **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
-* **Kasetingan** = Local Settings
+* **Kasetinan** = Local Settings
     * Uses the collection reading of *ka- -an*
-* **Sansetingan** = Control Panel / Global Settings / System Configuration
+* **Sansetinan** = Control Panel / Global Settings / System Configuration
 
 # Data Types
 * **Titik** = Character
