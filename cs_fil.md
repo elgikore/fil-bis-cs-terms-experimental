@@ -137,6 +137,8 @@
 * **Saugnayan** = Interface
     * *Sa-* ("method for" reading) + ugnay + *-an* ("place of X" reading)
     * This is because an interface is broad and its more on information exchange between two or more components
+* **Butstrap** = Bootstrap (Generic)
+    * Treansliterated because it is a very specific form of self-reliance ("starting from limited/small necessary resources, create complex systems out of it")
 
 
 # File, Folder System, and Common Commands

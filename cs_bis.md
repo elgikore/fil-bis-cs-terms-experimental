@@ -144,6 +144,8 @@
     * *Ig-* + first syllable redup. (agency in doing something/dedicated instrument, e.g. iglalakaw) + ugnay + *-an* ("place of X" reading)
     * Borrowed ugnay from Filipino since it has fitting semantics but adjusted slightly
     * This is because an interface is broad and its more on information exchange between two or more components
+* **Butstrap** = Bootstrap (Generic)
+    * Treansliterated because it is a very specific form of self-reliance ("starting from limited/small necessary resources, create complex systems out of it")
 
 
 # File, Folder System, and Common Commands
@@ -325,6 +327,7 @@
     * *Igkasi-* / *Ig-* ("relationship/fellowship between things" reading) + palibot
 * **Pagpaigkasidatos** / **Pagpaigdatos** = k Nearest Neighbors
     * *Igkasi-* / *Ig-* ("relationship/fellowship between things" reading) + datos
+
 
 ## Time Series
 * **Pagpadiperensya** = Differencing
