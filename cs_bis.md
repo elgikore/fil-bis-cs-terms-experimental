@@ -211,7 +211,9 @@
     * From markador (highlighter)
 * **Seting** = Setting
     * Setting is used broadly in Filipino, its more closer to configuration
-* **Sansetingan** = Control Panel / Global Setting / System Configuration
+* **Kasetingan** = Local Settings
+    * Uses the collection reading of *ka- -an*
+* **Sansetingan** = Control Panel / Global Settings / System Configuration
     * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
 
 
