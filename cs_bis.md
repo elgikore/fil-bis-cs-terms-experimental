@@ -327,6 +327,7 @@
     * *Igkasi-* / *Ig-* ("relationship/fellowship between things" reading) + palibot
 * **Pagpaigkasidatos** / **Pagpaigdatos** = k Nearest Neighbors
     * *Igkasi-* / *Ig-* ("relationship/fellowship between things" reading) + datos
+* **Pagpabutstrapang Estimar** = Bootstrap Estimation
 
 
 ## Time Series

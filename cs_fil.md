@@ -317,6 +317,8 @@
 * **Pagpapaklase** / **Klasipikasyon** = Classification
 * **Kapwa-Paligid** / **Kapwapaligid** = Nearest Neighbor/s (Generic Sense)
 * **Pagpapakapwa-datos** / **Pagpapakapwadatos** = k Nearest Neighbors
+* **Pagpapabutstrapang Estimar** = Bootstrap Estimation
+    * Estimar is borrowed from Bisaya since its not common in Filipino
 
 ## Time Series
 * **Pagdidiperensya** = Differencing
