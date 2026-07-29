@@ -305,6 +305,8 @@
 * **Datosan** = Dataset
 * **Dakdatosan** = Data Center
     * Modelled from *dak-* in dakbayan and dakbalay
+* **Patong** = Bias (Intercept)
+    * Based on the "markup" reading of patong
 * **Talaorasan** = Time Series
     * From Filipino; still valid construction in Bisaya
 * **Pagpatalaorasan** = Time Series Analysis

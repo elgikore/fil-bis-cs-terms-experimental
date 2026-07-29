@@ -297,6 +297,8 @@
 * **Datos** = Data
 * **Datosan** = Dataset
 * **Sandatosan** = Data Center
+* **Patong** = Bias (Intercept)
+    * Based on the "markup" reading of patong
 * **Talaorasan** = Time Series
     * Repurposing
 * **Pagpapatalaorasan** = Time Series Analysis
