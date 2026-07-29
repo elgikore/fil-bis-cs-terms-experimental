@@ -320,6 +320,7 @@
 * **Pagpakaihap** / **Regresyon** = Regression (ML/AI/Deep Learning Sense)
     * Pagpakaihap is based on the broadness of "mapping towards a continuous numerical space"
     * Lit. Act (*pag-*) of causing (*pa-*) a state (*ka-*) of number; or [Allowing a thing to perform](https://philippinesillustrated.blogspot.com/2023/10/affixes-used-in-cebuano.html) (*pagpaka-*) numbers
+* **Pagpapaklase** / **Klasipikasyon** = Classification
 
 ## Time Series
 * **Pagpadiperensya** = Differencing

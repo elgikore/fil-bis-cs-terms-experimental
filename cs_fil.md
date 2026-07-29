@@ -312,6 +312,7 @@
 * **Pagpapamapabilang** / **Regresyon** = Regression (ML/AI/Deep Learning Sense)
     * Pagpapamapabilang is based on the broadness of "mapping towards a continuous numerical space"
     * Lit. Act (*pag-*) of causing [present progressive-ish aspect sense] (*papa-*) a thing to do ["potentiality of X" reading] (*mapa-*) a number
+* **Pagpapaklase** / **Klasipikasyon** = Classification
 
 ## Time Series
 * **Pagdidiperensya** = Differencing
