@@ -386,6 +386,9 @@
 * **Lapi** = Token
     * As corollary of pagpapalapi and lapi being used metaphorically (e.g. panlapi)
     * English already uses token as metaphor anyway, sometimes ambiguously since it can mean so many things depending on definition
+* **Awtoregresyon** / **Otoregresyon** = Autoregression
+    * Awto and Oto are the same; its more on transliteration preference
+    * Transliteration since it is very broad
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
