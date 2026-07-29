@@ -400,6 +400,7 @@
     * Repurposing by analogy: if pulong is the full name for word, and pung is the short form by cutting letters of the original, then a token is a "short-ish"/cut form of the long "untokenized" string
     * Furthermore, pung looks like it came from BPE after tokenizing pulong lol
 * **Awtoregresyon** / **Otoregresyon** = Autoregression
+    * Awto and Oto are the same; its more on transliteration preference
     * Transliteration since it is very broad
 
 
