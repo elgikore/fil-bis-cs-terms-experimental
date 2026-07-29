@@ -357,6 +357,9 @@
 * **Pagkakaplantsa** / **Pagkakaplancha** = Smoothing Factor
     * By corollary, this is the generic word for "smoothing factor"
     * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
+* **Awtoregresor** / **Otoregresor** / **Awtoregresong Pangtalaorasan** / **Otoregresong Pangtalaorasan** = Autoregressive Model
+    * Awto and Oto are the same; its more on transliteration preference
+    * Pangtalaorasan is a disambiguation because "autoregressor" gets thrown a lot
 
 # Deep Learning
 * **Patagtuwid** = Rectified Linear Unit

@@ -368,6 +368,9 @@
     * *Pagkahim-* to replicate *pagkaka-* in Filipino
     * By corollary, this is the generic word for "smoothing factor" 
     * Plancha is a modern transliteration of plantsa, which matches pronounciation 1:1
+* **Awtoregresor** / **Otoregresor** / **Awtoregresong Pangtalaorasan** / **Otoregresong Pangtalaorasan** = Autoregressive Model
+    * Awto and Oto are the same; its more on transliteration preference
+    * Pangtalaorasan is a disambiguation because "autoregressor" gets thrown a lot
 
 # Deep Learning
 * **Patagtanos** = Rectified Linear Unit
@@ -396,6 +399,8 @@
 * **Pung** = Token
     * Repurposing by analogy: if pulong is the full name for word, and pung is the short form by cutting letters of the original, then a token is a "short-ish"/cut form of the long "untokenized" string
     * Furthermore, pung looks like it came from BPE after tokenizing pulong lol
+* **Awtoregresyon** / **Otoregresyon** = Autoregression
+    * Transliteration since it is very broad
 
 
 # Virtualization
