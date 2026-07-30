@@ -337,7 +337,7 @@
     * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
 * **Pagkasambulat** = Heteroscedasticity
     * Sambulat = "Act of scattering (many fragments are highlighted)"
-* **Pagkasambulat-hanay** = Homoscedasticity
+* **Pagkasambulathanay** = Homoscedasticity
     * Sambulat = "Act of scattering (many fragments are highlighted)"
     * Sambulat + hanay
         * Lit. Act of ordered scattering (many fragments are highlighted)
