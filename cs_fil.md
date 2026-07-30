@@ -341,8 +341,8 @@
     * Sambulat = "Act of scattering (many fragments are highlighted)"
     * Sambulat + hanay
         * Lit. Act of ordered scattering (many fragments are highlighted)
-    
-    
+* **Korelasyon** = Correlation
+    * Transliteration
 
 
 ## Time Series
@@ -389,6 +389,14 @@
 * **Awtoregresor** / **Otoregresor** / **Awtoregresong Pangtalaorasan** / **Otoregresong Pangtalaorasan** = Autoregressive Model
     * Awto and Oto are the same; its more on transliteration preference
     * Pangtalaorasan is a disambiguation because "autoregressor" gets thrown a lot
+* **Pampaawtokorelasyon** / **Pampaotokorelasyon** = Autocorrelation Function
+    * The "function" term is absorbed by the instrumentive *pampa-* (instrument/tool for causing)
+    * Awto and Oto are the same; its more on transliteration preference
+* **Pampaawtokorelasyong Pinadipagitan** / **Pampaotokorelasyong Pinadipagitan** = Partial Autocorrelation Function
+    * The "function" term is absorbed by the instrumentive *pampa-* (instrument/tool for causing)
+    * Awto and Oto are the same; its more on transliteration preference
+    * *Pina-* + *di-* + pagitan; lit. One that was made into not between/inbetween 
+        * Pagitan was chosen because PACF isolates the "in-between"/intermediate effects of lags on the two compared variables that will undergo correlation
 
 # Deep Learning
 * **Patagtuwid** = Rectified Linear Unit

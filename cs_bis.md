@@ -399,6 +399,15 @@
 * **Awtoregresor** / **Otoregresor** / **Awtoregresong Pangtalaorasan** / **Otoregresong Pangtalaorasan** = Autoregressive Model
     * Awto and Oto are the same; its more on transliteration preference
     * Pangtalaorasan is a disambiguation because "autoregressor" gets thrown a lot
+* **Pampaawtokorelasyon** / **Pampaotokorelasyon** = Autocorrelation Function
+    * The "function" term is absorbed by the instrumentive *pampa-* (instrument/tool for causing)
+    * Awto and Oto are the same; its more on transliteration preference
+* **Pampaawtokorelasyong Dinitaliwala** / **Pampaotokorelasyong Dinitaliwala** = Partial Autocorrelation Function
+    * The "function" term is absorbed by the instrumentive *pampa-* (instrument/tool for causing)
+    * Awto and Oto are the same; its more on transliteration preference
+    * *Di-* + *-in-* + taliwala; lit. One that was made into not in midst/in the middle of
+        * Pagitan was chosen because PACF isolates the "lags in the middle of"/intermediate effects of lags on the two compared variables that will undergo correlation
+
 
 # Deep Learning
 * **Patagtanos** = Rectified Linear Unit
