@@ -302,6 +302,7 @@
 
 # Data Science/ML
 * **Datos** = Data
+* **Modelo** = Model
 * **Datosan** = Dataset
 * **Dakdatosan** = Data Center
     * Modelled from *dak-* in dakbayan and dakbalay
@@ -421,6 +422,8 @@
 * **Awtoregresyon** / **Otoregresyon** = Autoregression
     * Awto and Oto are the same; its more on transliteration preference
     * Transliteration since it is very broad
+* **Modelong Nakigtinabangay** = Mixture of Experts
+    * MoE are models that help each other
 
 
 # Virtualization
@@ -428,6 +431,7 @@
 * **Gitanang Birtwalisasyon** / **Binirtwalisasyon** = Full Virtualization
 * **Pakigpabirtwalisasyon** = Paravirtualization
     * *Pakig-* (activity or endeavor to do something) + *pa-* (cause virtualization) 
+    * *Para-* = Alongside and in active involment, the closest match is *pakig-*
 * **Bilirtwalan** = Sandbox
     * Uses an old infix-suffix pattern: *-il-* + *-on/-an*
     * Modeled from tilingban (council) and sililongan (shade)

@@ -410,6 +410,8 @@
 * **Awtoregresyon** / **Otoregresyon** = Autoregression
     * Awto and Oto are the same; its more on transliteration preference
     * Transliteration since it is very broad
+* **Modelong Nakikipagtulungan** = Mixture of Experts
+    * MoE are models that help each other
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
