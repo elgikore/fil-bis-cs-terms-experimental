@@ -336,7 +336,14 @@
 * **Pagpaigkasidatos** / **Pagpaigdatos** = k Nearest Neighbors
     * *Igkasi-* / *Ig-* ("relationship/fellowship between things" reading) + datos
 * **Pagpabutstrapang Estimar** = Bootstrap Estimation
-
+* **Pleksibilidad** = Bias (Bias-Variance Tradeoff)
+    * Pleksibilidad is a Spanish-style transliteration of flexibility
+    * Bias here is not even statistical bias or any bias at all. Its quite literally the flexibility of the model
+* **Sensitibidad** = Variance (Bias-Variance Tradeoff)
+    * Bias here is not even statistical variance or any variance at all. Its quite literally the flexibility of the model
+* **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
+    * Panimbang is used because its more on the balance between two forces
+    * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
 
 ## Time Series
 * **Pagpadiperensya** = Differencing
