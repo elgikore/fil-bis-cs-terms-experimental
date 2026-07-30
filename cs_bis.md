@@ -351,7 +351,8 @@
     * Siplaag = Wide scattering
     * Siplaag + han-ay
         * Lit. Ordered wide scattering
-    
+* **Korelasyon** = Correlation
+    * Transliteration
     
 
 ## Time Series
