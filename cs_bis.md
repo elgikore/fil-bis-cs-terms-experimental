@@ -406,7 +406,7 @@
     * The "function" term is absorbed by the instrumentive *pampa-* (instrument/tool for causing)
     * Awto and Oto are the same; its more on transliteration preference
     * *Di-* + *-in-* + taliwala; lit. One that was made into not in midst/in the middle of
-        * Pagitan was chosen because PACF isolates the "lags in the middle of"/intermediate effects of lags on the two compared variables that will undergo correlation
+        * Taliwala was chosen because PACF isolates the "lags in the middle of"/intermediate effects of lags on the two compared variables that will undergo correlation
 
 
 # Deep Learning
