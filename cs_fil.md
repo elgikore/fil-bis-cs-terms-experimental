@@ -254,10 +254,11 @@
     * Ditto (borrowing)
 * **Pagpapatigman-katap** = Continuous Integeration and Continuous Deployment/Delivery
     * Ditto (borrowing)
-* **Pagkapagawa** = Feasibility
+* **Pagkamapagawa** = Feasibility
     * I used gawa as root word because it emphasizes the "buildability" of the thing
-* **Pananaliksikang Pangkapagawa** = Feasibility Study
-    * *Pang-* (method) + *ka-* (state) + *pa-* (causing/making) + gawa
+    * *Pagka-* + *mapagawa* (potential to build i.e. feasible)
+* **Pananaliksikang Pangmapagawa** = Feasibility Study
+    * *Pang-* (method for) + *mapagawa* (potential to build i.e. feasible)
 * **Pagsasakailangan** = Requirements Elicitation
     * *Sa-* + kailangan = Sakailangan = A method (means) to get (purpose) requirements (kailangan)
 * **Pagbabalik-tanaw** = Retrospection (SCRUM)
