@@ -301,6 +301,11 @@
     * Based on the "markup" reading of patong
 * **Talaorasan** = Time Series
     * Repurposing
+* **Sumatotal** = Summation
+    * Repurposing since it does sound like "summed total"
+* **Sinumasumatotal** = Cumulative Sum
+    * Suma -> Sumasuma -> Sinumasuma
+    * Lit. That (suma) which is added to (sinuma) continuously [present + past progressive-ish aspect]
 * **Pagpapatalaorasan** = Time Series Analysis
 * **Taladatosan** = Database
     * Tala here uses the "structured/record"-type reading, not just table

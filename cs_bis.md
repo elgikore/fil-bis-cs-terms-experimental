@@ -308,6 +308,11 @@
     * Modelled from *dak-* in dakbayan and dakbalay
 * **Patong** = Bias (Intercept)
     * Based on the "markup" reading of patong
+* **Sumatotal** = Summation
+    * Repurposing since it does sound like "summed total"
+* **Sinumasumatotal** = Cumulative Sum
+    * Suma -> Sumasuma -> Sinumasuma
+    * Lit. That (suma) which is added to (sinuma) continuously [present + past progressive-ish aspect]
 * **Talaorasan** = Time Series
     * From Filipino; still valid construction in Bisaya
 * **Pagpatalaorasan** = Time Series Analysis
