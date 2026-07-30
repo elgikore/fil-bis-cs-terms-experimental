@@ -260,6 +260,7 @@
     * *Pang-* (method) + *ka-* (state) + *pa-* (causing/making) + gawa
 * **Pagsasakailangan** = Requirements Elicitation
     * *Sa-* + kailangan = Sakailangan = A method (means) to get (purpose) requirements (kailangan)
+* **Pagbabalik-tanaw** = Retrospection (SCRUM)
 
 # Internet
 * **Websayt** = Website

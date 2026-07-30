@@ -269,6 +269,7 @@
     * *Pagpa-* + *hing-* (habitual reading of it) + kinahanglan
     * Lit. Act of causing habitual requirement searching
     * Pagpahingahanglan naturally arises when you speak it fast enough
+* **Pagpabalik-tan-aw** = Retrospection (SCRUM)
 
 # Internet
 * **Websayt** = Website
