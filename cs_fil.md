@@ -335,6 +335,14 @@
 * **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
     * Panimbang is used because its more on the balance between two forces
     * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
+* **Pagkasambulat** = Heteroscedasticity
+    * Sambulat = "Act of scattering (many fragments are highlighted)"
+* **Pagkasambulat-hanay** = Homoscedasticity
+    * Sambulat = "Act of scattering (many fragments are highlighted)"
+    * Sambulat + hanay
+        * Lit. Act of ordered scattering (many fragments are highlighted)
+    
+    
 
 
 ## Time Series

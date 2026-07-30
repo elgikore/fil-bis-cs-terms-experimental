@@ -345,6 +345,14 @@
 * **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
     * Panimbang is used because its more on the balance between two forces
     * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
+* **Pagkasiplaag** = Heteroscedasticity
+    * Siplaag = Wide scattering
+* **Pagkasiplaag-han-ay** = Homoscedasticity
+    * Siplaag = Wide scattering
+    * Siplaag + han-ay
+        * Lit. Ordered wide scattering
+    
+    
 
 ## Time Series
 * **Pagpadiperensya** = Differencing
