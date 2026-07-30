@@ -310,6 +310,9 @@
 * **Dinasukod** / **Ehror** / **Eror** = Statistical Error / Error / Noise / White Noise
     * Ehror / Eror is a transliteration
     * *Di-* + *na-* + sukod = Dinasukod; patterned from Dimaano, Dimagiba, etc.
+* **Ngariang Dinasukod** / **Eror Natural** / **Error Natural** = Irreducible Error
+    * Ngarian = In the bone / Deeply ingrained or inherent
+    * Eror Natural / Error Natural is a Filipino-made English that is styled like Spanish's [Noun] [Adjective] template
 * **Pagsasanay** = Training
 * **Pagsusubok** = Testing
 * **Regresyon** = Regression (Generic Sense)
