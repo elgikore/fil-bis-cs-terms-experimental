@@ -307,7 +307,7 @@
 * **Pagpapalahat** = Generalization
 * **Sukod** = Feature / Dimension
     * Because sukod also carries the dual sense of dimension and measure, which cleanly explains why a column is also called a dimension
-* **Dinasukod** / **Ehror** / **Eror** = Statistical Error / Error
+* **Dinasukod** / **Ehror** / **Eror** = Statistical Error / Error / Noise / White Noise
     * Ehror / Eror is a transliteration
     * *Di-* + *na-* + sukod = Dinasukod; patterned from Dimaano, Dimagiba, etc.
 * **Pagsasanay** = Training
