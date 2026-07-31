@@ -466,6 +466,7 @@
 * **Pakigpabirtwalisasyon** = Paravirtualization
     * *Pakig-* (activity or endeavor to do something) + *pa-* (cause virtualization) 
     * *Para-* = Alongside and in active involment, the closest match is *pakig-*
+* **Birtwalbirtwalisasyon** = Nested Virtualization
 * **Bilirtwalan** = Sandbox
     * Uses an old infix-suffix pattern: *-il-* + *-on/-an*
     * Modeled from tilingban (council) and sililongan (shade)

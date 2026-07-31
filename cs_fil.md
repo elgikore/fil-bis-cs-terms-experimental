@@ -451,6 +451,7 @@
 * **Nilahatang Birtwalisasyon** / **Binirtwalisasyon** = Full Virtualization
 * **Pakikipagbirtwalisasyon** = Paravirtualization
     * *Para-* = Alongside and in active involment, the closest match is *pakikipag-*
+* **Birtwalbirtwalisasyon** = Nested Virtualization
 * **Sangbirtwal** = Sandbox
     * *Sang-* is used to cover the idea of a bounded virtualized area, but not just a generic virtual-space
 * **Pamertwalan** = Virtual Machine
