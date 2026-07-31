@@ -262,6 +262,8 @@
 * **Pagsasakailangan** = Requirements Elicitation
     * *Sa-* + kailangan = Sakailangan = A method (means) to get (purpose) requirements (kailangan)
 * **Pagbabalik-tanaw** = Retrospection (SCRUM)
+* **Pagsasalaysay** = User Story
+    * User stories are basically someone that tells a story about their requirement
 
 # Internet
 * **Websayt** = Website
