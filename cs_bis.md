@@ -527,6 +527,7 @@
     * Page table is quite literally a tool (*pang-*) for virtual-physical address mapping
     * Bloke = Page
 * **Tigpanghitunga-birtwal** / **Tigpanghitungamertwal** = Virtual Machine Control Structure
-    * Pamagitan is used simply because a VMCS is a mediator between Hypervisor and Guest OS's states
-    * *Tig-* (one that does) + *pang-* (an instrument) + *hi-* (where the instrument has the propensity) + tunga (used metaphorically for mediator because of the existence of patunga = mediate and tigpatunga = mediator) + birtwal
+    * Tigpatunga/patunga/tunga is used simply because a VMCS is a mediator between Hypervisor and Guest OS's states
+        * Tunga is used metaphorically for mediator because of the existence of patunga = mediate and tigpatunga = mediator
+    * *Tig-* (one that does) + *pang-* (an instrument) + *hi-* (where the instrument has the propensity) + tunga + birtwal
     * Panghitunga-birtwal -> Panghitungangbirtwal -> Panghitungamirtwal -> Panghitungamertwal
