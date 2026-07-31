@@ -523,3 +523,6 @@
     * Adresbirtwal + adrespisikal
 * **Tigpaadresbirtwal-pisikal** = Memory Management Unit
     * *Tig-* + *pa-* (cause) + adresbirtwal-pisikal
+* **Pangadresbirtwal-pisikal** / **Talablokehan** = Page Table
+    * Page table is quite literally a tool (*pang-*) for virtual-physical address mapping
+    * Bloke = Page
