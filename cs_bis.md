@@ -276,6 +276,10 @@
     * *Tig-* + *pagpa-* + himo
 * **Kapaspason** = Velocity (SCRUM)
     * Its quite literally "how fast can it be finished"
+* **Isprint** / **Sprint** = Sprint
+    * Can be transliterated or kept as is because the "I" in "is" if placed in the beginning syllable tends to be silent
+    * Sprint behaves more like a proper noun
+* **Dagan sa Sprint** / **Kadaganon** = Sprint Cycle
 
 # Internet
 * **Websayt** = Website

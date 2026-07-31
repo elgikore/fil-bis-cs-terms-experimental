@@ -268,6 +268,10 @@
     * The definition of a product owner is actually closer to one that drafts requirements and hands the making role to the team (pagawa) role than just simply owning. Its an overseer but not direct management 
 * **Bilis** = Velocity (SCRUM)
     * Its quite literally "how fast can it be finished"
+* **Isprint** / **Sprint** = Sprint
+    * Can be transliterated or kept as is because the "I" in "is" if placed in the beginning syllable tends to be silent
+    * Sprint behaves more like a proper noun
+* **Daloy ng Sprint** / **Kadaloyan** = Sprint Cycle
 
 # Internet
 * **Websayt** = Website
