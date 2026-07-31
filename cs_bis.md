@@ -517,3 +517,9 @@
 * **Pagpabalhin** = Cold Migration
 * **Pagpabalhin-balhinon** / **Pagpabalhin-balhin** = Live Migration
 * **Aksesibilidad nga Lig-on** / **Lig-on** = High Availability
+* **Adrespisikal** = Physical Address
+* **Adresbirtwal** = Virtual Address
+* **Pagpaadresbirtwal-pisikal** = Virtual to Physical Address Mapping
+    * Adresbirtwal + adrespisikal
+* **Tigpaadresbirtwal-pisikal** = Memory Management Unit
+    * *Tig-* + *pa-* (cause) + adresbirtwal-pisikal

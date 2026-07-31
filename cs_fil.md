@@ -502,3 +502,9 @@
 * **Pagpalipatan** / **Pagpalipat** = Cold Migration
 * **Pagsasalipatan** / **Pagpapalipatan** = Live Migration
 * **Mataas na Aksesibilidad** / **Matibay** = High Availability
+* **Adrespisikal** = Physical Address
+* **Adresbirtwal** = Virtual Address
+* **Pagpapaadresbirtwal-pisikal** = Virtual to Physical Address Mapping
+    * Adresbirtwal + adrespisikal
+* **Tagapagpaadresbirtwal-pisikal** = Memory Management Unit
+    * *Tagapag-* + *pa-* (cause) + adresbirtwal-pisikal
