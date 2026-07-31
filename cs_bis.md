@@ -274,6 +274,8 @@
 * **Tigpagpahimo** = Product Owner
     * The definition of a product owner is actually closer to one that drafts requirements and hands the making role to the team (pagawa) role than just simply owning. Its an overseer but not direct management 
     * *Tig-* + *pagpa-* + himo
+* **Kapaspason** = Velocity (SCRUM)
+    * Its quite literally "how fast can it be finished"
 
 # Internet
 * **Websayt** = Website

@@ -266,6 +266,8 @@
     * User stories are basically someone that tells a story about their requirement
 * **Tagapagpagawa** = Product Owner
     * The definition of a product owner is actually closer to one that drafts requirements and hands the making role to the team (pagawa) role than just simply owning. Its an overseer but not direct management 
+* **Bilis** = Velocity (SCRUM)
+    * Its quite literally "how fast can it be finished"
 
 # Internet
 * **Websayt** = Website
