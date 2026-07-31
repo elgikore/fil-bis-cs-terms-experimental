@@ -270,7 +270,7 @@
     * Lit. Act of causing habitual requirement searching
     * Pagpahingahanglan naturally arises when you speak it fast enough
 * **Pagpabalik-tan-aw** = Retrospection (SCRUM)
-* **Pagpasugisayod** = User Story
+* **Pagpasugisayod** / **Pagpasaysay** = User Story
 
 # Internet
 * **Websayt** = Website
