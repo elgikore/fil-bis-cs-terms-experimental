@@ -511,3 +511,7 @@
 * **Pangadresbirtwal-pisikal** / **Talablokehan** = Page Table
     * Page table is quite literally a tool (*pang-*) for virtual-physical address mapping
     * Bloke = Page
+* **Tagapagpamagitan-birtwal** / **Tagapagpamagitamertwal** = Virtual Machine Control Structure
+    * Pamagitan is used simply because a VMCS is a mediator between Hypervisor and Guest OS's states
+    * *Tagapag-* (emphasis on agentic role) + pamagitan + birtwal
+    * Pamagitan-birtwal -> Pamagitangbirtwal -> Pamagitamirtwal -> Pamagitamertwal
