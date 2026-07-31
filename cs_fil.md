@@ -265,7 +265,7 @@
 * **Pagsasalaysay** = User Story
     * User stories are basically someone that tells a story about their requirement
 * **Tagapagpagawa** = Product Owner
-    * The definition of a product owner is actually closer to a chief of staff role than just simply owning, could be client or SCRUM Master
+    * The definition of a product owner is actually closer to one that drafts requirements and hands the making role to the team (pagawa) role than just simply owning. Its an overseer but not direct management 
 
 # Internet
 * **Websayt** = Website

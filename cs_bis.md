@@ -272,7 +272,7 @@
 * **Pagpabalik-tan-aw** = Retrospection (SCRUM)
 * **Pagpasugisayod** / **Pagpasaysay** = User Story
 * **Tigpagpahimo** = Product Owner
-    * The definition of a product owner is actually closer to a chief of staff role than just simply owning, could be client or SCRUM Master
+    * The definition of a product owner is actually closer to one that drafts requirements and hands the making role to the team (pagawa) role than just simply owning. Its an overseer but not direct management 
     * *Tig-* + *pagpa-* + himo
 
 # Internet
