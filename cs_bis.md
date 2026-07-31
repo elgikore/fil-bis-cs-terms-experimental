@@ -271,6 +271,9 @@
     * Pagpahingahanglan naturally arises when you speak it fast enough
 * **Pagpabalik-tan-aw** = Retrospection (SCRUM)
 * **Pagpasugisayod** / **Pagpasaysay** = User Story
+* **Tigpagpahimo** = Product Owner
+    * The definition of a product owner is actually closer to a chief of staff role than just simply owning, could be client or SCRUM Master
+    * *Tig-* + *pagpa-* + himo
 
 # Internet
 * **Websayt** = Website

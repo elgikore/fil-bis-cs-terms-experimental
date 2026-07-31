@@ -264,6 +264,8 @@
 * **Pagbabalik-tanaw** = Retrospection (SCRUM)
 * **Pagsasalaysay** = User Story
     * User stories are basically someone that tells a story about their requirement
+* **Tagapagpagawa** = Product Owner
+    * The definition of a product owner is actually closer to a chief of staff role than just simply owning, could be client or SCRUM Master
 
 # Internet
 * **Websayt** = Website
