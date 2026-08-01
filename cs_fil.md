@@ -146,7 +146,7 @@
 * **Memori** = Memory
     * From memori (Japanese) because it is faster to pronounce than memori
 * **Nimpuho** = Register
-    * My metaphorical extension for "provisioal / temporary", to highlight the CPU register's volatility where the values change by the second since registers are limited and designed for rapid access
+    * My metaphorical extension for "provisional / temporary", to highlight the CPU register's volatility where the values change by the second since registers are limited and designed for rapid access
 
 
 # File, Folder System, and Common Commands
