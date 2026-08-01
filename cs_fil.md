@@ -89,28 +89,6 @@
 * **Sinalagmang Pagsasamemorya** / **Pagsasamemomemorya** / **Memorya** / **RAM** = Random Access Memory / RAM
     * Sinalagma is borrowed from Bisaya (random; from root salagma = by chance) since Filipino lacks a dedicated term for randomness, not just disorderliness, or sapalaran
     * Lit. of Pagsasamemomemorya = The act (*pag-*) of doing a method for memory continuously (*sasa-*) and at a really fast rate (memomemorya) or can be interpreted as randomly 
-* **Pisa** = Bit
-    * Keeps the English pun (bit and bite) and preserve meaning (piece)
-    * Variant of piyesa in Bisaya
-* **Pyesa** = Byte
-    * Keeps the English pun (bit and bite) and preserve meaning (piece), and the orthographic change (bite -> byte; piyesa -> pyesa)
-    * Pyesa is also a common variant
-* **Pyesa-Libo** = Kilobyte
-    * Counting semantics (libo = 1000)
-* **Pyesa-Angaw** = Megabyte
-    * Archaic form of milyon (angaw) to mirror Greek prefixing
-* **Pyesa-Atos** = Gigabyte
-    * Used atos to mirror Greek prefixing; from [https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers](https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers)
-* **Pyesa-Ipaw** = Terabyte
-    * Used ipaw to mirror Greek prefixing; from [https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers](https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers)
-* **Pyesa-Liboipaw** = Petabyte
-    * Libo + ipaw
-* **Pyesa-Angawipaw** = Exabyte
-    * Angaw + ipaw
-* **Pyesa-Atosipaw** = Zettabyte
-    * Atos + ipaw
-* **Pyesa-Ipawipaw** = Yottabyte
-    * Ipaw * Ipaw
 * **Tigalawa** = Binary
     * Used a variant of tig-dalawa
 * **Tigatlo** = Ternary
@@ -139,9 +117,35 @@
     * This is because an interface is broad and its more on information exchange between two or more components
 * **Butstrap** = Bootstrap (Generic)
     * Transliterated because it is a very specific form of self-reliance ("starting from limited/small necessary resources, create complex systems out of it")
+
+
+# Low-Level Programming
+## Memory
+* **Pisa** = Bit
+    * Pronounced PIsa, not piSA
+    * Keeps the English pun (bit and bite) and preserve meaning (piece)
+    * Variant of piyesa in Bisaya
+* **Pyesa** = Byte
+    * Keeps the English pun (bit and bite) and preserve meaning (piece), and the orthographic change (bite -> byte; piyesa -> pyesa)
+    * Pyesa is also a common variant
+* **Libopyesa** = Kilobyte
+    * Counting semantics (libo = 1000)
+* **Angaw-Pyesa** = Megabyte
+    * Archaic form of milyon (angaw) to mirror Greek prefixing
+* **Atospyesa** = Gigabyte
+    * Used atos to mirror Greek prefixing; from [https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers](https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers)
+* **Ipawpyesa** = Terabyte
+    * Used ipaw to mirror Greek prefixing; from [https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers](https://en.wiktionary.org/wiki/Appendix:Tagalog_numbers)
+* **Liboipaw-Pyesa** = Petabyte
+    * Libo + ipaw
+* **Angawipaw-Pyesa** = Exabyte
+    * Angaw + ipaw
+* **Atosipaw-Pyesa** = Zettabyte
+    * Atos + ipaw
+* **Ipawipaw-Pyesa** = Yottabyte
+    * Ipaw * Ipaw
 * **Laan** = Cache
     * My metaphorical extension of "setting aside/allocate a small portion" because you are setting aside used values so that it is faster to retrieve later 
-
 
 # File, Folder System, and Common Commands
 * **Payru** = File
