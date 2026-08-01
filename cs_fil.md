@@ -33,9 +33,6 @@
 * **Tagainterpreta** = Interpreter
 * **Talaan** = Spreadsheet
     * Spreadsheet is quite literally a table of records
-* **Memorya** = Memory
-    * Neutral than alala or gunita
-    * 【Proposal】 Memori (from borrowing of memori from Japanese) because it is faster to pronounce 
 * **Kagawian** / **Gawi** = Workflow
     * As in software workflow, data science workflow, etc.
     * If you think about it, a workflow is an "established customs and practices" of a particular thing
@@ -46,12 +43,12 @@
 * **Baperan** = Buffer Space / Buffer Memory
 * **Lapwas** = Overflow
     * Repurposing; used an uncommon synonym for overflow
-* **Pagpaasikaso sa Memorya** / **Pagasikaso-Memorya** = Memory Management
+* **Pagpaasikaso sa Memori** / **Pagasikaso-Memori** = Memory Management
     * No need for *Pagpapa-* because its not really a continuous thing
-* **Pagpapaasikasikaso sa Memorya** / **Pagpapaasikasikaso** / **Pagasikasikaso-Memorya** / **Mano-Asikaso** = Manual Memory Management
+* **Pagpapaasikasikaso sa Memori** / **Pagpapaasikasikaso** / **Pagasikasikaso-Memori** / **Mano-Asikaso** = Manual Memory Management
     * The exact nuance of *Pagpapa-* is needed for this
-* **Tagapaglinis ng Memorya** / **Tagapaglinis-Memorya** = Garbage Collector
-* **Pagpapalinis ng Memorya** / **Pagpapalinis-Memorya** = Garbage Collection
+* **Tagapaglinis ng Memori** / **Tagapaglinis-Memori** = Garbage Collector
+* **Pagpapalinis ng Memori** / **Pagpapalinis-Memori** = Garbage Collection
 * **Malapagsabayan** / **Malapagsabay** = Concurrency / Concurrent
     * *Mala-* (-ish) + *pagsabay* (act of simultaneity) + *-an* (on a place; verb reading of -an)
     * Technically the root sabay already means concurrent/simultaneous but in a computer context, "simultaneity" is an illusion -- it is just CPU switching contexts fast enough that it looks like simultaneous
@@ -86,9 +83,9 @@
     * Natural pair of CPU (*ka-* companion reading)
     * Mirrors how guni (mind) became sanggunian out of a simple root
 * **Tagaimprenta** = Printer
-* **Sinalagmang Pagsasamemorya** / **Pagsasamemomemorya** / **Memorya** / **RAM** = Random Access Memory / RAM
+* **Sinalagmang Pagsasamemori** / **Pagsasamemomemori** / **Memori** / **RAM** = Random Access Memory / RAM
     * Sinalagma is borrowed from Bisaya (random; from root salagma = by chance) since Filipino lacks a dedicated term for randomness, not just disorderliness, or sapalaran
-    * Lit. of Pagsasamemomemorya = The act (*pag-*) of doing a method for memory continuously (*sasa-*) and at a really fast rate (memomemorya) or can be interpreted as randomly 
+    * Lit. of Pagsasamemomemori = The act (*pag-*) of doing a method for memory continuously (*sasa-*) and at a really fast rate (memomemori) or can be interpreted as randomly 
 * **Tigalawa** = Binary
     * Used a variant of tig-dalawa
 * **Tigatlo** = Ternary
@@ -146,6 +143,9 @@
     * Ipaw * Ipaw
 * **Laan** = Cache
     * My metaphorical extension of "setting aside/allocate a small portion" because you are setting aside used values so that it is faster to retrieve later 
+* **Memori** = Memory
+    * From memori (Japanese) because it is faster to pronounce than memori
+
 
 # File, Folder System, and Common Commands
 * **Payru** = File
@@ -492,10 +492,10 @@
 * **Esperong Pamprotekta** = Protection Rings
 * **Ikaserong Espero** / **Espero 0** / **Nakakernel** = Ring 0 / Kernel Mode
 * **Ikatlong Espero** / **Espero 3** = Ring 3 / User Mode
-* **Nakamemorya** / **Pisikal na Memorya** / **Memorya-Pisikal** = Physical Memory
-    * *Nakamemorya* = Memory that is actually stored
-* **Malamemorya** / **Birtwal na Memorya** / **Memorya-Birtwal** = Virtual Memory
-    * *Malamemorya* = Memory-like i.e. similar to memory but not phsyical memory
+* **Nakamemori** / **Pisikal na Memori** / **Memori-Pisikal** = Physical Memory
+    * *Nakamemori* = Memory that is actually stored
+* **Malamemori** / **Birtwal na Memori** / **Memori-Birtwal** = Virtual Memory
+    * *Malamemori* = Memory-like i.e. similar to memory but not phsyical memory
 * **Bloke** = Page
     * Since bloke also means brick, the "fixed" size is implied
 * **Pagpapabloke** = Paging
@@ -503,7 +503,7 @@
     * Since a lalagyan (container) can be of any size, the flexibility is implied
 * **Pagsasakonteksto** = Context Switching
     * *Pagsasa-* implies switching because the CPU focuses on one thing at a time (not truly parallel)
-* **Pagsasamakamemorya** = Direct Memory Access
+* **Pagsasamakamemori** = Direct Memory Access
     * Modeled from samakatuwid (therefore) breakdown: *sa-* + makatuwid (to be able to straighten); and *maka-* focuses on the actor, and the potentiality/be able to do on the root word
     * *Pagsasa-* implies requesting again and again, not just once
 * **Pagpalipatan** / **Pagpalipat** = Cold Migration

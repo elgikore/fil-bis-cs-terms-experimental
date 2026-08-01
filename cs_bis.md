@@ -36,9 +36,6 @@
 * **Tiginterpreta** = Interpreter
 * **Talaan** = Spreadsheet
     * Spreadsheet is quite literally a table of records
-* **Memorya** = Memory
-    * Neutral than panumdoman
-    * 【Proposal】 Memori (from borrowing of memori from Japanese) because it is faster to pronounce 
 * **Kagawian** / **Gawi** = Workflow
     * As in software workflow, data science workflow, etc.
     * If you think about it, a workflow is an "established customs and practices" of a particular thing
@@ -49,10 +46,10 @@
 * **Baperanan** = Buffer Space / Buffer Memory
 * **Lanap** = Overflow
     * Repurposing; used an uncommon synonym for overflow
-* **Pagpaatiman sa Memorya** / **Pagatiman-Memorya** = Memory Management
-* **Pagpaatiatiman sa Memorya** / **Pagatiatiman-Memorya** / **Atiman-Mano** = Manual Memory Management
-* **Tiglimpyo sa Memorya** / **Tiglimpyo-Memorya** = Garbage Collector
-* **Pagpalimpyo sa Memorya** / **Pagpalimpyo-Memorya** = Garbage Collection
+* **Pagpaatiman sa Memori** / **Pagatiman-Memori** = Memory Management
+* **Pagpaatiatiman sa Memori** / **Pagatiatiman-Memori** / **Atiman-Mano** = Manual Memory Management
+* **Tiglimpyo sa Memori** / **Tiglimpyo-Memori** = Garbage Collector
+* **Pagpalimpyo sa Memori** / **Pagpalimpyo-Memori** = Garbage Collection
 * **Dinungan** / **Pasabaysabay** = Concurrency / Concurrent
     * *Pa-* + sabay (2x) = imitation version of sabay
     * -in- here uses the reading "in the style of"
@@ -92,8 +89,8 @@
     * Natural pair of CPU (*ka-* companion reading)
     * Sangprosesohan borrowed from Filipino since it is not just a bigger scale like *dak-*
 * **Tig-imprenta** = Printer
-* **Sinalagmang Pagpahimemorya** / **Pagpahimemomemorya** / **Memorya** / **RAM** = Random Access Memory / RAM
-    * Lit. of Pagpahimemomemorya = The act of causing (*pagpa-*) a propensity for memory or requesting memory (*hi-*) at a really fast rate (memomemorya) or can be interpreted as randomly 
+* **Sinalagmang Pagpahimemori** / **Pagpahimemomemori** / **Memori** / **RAM** = Random Access Memory / RAM
+    * Lit. of Pagpahimemomemori = The act of causing (*pagpa-*) a propensity for memory or requesting memory (*hi-*) at a really fast rate (memomemori) or can be interpreted as randomly 
 * **Tagduha** = Binary
 * **Tagtres** / **Tagres** = Ternary
     * Tagtres -> Tagres (by simplification)
@@ -149,6 +146,8 @@
     * Ipaw * Ipaw
 * **Gahin** = Cache
     * My metaphorical extension of "setting aside/allocate a small portion" because you are setting aside used values so that it is faster to retrieve later 
+* **Memori** = Memory
+    * From memori (Japanese) because it is faster to pronounce than memorya
 
 
 # File, Folder System, and Common Commands
@@ -505,9 +504,9 @@
 * **Esperong Pamprotekta** = Protection Rings
 * **Ikaserong Espero** / **Espero 0** / **Nakakernel** = Ring 0 / Kernel Mode
 * **Ikatulong Espero** / **Espero 3** = Ring 3 / User Mode
-* **Nakamemorya** / **Pisikal nga Memorya** / **Memorya-Pisikal** = Physical Memory
-    * *Nakamemorya* = Memory that is actually stored
-* **Minimemorya** / **Birtwal nga Memorya** / **Memorya-Birtwal** = Virtual Memory
+* **Nakamemori** / **Pisikal nga Memori** / **Memori-Pisikal** = Physical Memory
+    * *Nakamemori* = Memory that is actually stored
+* **Minimemori** / **Birtwal nga Memori** / **Memori-Birtwal** = Virtual Memory
     * *-in-* uses the "in the style of X" reading
 * **Bloke** = Page
     * Since bloke also means brick, the "fixed" size is implied
@@ -516,7 +515,7 @@
     * Since a sudlanan (container) can be of any size, the flexibility is implied
 * **Pagpahikonteksto** = Context Switching
     * Used the *hi-*/*hing-* to replicate *pagsasa-* in Bisaya; also, it fits because it is a inclination or propensity of CPU to switch to context when the process is interrupted or preempted
-* **Pagpahimemorya** = Direct Memory Access
+* **Pagpahimemori** = Direct Memory Access
     * Used the *hi-*/*hing-* to replicate *pagsasa-* in Bisaya; and it fits because it is not a one time request but an inclination to request memory
 * **Pagpabalhin** = Cold Migration
 * **Pagpabalhin-balhinon** / **Pagpabalhin-balhin** = Live Migration
