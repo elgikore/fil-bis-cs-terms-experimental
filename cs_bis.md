@@ -148,6 +148,8 @@
     * My metaphorical extension of "setting aside/allocate a small portion" because you are setting aside used values so that it is faster to retrieve later 
 * **Memori** = Memory
     * From memori (Japanese) because it is faster to pronounce than memorya
+* **Abiyo** = Register
+    * My metaphorical extension for "provisions for daily use", to highlight the CPU register's volatility where the values change by the second since registers are limited and designed for rapid access
 
 
 # File, Folder System, and Common Commands
