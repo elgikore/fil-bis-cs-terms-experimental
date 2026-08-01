@@ -147,6 +147,31 @@
     * From memori (Japanese) because it is faster to pronounce than memori
 * **Nimpuho** = Register
     * My metaphorical extension for "provisional / temporary", to highlight the CPU register's volatility where the values change by the second since registers are limited and designed for rapid access
+* **Adres** / **Adresemori** / **Adres-Memori** = Memory Address
+    * Adres-memori -> Adresmemori -> Adresemori (by smoothing)
+
+## Pointers
+* **Adrespunto** = Pointer / Reference
+* **Adresnulo** / **Nulo** = Null Pointer / Null
+    * Adres + nulo (null)
+* **Diadrespunto** = Dereference
+    * *Di-* + adres + punto; patterned from Dimaano, Dimagiba, etc.
+    * Lit. "Not an address point"
+* **Padiadrespunto** = Dereferencing (verb)
+    * *Pa-* + *Di-* + adres + punto
+* **Diadrespunto sa Nulo** = Null Pointer Dereference
+* **Diadresnulo** = Not Null
+    * *Di-* + Adres + nulo
+* **Adrespaiwan** = Dangling Pointer
+    * Adres + paiwan
+    * Lit. "Left behind address"
+* **Adres-Dinakatayo** / **Di-nakatayong Adres** = Uninitialized Pointer
+    * Adres + *di-* + *naka-* + tayo
+* **Adrespinatuloy** = Use-after-Free
+    * Adres + *pina-* + tuloy
+    * Because you use the address again (pinatuloy) even if it is already freed
+* **Adresbahaw** = Stale Pointer
+    * It might be funny at first but if you think about it, its a pointer that still keeps the bahaw address, where it can be expired (crash) or the taste changes (undefined behavior)
 
 
 # File, Folder System, and Common Commands
