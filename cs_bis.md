@@ -146,6 +146,8 @@
     * This is because an interface is broad and its more on information exchange between two or more components
 * **Butstrap** = Bootstrap (Generic)
     * Transliterated because it is a very specific form of self-reliance ("starting from limited/small necessary resources, create complex systems out of it")
+* **Gahin** = Cache
+    * My metaphorical extension of "setting aside/allocate a small portion" because you are setting aside used values so that it is faster to retrieve later 
 
 
 # File, Folder System, and Common Commands
