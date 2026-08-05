@@ -313,7 +313,10 @@
     * Sprint behaves more like a proper noun
 * **Daloy ng Sprint** / **Kadaloyan** = Sprint Cycle
 * **Pagkadisenyo sa Estraktura** = Architectural Design
-* **Sistematikong Pagpapamodelo** = Systems Design
+* **Sistematikong Pagpapamodelo** = System Modelling
+* **Pagpapatantyang Pangsoftware** = Software Estimation
+    * Tantya is used because its more on gauging/trial and error estimate
+    * Software is kept as is for now
 
 # Internet
 * **Websayt** = Website
