@@ -116,6 +116,10 @@
     * Transliterated because it is a very specific form of self-reliance ("starting from limited/small necessary resources, create complex systems out of it")
 * **Estraktura** = Architecture (Generic)
     * More accurately reflects the structure meaning since arkitectura is more on the literal architecture
+* **Huwag Balik-Balikan** = Don't Repeat Yourself
+* **Simplihin Mo Lang** = Keep it Simple, Stupid
+* **Isang Tungkulin Lamang** = Single Responsibility Principle
+
 
 # Low-Level Programming
 ## Memory

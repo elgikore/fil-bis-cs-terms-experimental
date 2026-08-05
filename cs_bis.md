@@ -121,7 +121,9 @@
     * Transliterated because it is a very specific form of self-reliance ("starting from limited/small necessary resources, create complex systems out of it")
 * **Estraktura** = Architecture (Generic)
     * More accurately reflects the structure meaning since arkitectura is more on the literal architecture
-
+* **Ayaw Balik-Baliki** = Don't Repeat Yourself
+* **Isimplihi ra Na** = Keep it Simple, Stupid
+* **Usa ra ka Responsibilidad** = Single Responsibility Principle
 
 # Low-Level Programming
 ## Memory and CPU
