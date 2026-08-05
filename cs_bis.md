@@ -124,6 +124,7 @@
 * **Ayaw Balik-Baliki** = Don't Repeat Yourself
 * **Isimplihi ra Na** = Keep it Simple, Stupid
 * **Usa ra ka Responsibilidad** = Single Responsibility Principle
+* **Usa-usa nga Pagbahala** Separation of Concerns
 
 # Low-Level Programming
 ## Memory and CPU

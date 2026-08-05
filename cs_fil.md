@@ -119,6 +119,7 @@
 * **Huwag Balik-Balikan** = Don't Repeat Yourself
 * **Simplihin Mo Lang** = Keep it Simple, Stupid
 * **Isang Tungkulin Lamang** = Single Responsibility Principle
+* **Isa-Isang Pagbabahala** Separation of Concerns
 
 
 # Low-Level Programming
