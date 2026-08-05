@@ -120,7 +120,12 @@
 * **Simplihin Mo Lang** = Keep it Simple, Stupid
 * **Isang Tungkulin Lamang** = Single Responsibility Principle
 * **Isa-Isang Pagbabahala** Separation of Concerns
-
+* **Pagkahalabid** = Coupling
+    * Halabid is used because it has a very specific meaning: "tangled rope and the like", and metaphorically extend from there
+* **Pagsasadihalabid** = Coupling
+    * *Sa-* + *di-* + halabid = A method (means) to get (purpose) a lessening (*di-*) of coupling (halabid)
+* **Halabid Masyado** = High Coupling
+* **Di Masyado Halabid** = Low Coupling
 
 # Low-Level Programming
 ## Memory

@@ -125,6 +125,12 @@
 * **Isimplihi ra Na** = Keep it Simple, Stupid
 * **Usa ra ka Responsibilidad** = Single Responsibility Principle
 * **Usa-usa nga Pagbahala** Separation of Concerns
+* **Pagkagumon** = Coupling
+    * Gumon is used because it has a very specific meaning: "ball of entangled fiber", and metaphorically extend from there
+* **Pagpadipagumon** = Coupling
+    * *Di-* + *pa-* + gumon = "To not cause coupling"
+* **Gumon Masyado** = High Coupling
+* **Di Masyado Gumon** = Low Coupling
 
 # Low-Level Programming
 ## Memory and CPU
