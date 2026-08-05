@@ -126,6 +126,9 @@
     * *Sa-* + *di-* + halabid = A method (means) to get (purpose) a lessening (*di-*) of coupling (halabid)
 * **Halabid Masyado** = High Coupling
 * **Di Masyado Halabid** = Low Coupling
+* **Modyularidad** / **Mojularidad** = Modularity
+    * Because modyul exists which also has the same exact meaning as English
+    * Mojularidad is a modern style transliteration of GPU and Dyipiyu is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
 
 # Low-Level Programming
 ## Memory

@@ -131,6 +131,9 @@
     * *Di-* + *pa-* + gumon = "To not cause coupling"
 * **Gumon Masyado** = High Coupling
 * **Di Masyado Gumon** = Low Coupling
+* **Modyularidad** / **Mojularidad** = Modularity
+    * Because modyul exists which also has the same exact meaning as English
+    * Mojularidad is a modern style transliteration of GPU and Dyipiyu is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
 
 # Low-Level Programming
 ## Memory and CPU
