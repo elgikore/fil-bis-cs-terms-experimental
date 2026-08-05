@@ -119,6 +119,8 @@
     * This is because an interface is broad and its more on information exchange between two or more components
 * **Butstrap** = Bootstrap (Generic)
     * Transliterated because it is a very specific form of self-reliance ("starting from limited/small necessary resources, create complex systems out of it")
+* **Estraktura** = Architecture (Generic)
+    * More accurately reflects the structure meaning since arkitectura is more on the literal architecture
 
 
 # Low-Level Programming
@@ -152,6 +154,11 @@
     * My metaphorical extension for "provisions for daily use", to highlight the CPU register's volatility where the values change by the second since registers are limited and designed for rapid access
 * **Adres** / **Adresemori** / **Adres-Memori** = Memory Address
     * Adres-memori -> Adresmemori -> Adresemori (by smoothing)
+* **Pisa Natural** = Word
+    * Word is one of the most ambiguous terms ever. Even though it means a natural unit of data, it shifts constantly depending on architecture, C header, Window's definition of it, and embedded systems
+* **Bahin-Memori** / **Bahimemori** = Memory Segment
+    * Bahin-memori -> Bahinmemori -> Bahimemori
+* **Pagpabahin-Memori** / **Pagpabahimemori** = Memory Segmentation
 
 ## Pointers
 * **Adrespunto** = Pointer / Reference
