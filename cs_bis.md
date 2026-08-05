@@ -317,6 +317,7 @@
     * Sprint behaves more like a proper noun
 * **Dagan sa Sprint** / **Kadaganon** = Sprint Cycle
 * **Pagkadisenyo sa Estraktura** = Architectural Design
+* **Sistematikong Pagpamodelo** = System Modelling
 
 # Internet
 * **Websayt** = Website
