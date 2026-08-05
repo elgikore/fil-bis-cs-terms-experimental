@@ -318,8 +318,9 @@
 * **Dagan sa Sprint** / **Kadaganon** = Sprint Cycle
 * **Pagkadisenyo sa Estraktura** = Architectural Design
 * **Sistematikong Pagpamodelo** = System Modelling
-* **Pagpatantyang Pangsoftware** = Software Estimation
+* **Pagpatantyang Pangsoftware** / **Pagpatanchang Pangsoftware** = Software Estimation
     * Tantya is used because its more on gauging/trial and error estimate
+    * Tancha is a modern version of tantya that accurately reflects pronounciation
     * Software is kept as is for now
 
 # Internet
