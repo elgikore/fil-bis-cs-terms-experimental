@@ -316,6 +316,7 @@
     * Can be transliterated or kept as is because the "I" in "is" if placed in the beginning syllable tends to be silent
     * Sprint behaves more like a proper noun
 * **Dagan sa Sprint** / **Kadaganon** = Sprint Cycle
+* **Pagkadisenyo sa Estraktura** = Architectural Design
 
 # Internet
 * **Websayt** = Website
