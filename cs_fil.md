@@ -377,7 +377,7 @@
     * This is because its reminiscent of hulagway, without the *way*
 * **Pagkakulang-kulang** / **Pagkakulang-kulang sa Datos** /  **Pagkakulang-kulang sa Balyu** = Missing Values /Data
 * **Paghahalili sa Datos** / **Paghahalili** = Imputation / Data Imputation
-    * Hailili (substitute/stand-in/proxy; and by extension panghalili) is chosen based on the fact that these values act as stand-ins/proxies for `NA`
+    * Halili (substitute/stand-in/proxy; and by extension panghalili) is chosen based on the fact that these values act as stand-ins/proxies for `NA`
 * **Patong** = Bias (Intercept)
     * Based on the "markup" reading of patong
 * **Talaorasan** = Time Series
