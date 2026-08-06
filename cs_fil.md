@@ -576,3 +576,11 @@
     * Pamagitan is used simply because a VMCS is a mediator between Hypervisor and Guest OS's states
     * *Tagapag-* (emphasis on agentic role) + pamagitan + birtwal
     * Pamagitan-birtwal -> Pamagitangbirtwal -> Pamagitamirtwal -> Pamagitamertwal
+
+## As a Service
+* **Pagkakaserbisyo** = As a Service / Mode of Service
+    * The nuance of *pagkaka-* (focusing of the manner in a state) is needed here
+* **Pangimprastraktura na Pagkakaserbisyo** = Infrastructure as a Service
+* **Pansoftware na Pagkakaserbisyo** = Software as a Service
+    * Software is kept as is for now
+* **Pamplataporma na Pagkakaserbisyo** = Platform as a Service

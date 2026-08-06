@@ -587,3 +587,11 @@
         * Tunga is used metaphorically for mediator because of the existence of patunga = mediate and tigpatunga = mediator
     * *Tig-* (one that does) + *pang-* (an instrument) + *hi-* (where the instrument has the propensity) + tunga + birtwal
     * Panghitunga-birtwal -> Panghitungangbirtwal -> Panghitungamirtwal -> Panghitungamertwal
+
+## As a Service
+* **Pagkahinerbisyo** = As a Service / Mode of Service
+    * *Pagkahin-* to replicate *pagkaka-* in Filipino
+* **Pangimprastraktura nga Pagkahinerbisyo** = Infrastructure as a Service
+* **Pansoftware nga Pagkahinerbisyo** = Software as a Service
+    * Software is kept as is for now
+* **Pamplataporma nga Pagkahinerbisyo** = Platform as a Service
