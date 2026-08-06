@@ -378,6 +378,8 @@
 * **Pagkakulang-kulang** / **Pagkakulang-kulang sa Datos** /  **Pagkakulang-kulang sa Balyu** = Missing Values /Data
 * **Paghahalili sa Datos** / **Paghahalili** = Imputation / Data Imputation
     * Halili (substitute/stand-in/proxy; and by extension panghalili) is chosen based on the fact that these values act as stand-ins/proxies for `NA`
+* **Probabilidadong Paghahalili** = Multiple Imputation
+    * Multiple is pretty misleading, its actually drawing from a probability distribution
 * **Patong** = Bias (Intercept)
     * Based on the "markup" reading of patong
 * **Talaorasan** = Time Series
