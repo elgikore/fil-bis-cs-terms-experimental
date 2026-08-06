@@ -372,8 +372,12 @@
 * **Datosan** = Dataset
 * **Dakdatosan** = Data Center
     * Modelled from *dak-* in dakbayan and dakbalay
+* **Balyu** / **Bili** = Value
+    * Balyu is a transliteration
+    * Sometimes bili works, sometimes isn't
 * **Hulag** = Figure (as in Fig. 1)
     * This is because its reminiscent of hulagway, without the *way*
+* **Pagkakulang-kulang** / **Pagkakulang-kulang sa Datos** /  **Pagkakulang-kulang sa Balyu** = Missing Values /Data
 * **Patong** = Bias (Intercept)
     * Based on the "markup" reading of patong
 * **Sumatotal** = Summation
