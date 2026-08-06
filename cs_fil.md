@@ -584,3 +584,6 @@
 * **Pansoftware na Pagkakaserbisyo** = Software as a Service
     * Software is kept as is for now
 * **Pamplataporma na Pagkakaserbisyo** = Platform as a Service
+* **Adyastabilidad** / **Adjastabilidad** = Elasticity
+    * Used adyas/adjust because its widely understood term for "dynamically tweaked on the fly"
+    * Adjastabilidad is a modern style transliteration and Adyastabilidad is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
