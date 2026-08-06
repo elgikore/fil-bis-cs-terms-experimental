@@ -372,6 +372,8 @@
 * **Datosan** = Dataset
 * **Dakdatosan** = Data Center
     * Modelled from *dak-* in dakbayan and dakbalay
+* **Hulag** = Figure (as in Fig. 1)
+    * This is because its reminiscent of hulagway, without the *way*
 * **Patong** = Bias (Intercept)
     * Based on the "markup" reading of patong
 * **Sumatotal** = Summation

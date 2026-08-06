@@ -369,6 +369,9 @@
 * **Datos** = Data
 * **Datosan** = Dataset
 * **Sandatosan** = Data Center
+* **Hulag** = Figure (as in Fig. 1)
+    * Borrowed from Bisaya
+    * This is because its reminiscent of hulagway, without the *way*
 * **Patong** = Bias (Intercept)
     * Based on the "markup" reading of patong
 * **Talaorasan** = Time Series
