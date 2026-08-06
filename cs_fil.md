@@ -431,6 +431,12 @@
         * Lit. Act of ordered scattering (many fragments are highlighted)
 * **Korelasyon** = Correlation
     * Transliteration
+* **Kulang Dahil Nagkataon** = Missing Completely At Random
+    * "Completely at Random" here means by pure chance
+* **Kulang Dahil Hindi Naisama** = Missing At Random
+    * The most misleading name ever -- naming it "random" but defining it as "not completely random, but depends on observed data"
+* **Kulang Dahil Hindi Nasukat** = Missing Not At Random
+    * "Not at Random" is also a misnomer, it actually is about missing values are due to unmeasured variables
 
 
 ## Time Series
