@@ -441,7 +441,11 @@
     * The most misleading name ever -- naming it "random" but defining it as "not completely random, but depends on observed data"
 * **Kulang Tungod Wala Nasukod** = Missing Not At Random
     * "Not at Random" is also a misnomer, it actually is about missing values are due to unmeasured variables
-    
+* **Eskurba** / **Eskurbada** = Sigmoid
+    * From transliteration of S-curve = Es + kurba (short form)/kurbada (standard form); used S-curve as base because it is already intuitive
+    * Sigmoid is literally "Like Sigma/Greek S", which is why a sigmoid is also called an S-curve
+
+
 
 ## Time Series
 * **Pagpadiperensya** = Differencing
