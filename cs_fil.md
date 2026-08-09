@@ -443,6 +443,10 @@
 * **Eskurba** / **Eskurbada** = Sigmoid
     * From transliteration of S-curve = Es + kurba (short form)/kurbada (standard form); used S-curve as base because it is already intuitive
     * Sigmoid is literally "Like Sigma/Greek S", which is why a sigmoid is also called an S-curve
+* **Eskurbakomun** / **Eskurbadakomun** = Logistic Function
+    * Komun was used because the logistic function is pretty much the most common form of sigmoid, and also to match the pattern of sentido komun since the word eskurba sounds like it was transliterated from Spanish
+* **Eskurbakomung Pangklasipika** / **Eskurbakomung Pampaklase** = Logistic Regression
+    * It is NOT regression because this is a classification problem
 * **Agwat** = Odds (Probability)
     * This is the closest thing of "what are the odds?" in a gap sense like "the odds are 3 to 1", not just tsansa
 * **Agwat-Kalab-a** / **Agwat-Kaeksponen** / **Agwat-Log** / **Logwat** = Log Odds
