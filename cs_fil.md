@@ -448,7 +448,7 @@
 * **Eskurbakomun** / **Eskurbadakomun** = Logistic Function
     * Komun was used because the logistic function is pretty much the most common form of sigmoid, and also to match the pattern of sentido komun since the word eskurba sounds like it was transliterated from Spanish
 * **Eskurbakomung Pangklasipika** / **Eskurbakomung Pampaklase** = Logistic Regression
-    * It is NOT regression because this is a classification problem
+    * It is NOT a regression problem because this is a classification problem. It is only regression in the sense of "best fit line/curve of sigmoid", similar to calling a neural network model "linear regression with non-linearity"
 * **Agwat** = Odds (Probability)
     * This is the closest thing of "what are the odds?" in a gap sense like "the odds are 3 to 1", not just tsansa
 * **Agwat-Kalab-a** / **Agwat-Kaeksponen** / **Agwat-Log** / **Logwat** = Log Odds
