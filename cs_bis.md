@@ -447,8 +447,11 @@
 * **Eskurba** / **Eskurbada** = Sigmoid
     * From transliteration of S-curve = Es + kurba (short form)/kurbada (standard form); used S-curve as base because it is already intuitive
     * Sigmoid is literally "Like Sigma/Greek S", which is why a sigmoid is also called an S-curve
-
-
+* **Gintang** = Odds (Probability)
+    * This is the closest thing of "what are the odds?" in a gap sense like "the odds are 3 to 1", not just tsansa
+* **Gintang-Kalab-a** / **Gintang-Kaeksponen** / **Gintang-Log** / **Logginta** = Log Odds
+    * Log + ginta = Logginta
+    * Might refine it
 
 ## Time Series
 * **Pagpadiperensya** = Differencing

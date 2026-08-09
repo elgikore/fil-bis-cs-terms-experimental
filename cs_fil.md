@@ -442,8 +442,12 @@
     * "Not at Random" is also a misnomer, it actually is about missing values are due to unmeasured variables
 * **Eskurba** / **Eskurbada** = Sigmoid
     * From transliteration of S-curve = Es + kurba (short form)/kurbada (standard form); used S-curve as base because it is already intuitive
-    
     * Sigmoid is literally "Like Sigma/Greek S", which is why a sigmoid is also called an S-curve
+* **Agwat** = Odds (Probability)
+    * This is the closest thing of "what are the odds?" in a gap sense like "the odds are 3 to 1", not just tsansa
+* **Agwat-Kalab-a** / **Agwat-Kaeksponen** / **Agwat-Log** / **Logwat** = Log Odds
+    * Log + agwat = Logwat
+    * Might refine it
 
 ## Time Series
 * **Pagdidiperensya** = Differencing
