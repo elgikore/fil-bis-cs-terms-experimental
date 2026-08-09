@@ -137,6 +137,8 @@
 * **Modyularidad** / **Mojularidad** = Modularity
     * Because modyul exists which also has the same exact meaning as English
     * Mojularidad is a modern style transliteration while Modyularidad is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
+* **Hagdan** = Threshold (Generic Sense)
+    * Used hagdan figuratively to mean the gap between staircase steps, which implies a sharp cutoff/discretized jumps
 
 # Low-Level Programming
 ## Memory and CPU
