@@ -98,9 +98,12 @@
     * *Tag-* + dyesesais -> Tagdyesesais -> Tagesisais (by common fusion from some variants) -> Tagesais (by simplification)
 * **Sai** = Sign (Floating-pt.)
     * Transliterated
-* **Lab-a** / **Eksponen** / **Ekspone** = Exponent (Floating-pt.)
+* **Lab-a** / **Eksponen** / **Ekspone** = Exponent
     * From lab-a (exponent): [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
     * Eksponen / Ekspone is transliterated from English
+* **Kalab-a** / **Ka-eksponen** / **Ka-ekspone** / **Logaritmo** = Logarithm
+    * Modeled from how *co-* trig. operators start with *ka-* to specify opposites: [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
+    * Logaritmo is a common transliteration
 * **Sikapisa** = Mantissa (Floating-pt.)
     * *Sika-* (prefix for denominators) + pisa
         * This is because it always refer to the fractional bit in IEEE-754 visualizations

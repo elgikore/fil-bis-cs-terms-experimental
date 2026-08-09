@@ -94,9 +94,12 @@
     * *Tig-* + dyesesais -> Tigdyesesais -> Tigesisais (by common fusion from variants) -> Tigesais (by simplification)
 * **Sai** = Sign (Floating-pt.)
     * Transliterated
-* **Lab-a** / **Eksponen** / **Ekspone** = Exponent (Floating-pt.)
+* **Lab-a** / **Eksponen** / **Ekspone** = Exponent
     * From lab-a (exponent) in Bisaya: [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
     * Eksponen / Ekspone is transliterated from English
+* **Kalab-a** / **Ka-eksponen** / **Ka-ekspone** / **Logaritmo** = Logarithm
+    * Modeled from how *co-* trig. operators start with *ka-* to specify opposites: [https://www.binisaya.com/content/pagtudlo-sa-matimatika](https://www.binisaya.com/content/pagtudlo-sa-matimatika)
+    * Logaritmo is a common transliteration
 * **Sikapisa** = Mantissa (Floating-pt.)
     * *Sika-* (prefix for denominators; borrowed from Bisaya) + pisa
         * This is because it always refer to the fractional bit in IEEE-754 visualizations
@@ -439,6 +442,7 @@
     * "Not at Random" is also a misnomer, it actually is about missing values are due to unmeasured variables
 * **Eskurba** / **Eskurbada** = Sigmoid
     * From transliteration of S-curve = Es + kurba (short form)/kurbada (standard form); used S-curve as base because it is already intuitive
+    
     * Sigmoid is literally "Like Sigma/Greek S", which is why a sigmoid is also called an S-curve
 
 ## Time Series
