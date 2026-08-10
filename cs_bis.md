@@ -459,6 +459,9 @@
 * **Gintang-Kalab-a** / **Gintang-Kaeksponen** / **Gintang-Log** / **Logginta** = Log Odds
     * Log + ginta = Logginta
     * Might refine it
+* **Pampadesidesisyonanan** = Decision Tree / Classification and Regression Tree
+    * This is not a process but more of a tool
+    * It is quite literally a decision that branches to other decisions
 
 ## Bias-Variance
 * **Pagpabutstrapang Estimar** = Bootstrap Estimation
@@ -470,9 +473,8 @@
 * **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
     * Panimbang is used because its more on the balance between two forces
     * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
-* **Pampadesidesisyonanan** = Random Forest
-    * This is not a process but more of a tool
-    * It is quite literally a decision that branches to other decisions
+* **Dakdesidesisyonanan** = Random Forest
+    * This is not a process but more of a tool, a big collection (*dak-* + *-anan*) of decision trees 
 * **Modelong Nakigubanuban** = Ensemble Learning
     * Ensemble Learning are models that accompany each other to make predictions
 * **Prinsipyo sa Kadaghanan** = Wisdom of the Crowds

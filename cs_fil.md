@@ -453,6 +453,10 @@
 * **Agwat-Kalab-a** / **Agwat-Kaeksponen** / **Agwat-Log** / **Logwat** = Log Odds
     * Log + agwat = Logwat
     * Might refine it
+* **Pampadesidesisyonan** = Decision Tree / Classification and Regression Tree
+    * Uses the "place of X" meaning of *-an*
+    * This is not a process but more of a tool
+    * It is quite literally a decision that branches to other decisions
 
 ## Bias-Variance
 * **Pagpapabutstrapang Estimar** = Bootstrap Estimation
@@ -465,9 +469,8 @@
 * **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
     * Panimbang is used because its more on the balance between two forces
     * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
-* **Pampaadesidesisyonan** = Random Forest
-    * Uses the "place of X" meaning of *-an*
-    * This is not a process but more of a tool
+* **Sangdesidesisyonan** = Random Forest
+    * This is not a process but more of a tool, a big collection (*sang- -an*) of decision trees 
     * It is quite literally a decision that branches to other decisions
 * **Modelong Nakikipagsamasama** = Ensemble Learning
     * Ensemble Learning are models that join/accompany each other to make predictions
