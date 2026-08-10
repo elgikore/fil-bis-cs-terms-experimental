@@ -299,6 +299,13 @@
     * Used a common carpentry expression: X por Y
 
 # Development Process
+* **Kaugmaran** / **Pagpaugmad** = Development
+    * Borrowed from Bisaya because the root (ugmad) means to cultivate or till, which captures the semantics of development as in software development -- it isn't overarching progress (unlad) or flourishing/advancement (progreso), its more on a medium-level if that makes sense like its more on building and maintaining it like a plant being cultivated
+    * It is also because kaugmaran already means development
+* **Pamahalaang Pangkaugmaran** = Configuration Management
+    * Even though it literally means Development Management, configuration here is a misnomer, because it is on managing VCS, Build and Release Pipelines, and Change Management -- things that are done in building a system, not configuring settings
+* **Kaugmarang Pangsoftware** = Software Development
+    * Software is used as is for now
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
     * Because it is in discrete phases and no going back
 * **Kagawiang Agile** / **Gawi-Agile** = Agile Methodology / Agile Workflow
