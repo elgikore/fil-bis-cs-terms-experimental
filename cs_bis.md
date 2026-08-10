@@ -313,6 +313,8 @@
 * **Dumalang Pangkaugmaran** = Configuration Management
     * Even though it literally means "Management that is for developing", configuration here is a misnomer, because it is on managing VCS, Build and Release Pipelines, and Change Management -- things that are done in building a system, not configuring settings
     * No need for pagdumala (the actual word for management) because the focus is management for developing (a system)
+* **Dumalang Pambersyon** = Version Management
+* **Pagpabersyon** = Versioning
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
     * Because it is in discrete phases and no going back
 * **Kagawiang Agile** / **Gawi-Agile** = Agile Methodology / Agile Workflow

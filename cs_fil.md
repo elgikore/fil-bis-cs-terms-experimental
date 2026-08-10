@@ -304,6 +304,8 @@
     * It is also because kaugmaran already means development
 * **Pamahalaang Pangkaugmaran** = Configuration Management
     * Even though it literally means Development Management, configuration here is a misnomer, because it is on managing VCS, Build and Release Pipelines, and Change Management -- things that are done in building a system, not configuring settings
+* **Pamahalaang Pambersyon** = Version Management
+* **Pagpapabersyon** = Versioning
 * **Kaugmarang Pangsoftware** = Software Development
     * Software is used as is for now
 * **Kagawiang Pagsunod-sunod** / **Gawi-Sunodsunod** = Waterfall Model
