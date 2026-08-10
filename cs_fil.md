@@ -646,4 +646,4 @@
     * Used this affix stack because it has an emphasis that anything can be servicified (mapaserbisyo)
     * *Pagpapa-* + *mapa-* + serbisyo
 * **Pagsasatalaarawan** / **Pagsasakalendaryo** / **Pagsasaskedyul** = Calendaring (SaaS)
-    * *Sa-* + talaarawan/kalendayo/skedyul = A method (means) to put (purpose) something to a calendar
+    * *Sa-* + talaarawan/kalendaryo/skedyul = A method (means) to put (purpose) something to a calendar
