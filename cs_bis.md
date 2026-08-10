@@ -428,19 +428,10 @@
     * Pagpakaihap is based on the broadness of "mapping towards a continuous numerical space"
     * Lit. Act (*pag-*) of causing (*pa-*) a state (*ka-*) of number; or [Allowing a thing to perform](https://philippinesillustrated.blogspot.com/2023/10/affixes-used-in-cebuano.html) (*pagpaka-*) numbers
 * **Pagpaklase** / **Klasipikasyon** = Classification
-* **Igkasipalibot** / **Igpalibot** = Nearest Neighbor/s (Generic Sense)
+* **Igkasipalibot** / **Igpalibot** / **Kapwapalibot** = Nearest Neighbor/s (Generic Sense)
     * *Igkasi-* / *Ig-* ("relationship/fellowship between things" reading) + palibot
-* **Pagpaigkasidatos** / **Pagpaigdatos** = k Nearest Neighbors
+* **Pagpaigkasidatos** / **Pagpaigdatos** / **Pagpakapwadatos** = k Nearest Neighbors
     * *Igkasi-* / *Ig-* ("relationship/fellowship between things" reading) + datos
-* **Pagpabutstrapang Estimar** = Bootstrap Estimation
-* **Pleksibilidad** = Bias (Bias-Variance Tradeoff)
-    * Pleksibilidad is a Spanish-style transliteration of flexibility
-    * Bias here is not even statistical bias or any bias at all. Its quite literally the flexibility of the model
-* **Sensitibidad** = Variance (Bias-Variance Tradeoff)
-    * Bias here is not even statistical variance or any variance at all. Its quite literally the sensitivity of the model
-* **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
-    * Panimbang is used because its more on the balance between two forces
-    * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
 * **Pagkasiplaag** = Heteroscedasticity
     * Siplaag = Wide scattering
 * **Pagkasiplaag-han-ay** = Homoscedasticity
@@ -468,6 +459,22 @@
 * **Gintang-Kalab-a** / **Gintang-Kaeksponen** / **Gintang-Log** / **Logginta** = Log Odds
     * Log + ginta = Logginta
     * Might refine it
+
+## Bias-Variance
+* **Pagpabutstrapang Estimar** = Bootstrap Estimation
+* **Pleksibilidad** = Bias (Bias-Variance Tradeoff)
+    * Pleksibilidad is a Spanish-style transliteration of flexibility
+    * Bias here is not even statistical bias or any bias at all. Its quite literally the flexibility of the model
+* **Sensitibidad** = Variance (Bias-Variance Tradeoff)
+    * Bias here is not even statistical variance or any variance at all. Its quite literally the sensitivity of the model
+* **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
+    * Panimbang is used because its more on the balance between two forces
+    * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
+* **Pampadesidesisyonanan** = Random Forest
+    * This is not a process but more of a tool
+    * It is quite literally a decision that branches to other decisions
+* **Modelong Nakigubanuban** = Ensemble Learning
+    * Ensemble Learning are models that accompany each other to make predictions
 
 ## Time Series
 * **Pagpadiperensya** = Differencing

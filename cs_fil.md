@@ -427,16 +427,6 @@
 * **Pagpapaklase** / **Klasipikasyon** = Classification
 * **Kapwa-Paligid** / **Kapwapaligid** = Nearest Neighbor/s (Generic Sense)
 * **Pagpapakapwa-datos** / **Pagpapakapwadatos** = k Nearest Neighbors
-* **Pagpapabutstrapang Estimar** = Bootstrap Estimation
-    * Estimar is borrowed from Bisaya since its not common in Filipino
-* **Pleksibilidad** = Bias (Bias-Variance Tradeoff)
-    * Pleksibilidad is a Spanish-style transliteration of flexibility
-    * Bias here is not even statistical bias or any bias at all. Its quite literally the flexibility of the model
-* **Sensitibidad** = Variance (Bias-Variance Tradeoff)
-    * Bias here is not even statistical variance or any variance at all. Its quite literally the sensitivity of the model
-* **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
-    * Panimbang is used because its more on the balance between two forces
-    * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
 * **Pagkasambulat** = Heteroscedasticity
     * Sambulat = "Act of scattering (many fragments are highlighted)"
 * **Pagkasambulat-hanay** = Homoscedasticity
@@ -463,6 +453,24 @@
 * **Agwat-Kalab-a** / **Agwat-Kaeksponen** / **Agwat-Log** / **Logwat** = Log Odds
     * Log + agwat = Logwat
     * Might refine it
+
+## Bias-Variance
+* **Pagpapabutstrapang Estimar** = Bootstrap Estimation
+    * Estimar is borrowed from Bisaya since its not common in Filipino
+* **Pleksibilidad** = Bias (Bias-Variance Tradeoff)
+    * Pleksibilidad is a Spanish-style transliteration of flexibility
+    * Bias here is not even statistical bias or any bias at all. Its quite literally the flexibility of the model
+* **Sensitibidad** = Variance (Bias-Variance Tradeoff)
+    * Bias here is not even statistical variance or any variance at all. Its quite literally the sensitivity of the model
+* **Panimbangang Pleksibilidad-Sensitibidad** / **Pleksi-Sensti** = Bias-Variance Tradeoff
+    * Panimbang is used because its more on the balance between two forces
+    * **Pleksi**bilidad-**Sensit**ibiliad (Sensit -> Sensti to rhyme with pleksi)
+* **Pampaadesidesisyonan** = Random Forest
+    * Uses the "place of X" meaning of *-an*
+    * This is not a process but more of a tool
+    * It is quite literally a decision that branches to other decisions
+* **Modelong Nakikipagsamasama** = Ensemble Learning
+    * Ensemble Learning are models that join/accompany each other to make predictions
 
 ## Time Series
 * **Pagdidiperensya** = Differencing
