@@ -629,3 +629,6 @@
 * **Adyastabilidad** / **Adjastabilidad** = Elasticity
     * Used adyas/adjust because its widely understood term for "dynamically tweaked on the fly"
     * Adjastabilidad is a modern style transliteration and Adyastabilidad is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
+* **Pagpapamapaserbisyo** = Everything/X as a Service
+    * Used this affix stack because it has an emphasis that anything can be servicified (mapaserbisyo)
+    * *Pagpapa-* + *mapa-* + serbisyo
