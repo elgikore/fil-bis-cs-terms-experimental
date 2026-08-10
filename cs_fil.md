@@ -548,6 +548,19 @@
 * **Modelong Nakikipagtulungan** = Mixture of Experts
     * MoE are models that help each other
 
+# Dynamic Programming
+* **Pagpapabiyak-gawaan** = Dynamic Programming
+    * Biyak (break into two) + gawa (make) + *-an* (on something)
+    * Dynmaic Programming is meaningless as it is a euphemism by the creator because of his strict boss
+* **Pagbiyakbiyak** = Recursion
+    * Biyak (break into two) and biyak again -- a word recursion
+* **Pagpapabiyakbiyakan** = Top-Down Dynamic Programming
+    * Recursion is the emphasis (divide and conquer)
+* **Pagpapagawagawaan** = Bottom-Up Dynamic Programming
+    * Iterative making is the emphasis (tabulation)
+* **Pagpamemo** = Memoization
+    * Because memo is already used as a shorthand for memorizing, and also a pun of Memo Plus Gold
+
 # Virtualization
 * **Birtwalisasyon** = Virtualization
 * **Nilahatang Birtwalisasyon** / **Binirtwalisasyon** = Full Virtualization

@@ -557,6 +557,19 @@
 * **Modelong Nakigtinabangay** = Mixture of Experts
     * MoE are models that help each other
 
+# Dynamic Programming
+* **Pagpabahinbahin-himoan** = Dynamic Programming
+    * Bahinbahin (subdivide) + himo (make) + *-an* (on something)
+    * Dynmaic Programming is meaningless as it is a euphemism by the creator because of his strict boss
+* **Pagbahinbahin** = Recursion
+    * Bahinbahin already means subdivide
+    * Bahin on top of bahin is already a word recursion
+* **Pagpabahinbahinan** = Top-Down Dynamic Programming
+    * Recursion is the emphasis (divide and conquer)
+* **Pagpahimohimoan** = Bottom-Up Dynamic Programming
+    * Iterative making is the emphasis (tabulation)
+* **Pagpamemo** = Memoization
+    * Because memo is already used as a shorthand for memorizing, and also a pun of Memo Plus Gold
 
 # Virtualization
 * **Birtwalisasyon** = Virtualization
