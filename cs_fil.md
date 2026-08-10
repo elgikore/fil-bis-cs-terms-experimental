@@ -471,6 +471,7 @@
     * It is quite literally a decision that branches to other decisions
 * **Modelong Nakikipagsamasama** = Ensemble Learning
     * Ensemble Learning are models that join/accompany each other to make predictions
+* **Prinsipyo ng Karamihan** = Wisdom of the Crowds
 
 ## Time Series
 * **Pagdidiperensya** = Differencing

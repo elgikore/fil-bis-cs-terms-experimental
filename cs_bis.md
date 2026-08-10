@@ -475,6 +475,7 @@
     * It is quite literally a decision that branches to other decisions
 * **Modelong Nakigubanuban** = Ensemble Learning
     * Ensemble Learning are models that accompany each other to make predictions
+* **Prinsipyo sa Kadaghanan** = Wisdom of the Crowds
 
 ## Time Series
 * **Pagpadiperensya** = Differencing
