@@ -657,3 +657,6 @@
 * **Pagpamakahinerbisyo** = Everything/X as a Service
     * Used this affix stack because it has an emphasis that anything can be servicified (makaserbisyo)
     * *Pagpa-* + *maka-* + *hin-* + serbisyo
+* **Pagpahintalaarawan** / **Pagpahingalendaryo** / **Pagpahiskedyul** = Calendaring (SaaS)
+    * Used the *hi-*/*hin-*/*hing-* to replicate *pagsasa-* in Bisaya;
+    * *Pa-* + *Hi-*/*Hin-*/*Hing-* + talaarawan/kalendayo/skedyul = To cause inclination to put to a calendar
