@@ -459,7 +459,7 @@
     * Uses the "place of X" meaning of *-an*
     * This is not a process but more of a tool
     * It is quite literally a decision that branches to other decisions
-* **Pagsusuri sa Pagkaalanganin** / **Alanganinsuri** = Sensitivity Analysis
+* **Pagsusuri sa Pagkaalanganin** / **Alanganinsuri** / **Pagpapaalanganinsuri** = Sensitivity Analysis
     * It is not related to F1-scores and the like, or even "sensitivity to model inputs" at all -- it just mean the model's stability to uncertainties (range of inputs) and the influence of the variable under uncertainty
     * Lit. for the full title: Uncertainty Analysis
     * Lit. for the short title: Uncertainty that is examined

@@ -464,7 +464,7 @@
 * **Pampadesidesisyonanan** = Decision Tree / Classification and Regression Tree
     * This is not a process but more of a tool
     * It is quite literally a decision that branches to other decisions
-* **Pagtuki sa Pagkaalanganin** / **Alanganintuki** = Sensitivity Analysis
+* **Pagtuki sa Pagkaalanganin** / **Alanganintuki** / **Pagpaalanganintuki** = Sensitivity Analysis
     * It is not related to F1-scores and the like, or even "sensitivity to model inputs" at all -- it just mean the model's stability to uncertainties (range of inputs) and the influence of the variable under uncertainty
     * Lit. for the full title: Uncertainty Analysis
     * Lit. for the short title: Uncertainty that is examined
