@@ -389,6 +389,8 @@
 * **Hulag** = Figure (as in Fig. 1)
     * Borrowed from Bisaya
     * This is because its reminiscent of hulagway, without the *way*
+* **Pagkaalanganin** = Uncertainty (Statistics sense)
+    * Alanganin fits the vibe because it captures the "awkwardness" of not being able to be certain, whether it is measurements or confidence intervals
 * **Pagkakulang-kulang** / **Pagkakulang-kulang sa Datos** /  **Pagkakulang-kulang sa Balyu** = Missing Values /Data
 * **Paghahalili sa Datos** / **Paghahalili** = Imputation / Data Imputation
     * Halili (substitute/stand-in/proxy; and by extension panghalili) is chosen based on the fact that these values act as stand-ins/proxies for `NA`

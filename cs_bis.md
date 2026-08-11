@@ -392,6 +392,8 @@
     * Sometimes bili works, sometimes isn't
 * **Hulag** = Figure (as in Fig. 1)
     * This is because its reminiscent of hulagway, without the *way*
+* **Pagkaalanganin** = Uncertainty (Statistics sense)
+    * Alanganin fits the vibe because it captures the "awkwardness" of not being able to be certain, whether it is measurements or confidence intervals
 * **Pagkakulang-kulang** / **Pagkakulang-kulang sa Datos** /  **Pagkakulang-kulang sa Balyu** = Missing Values /Data
 * **Pagpahalili sa Datos** / **Pagpahalili** = Imputation / Data Imputation
     * Halili (substitute/stand-in/proxy; and by extension panghalili) is chosen based on the fact that these values act as stand-ins/proxies for `NA`
@@ -462,6 +464,7 @@
 * **Pampadesidesisyonanan** = Decision Tree / Classification and Regression Tree
     * This is not a process but more of a tool
     * It is quite literally a decision that branches to other decisions
+
 
 ## Bias-Variance
 * **Pagpabutstrapang Estimar** = Bootstrap Estimation
