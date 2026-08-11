@@ -278,6 +278,11 @@
 * **Iparislungat** / **Parislungatin** = Shear
     * Parisukat + salungat because two opposing directions creates a parallelogram out of a square
     * Parisalungat -> Parislungat (by simplification)
+* **Patagkilos** = Pan / Panning
+    * Patag + kilos
+    * Horizontal camera movement
+* **Lipatlipat** = Pan / Translation
+    * Pan in the broad sense, synonymous with translation in linear algebra
 
 # Data Types
 * **Titik** = Character

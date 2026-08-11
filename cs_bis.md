@@ -284,6 +284,11 @@
     * Using the putol reading of alot
 * **Itungaslado** / **Tungaslado-i** = Shear
     * Tungas + lado (square) because if you think about it, the square creates "uphill/sloped" sides when applying a shear transformation
+* **Pataglihok** = Pan / Panning
+    * Patag + lihok
+    * Horizontal camera movement
+* **Balhinbalhin** = Pan / Translation
+    * Pan in the broad sense, synonymous with translation in linear algebra
 
 # Data Types
 * **Titik** = Character
