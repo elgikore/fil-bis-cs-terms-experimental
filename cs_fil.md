@@ -265,6 +265,7 @@
     * Uses the collection reading of *ka- -an*
 * **Sansetinan** = Control Panel / Global Settings / System Configuration
 * **Burahin** = Format (Formatting files sense)
+* **Isingit** = Insert
 
 # Data Types
 * **Titik** = Character
