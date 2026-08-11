@@ -464,9 +464,10 @@
 * **Pampadesidesisyonanan** = Decision Tree / Classification and Regression Tree
     * This is not a process but more of a tool
     * It is quite literally a decision that branches to other decisions
-* **Pagtuki sa Pagkaalanganin** = Sensitivity Analysis
+* **Pagtuki sa Pagkaalanganin** / **Alanganintuki** = Sensitivity Analysis
     * It is not related to F1-scores and the like, or even "sensitivity to model inputs" at all -- it just mean the model's stability to uncertainties (range of inputs) and the influence of the variable under uncertainty
-    * Lit. Uncertainty Analysis
+    * Lit. for the full title: Uncertainty Analysis
+    * Lit. for the short title: Uncertainty that is examined
 
 ## Bias-Variance
 * **Pagpabutstrapang Estimar** = Bootstrap Estimation
@@ -483,6 +484,8 @@
 * **Modelong Nakigubanuban** = Ensemble Learning
     * Ensemble Learning are models that accompany each other to make predictions
 * **Prinsipyo sa Kadaghanan** = Wisdom of the Crowds
+* **Simulasyon de Monte Carlo** / **Simulasyon de Carlo** / **Simulasyon De-Carlo** = Monte Carlo Simulation
+    * Filipino-made Spanish construction simply because it looks cool, and also *de* functions as both a linker (X de Y) and a characteristic of Y (dekalidad, etc.)
 
 ## Time Series
 * **Pagpadiperensya** = Differencing
