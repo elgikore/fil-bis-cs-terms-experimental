@@ -266,6 +266,18 @@
 * **Sansetinan** = Control Panel / Global Settings / System Configuration
 * **Burahin** = Format (Formatting files sense)
 * **Isingit** = Insert
+* **Ipahinto** / **Hintuin** = Pause
+* **Ipatigil** / **Tigilan** = Stop
+* **Ipatakbo** / **Takbuhin** = Play
+* **Salitasulat** = Subtitle / Closed Captions
+    * Salita + sulat
+    * This is because subtitulo is clunky when referring to a caption
+* **Ipaikot** / **Paikutin** = Rotate
+* **Ipatabas** / **Tabasin** = Trim
+* **Ipagupit** / **Gupitan** = Crop
+* **Iparislungat** / **Parislungatin** = Shear
+    * Parisukat + salungat because two opposing directions creates a parallelogram out of a square
+    * Parisalungat -> Parislungat (by simplification)
 
 # Data Types
 * **Titik** = Character

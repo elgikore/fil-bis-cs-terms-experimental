@@ -272,6 +272,18 @@
     * Borrowed from Filipino since *dak-* doesn't really fit semantics because it is not just big in scale
 * **Panason** = Format (Formatting files sense)
 * **Isuksuk** = Insert
+* **Ipahunong** / **Hunongi** = Pause
+* **Ipaundang** / **Paundangi** = Stop
+* **Ipadagan** / **Padagani** = Play
+* **Sinultisuwat** = Subtitle / Closed Captions
+    * Sinulti + suwat
+    * This is because subtitulo is clunky when referring to a caption
+* **Ipatuyok** / **Tuyoki** = Rotate
+* **Ipatupi** / **Tupii** = Trim
+* **Ipaalot** / **Aloti** = Crop
+    * Using the putol reading of alot
+* **Itungaslado** / **Tungaslado-i** = Shear
+    * Tungas + lado (square) because if you think about it, the square creates "uphill/sloped" sides when applying a shear transformation
 
 # Data Types
 * **Titik** = Character
