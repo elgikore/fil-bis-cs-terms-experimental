@@ -496,6 +496,11 @@
     * It is not related to F1-scores and the like, or even "sensitivity to model inputs" at all -- it just mean the model's stability to uncertainties (range of inputs) and the influence of the variable under uncertainty
     * Lit. for the full title: Uncertainty Analysis
     * Lit. for the short title: Uncertainty that is examined
+* **Talasambesesahan** = Latin Square
+    * *Tala-* + "isang beses" (exactly once constraint) + *-han*
+* **Sangtalasambesesahan** = Latin Hypercube
+    * *Tala-* + "isang beses" (exactly once constraint) + *-han*
+    * *Sang- -han* to denote the larger whole, basically the arbitrary dimensions of the Latin hypercube
 
 ## Bias-Variance
 * **Pagpapabutstrapang Estimar** = Bootstrap Estimation
