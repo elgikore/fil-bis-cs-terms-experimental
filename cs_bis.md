@@ -301,6 +301,9 @@
     * *Igkasi-* / *Ig-* focuses more on the relationship/ratio of contrast
 * **Pagapina** = Calibration
     * Borrowed from Filipino and slightly modified
+* **Basura** = Recycle Bin / Trash
+* **Ibanggod** / **Banggudi** = Permanent Delete
+    * Metaphorical/semantic extension of grating/shredding
 
 # Data Types
 * **Titik** = Character

@@ -294,6 +294,9 @@
 * **Agwat-Liwanag** = Contrast
     * Focuses more on the delta part of contrast 
 * **Pagaapina** = Calibration
+* **Basura** = Recycle Bin / Trash
+* **Igadgad** / **Gadgarin** = Permanent Delete
+    * Metaphorical/semantic extension of grating/shredding
 
 # Data Types
 * **Titik** = Character
