@@ -1,4 +1,7 @@
 # Basic Terms
+* **Ilisdidad** = Variable
+    * Ilisdi + *-dad* because a variable is a placeholder where you can swap any value if known
+    * Lit. State of changeability/exchangeability
 * **Kagamitan** = Utility
     * Using the "collection" reading of *ka- -an*
 * **Kasangkapan** = Library
@@ -505,7 +508,7 @@
     * *Tala-* + "usang beses" (exactly once constraint) + *-han*
 * **Daktalasambesesahan** = Latin Hypercube
     * *Tala-* + "usang beses" (exactly once constraint) + *-han*
-    * *Dak- -an* to denote the large scale, basically the arbitrary dimensions of the Latin hypercube
+    * *Dak- -han* to denote the large scale, basically the arbitrary dimensions of the Latin hypercube
 
 ## Bias-Variance
 * **Pagpabutstrapang Estimar** = Bootstrap Estimation

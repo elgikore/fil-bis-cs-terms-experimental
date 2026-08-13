@@ -1,4 +1,7 @@
 # Basic Terms
+* **Palitalidad** = Variable
+    * Palitan + *-idad* because a variable is a placeholder where you can swap any value if known
+    * Lit. State of changeability/swappability
 * **Kagamitan** = Utility
 * **Kasangkapan** = Library
     * Using the "collection" reading of *ka- -an* and sangkap implies ingredients
