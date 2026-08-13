@@ -61,10 +61,11 @@
     * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for administering/managing (dumala)
 * **Tab**
     * As is
-* **Deskta** / **Deska** = Desktop
-    * Transliteration
-* **Desktahanan** / **Deskahanan** = Virtual Desktop
-* **Kadesktahan** / **Kadeskahan** = Desktop Environment
+* **Deskta** / **Deska** / **Banggera** = Desktop
+    * Deskta/Deska is a transliteration
+    * Banggera comes from the fact that the protrusion can be visualized as the wallpaper and shortcuts, while the bottom window border on the banggera can be thought of as the taskbar
+* **Desktahan** / **Deskahan** / **Banggerahan** = Virtual Desktop
+* **Kadesktahan** / **Kadeskahan** / **Kabanggerahan** = Desktop Environment
 * **Windo** = Window
     * Transliteration; bintana doesn't really scale well
 * **Tigpangwindo** = Window Manager (e.g. Hyprland, XFCE, KWin)
