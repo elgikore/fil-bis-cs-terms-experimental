@@ -201,7 +201,7 @@
     * It might be funny at first but if you think about it, its a pointer that still keeps the bahaw address, where it can be expired (crash) or the taste changes (undefined behavior)
 
 
-# File, Folder System, and Common Commands
+# File, Folder System, Common Commands, Common Terms
 * **Payru** = File
     * Borrowed from Japanese (fairu)
     * Fairu -> Payru by transliteration
@@ -289,6 +289,18 @@
     * Horizontal camera movement
 * **Balhinbalhin** = Pan / Translation
     * Pan in the broad sense, synonymous with translation in linear algebra
+* **Ipatog** / **Patuloga** = Sleep
+* **Ipamuok** / **Pamuoka** = Hibernate
+* **Ipatukar** / **Patukara** = Boot / Start
+* **Ipatukar-Balik** / **Patukara-Balik** = Reboot / Restart
+* **Kahayag** / **Hayag** = Brightness
+    * General brightness
+* **Kalamdagan** / **Lamdag** = Luminance
+    * Uses the lightness meaning of "bright" in lamdag
+* **Igkasihayag** / **Ighayag** = Contrast
+    * *Igkasi-* / *Ig-* focuses more on the relationship/ratio of contrast
+* **Pagapina** = Calibration
+    * Borrowed from Filipino and slightly modified
 
 # Data Types
 * **Titik** = Character

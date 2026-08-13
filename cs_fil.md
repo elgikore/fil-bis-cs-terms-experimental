@@ -199,7 +199,7 @@
     * It might be funny at first but if you think about it, its a pointer that still keeps the bahaw address, where it can be expired (crash) or the taste changes (undefined behavior)
 
 
-# File, Folder System, and Common Commands
+# File, Folder System, Common Commands, Common Terms
 * **Payru** = File
     * Borrowed from Japanese (fairu)
     * Fairu -> Payru by transliteration
@@ -283,6 +283,17 @@
     * Horizontal camera movement
 * **Lipatlipat** = Pan / Translation
     * Pan in the broad sense, synonymous with translation in linear algebra
+* **Ipatulog** / **Patulugin** = Sleep
+* **Ipahimbing** / **Pahimbingin** = Hibernate
+* **Ipatakbo** / **Patakbuhin** = Boot / Start
+* **Ipabalik-takbo** / **Balik-Patakbuhin** = Reboot / Restart
+* **Kaliwanagan** / **Liwanag** = Brightness
+    * General brightness
+* **Pagkaaliwalas** / **Aliwalas** = Luminance
+    * Uses the more "encompassing" meaning of clearness/brightness on the outside house for the specific brightness of luminance -- a more holistic measurement of brightness by using a specific apparatus
+* **Agwat-Liwanag** = Contrast
+    * Focuses more on the delta part of contrast 
+* **Pagaapina** = Calibration
 
 # Data Types
 * **Titik** = Character
