@@ -385,6 +385,7 @@
     * Tancha is a modern version of tantya that accurately reflects pronounciation
     * Software is kept as is for now
 * **Pagpapanatili** = Maintenance
+* **Pagsasagawa** = Implementation
 
 # Internet
 * **Websayt** = Website

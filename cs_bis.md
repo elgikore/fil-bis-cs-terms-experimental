@@ -391,6 +391,7 @@
     * Software is kept as is for now
 * **Pagpaalima** = Maintenance
     * Alima already means maintain, so just need the right affixes
+* **Pagpatuman** = Implementation
 
 # Internet
 * **Websayt** = Website
