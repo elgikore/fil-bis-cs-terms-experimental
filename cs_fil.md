@@ -710,3 +710,7 @@
     * *Pagpapa-* + *mapa-* + serbisyo
 * **Pagsasatalaarawan** / **Pagsasakalendaryo** / **Pagsasaskedyul** = Calendaring (SaaS)
     * *Sa-* + talaarawan/kalendaryo/skedyul = A method (means) to put (purpose) something to a calendar
+
+# Others
+* **Ilustra** = Illustration
+    * Shortening

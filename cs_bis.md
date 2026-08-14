@@ -722,3 +722,7 @@
 * **Pagpahintalaarawan** / **Pagpahingalendaryo** / **Pagpahiskedyul** = Calendaring (SaaS)
     * Used the *hi-*/*hin-*/*hing-* to replicate *pagsasa-* in Bisaya;
     * *Pa-* + *Hi-*/*Hin-*/*Hing-* + talaarawan/kalendaryo/skedyul = To cause inclination to put to a calendar
+
+# Others
+* **Ilustra** / **Ilustrar** = Illustration
+    * Shortening
