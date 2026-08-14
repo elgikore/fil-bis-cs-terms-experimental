@@ -144,6 +144,8 @@
 * **Modyularidad** / **Mojularidad** = Modularity
     * Because modyul exists which also has the same exact meaning as English
     * Mojularidad is a modern style transliteration while Modyularidad is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
+* **Kod** = Code
+    * Transliteration
 
 # Low-Level Programming
 ## Memory and CPU
