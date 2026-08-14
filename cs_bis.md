@@ -2,6 +2,9 @@
 * **Ilisdidad** = Variable
     * Ilisdi + *-dad* because a variable is a placeholder where you can swap any value if known
     * Lit. State of changeability/exchangeability
+* **Sangkalisdidad** = Multivariable
+    * *Sang-* + *ka-* (companionship reading) + Ilisdi + *-dad* because a variable is a placeholder where you can swap any value if known
+    * Borrowed *Sang-* from Filipino because it rhymes better than *dak-*
 * **Kagamitan** = Utility
     * Using the "collection" reading of *ka- -an*
 * **Kasangkapan** = Library
