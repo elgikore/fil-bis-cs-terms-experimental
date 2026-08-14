@@ -367,7 +367,7 @@
 * **Pagkapamahimo** = Feasibility
     * Mahimo already means feasible so just need to adjust slightly
 * **Paniksikang Pamahimo** = Feasibility Study
-* **Pagpahinginahanglan** / **Pagpahinghanglan** = Requirements Elicitation
+* **Pagpahinginahanglan** / **Pagpahinghanglan** = Requirements Elicitation / Requirements Gathering
     * *Pagpa-* + *hing-* (habitual reading of it) + kinahanglan
     * Lit. Act of causing habitual requirement searching
     * Pagpahingahanglan naturally arises when you speak it fast enough
@@ -389,6 +389,8 @@
     * Tantya is used because its more on gauging/trial and error estimate
     * Tancha is a modern version of tantya that accurately reflects pronounciation
     * Software is kept as is for now
+* **Pagpaalima** = Maintenance
+    * Alima already means maintain, so just need the right affixes
 
 # Internet
 * **Websayt** = Website

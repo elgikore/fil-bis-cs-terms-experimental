@@ -384,6 +384,7 @@
     * Tantya is used because its more on gauging/trial and error estimate
     * Tancha is a modern version of tantya that accurately reflects pronounciation
     * Software is kept as is for now
+* **Pagpapanatili** = Maintenance
 
 # Internet
 * **Websayt** = Website
