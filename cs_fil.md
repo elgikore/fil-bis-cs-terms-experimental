@@ -364,7 +364,7 @@
     * *Pagka-* + *mapagawa* (potential to build i.e. feasible)
 * **Pananaliksikang Pangmapagawa** = Feasibility Study
     * *Pang-* (method for) + *mapagawa* (potential to build i.e. feasible)
-* **Pagsasakailangan** = Requirements Elicitation
+* **Pagsasakailangan** = Requirements Elicitation / Requirements Gathering
     * *Sa-* + kailangan = Sakailangan = A method (means) to get (purpose) requirements (kailangan)
 * **Pagbabalik-tanaw** = Retrospection (SCRUM)
 * **Pagsasalaysay** = User Story
