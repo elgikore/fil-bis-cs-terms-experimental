@@ -409,6 +409,10 @@
     * This is because it is not "management" in the traditional sense, it is ultimately mingling with other people, social dynamics, communication, and working as a team
 * **Pakigtinabangay** / **Tinatinabangay** / **Tinabangay** = Teamwork
     * I am actually surprised that this is not the official translation for teamwork lol, like it is super obvious that this should be the word for teamwork
+* **Makigtrabahoon** / **Makugihon** = Task-Oriented Individual
+* **Makiguban-ubanon** = Interaction-Oriented Individual
+* **Makinaugalingon** = Self-Oriented Individual
+
 
 # Internet
 * **Websayt** = Website
