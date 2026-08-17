@@ -782,3 +782,8 @@
     * Natural extension from malukpanon (universal/widespread)
 * **Dagitbalani** = Electromagnetic Wave / Electro-magneto
     * Borrowed from Filipino as a modern version of "dagibalniing lihoy"
+* **Alamdagpasabot** = Theory (Scientific Theory)
+    * Alamdag (scientific method) + pasabot (mean/enlighten)
+* **Pangagpas** / **Proposisyon** = Hypothesis
+    * Pangagpas already means hypothesis
+    * Proposisyon is repurposed because a hypothesis is quite literally a set of propositions waiting to be validated

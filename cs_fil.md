@@ -761,3 +761,8 @@
 * **Dagitbalani** = Electromagnetic Wave / Electro-magneto
     * Dagitab + balani -> Dagitabalani -> Dagitbalani (by simplification)
     * Made because the official term, "dagibalniing lihoy" from Maugnaying Talasalitaan, is such a messy word, for what could have been an easy compound. The "wave" part is carried by balani because it is not just magnetism, but also means charm (metaphorically) or magnetic force
+* **Aghampaliwanag** = Theory (Scientific Theory)
+    * Agham (scientific method) + paliwanag (explain phenomena)
+* **Sapantaha** / **Proposisyon** = Hypothesis
+    * Sapantaha is literally ideya/palagay/paniniwala that is not proven
+    * Proposisyon is repurposed because a hypothesis is quite literally a set of propositions waiting to be validated
