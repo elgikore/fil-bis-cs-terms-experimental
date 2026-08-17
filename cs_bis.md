@@ -752,3 +752,6 @@
     * Shortening
 * **Hagdan** = Threshold (Generic Sense)
     * Used hagdan figuratively to mean the gap between staircase steps, which implies a sharp cutoff/discretized jumps
+* **Ang Gipinadayag (A.G.P.)** = Quod Erat Demonstrandum
+    * Lit. "That was caused (*gipina-*) to be shown (dayag; hyperfocus on the object being shown because of obj. focus stacking *gipina-*)"
+    * Intentionally redundant (*gi-* + *pina-*) to mirror heavy Latinate structure; normally its either pinadayag or gipadayag is the proper form

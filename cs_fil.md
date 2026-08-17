@@ -742,3 +742,6 @@
     * Shortening
 * **Hakbang** = Threshold (Generic Sense)
     * Used hakbang figuratively to mean the gap between steps, which implies a sharp cutoff/discretized jumps, and also because hakbangan literally means threshold
+* **Ang Naipinakita (A.N.P.)** = Quod Erat Demonstrandum
+    * Lit. "That was caused (*naipina-*) to be shown (kita; hyperfocus on the object being shown because of obj. focus stacking *naipina-*)"
+    * Intentionally redundant (*nai-* + *pina-*) to mirror heavy Latinate structure; normally its either naipakita or pinakita is the proper form
