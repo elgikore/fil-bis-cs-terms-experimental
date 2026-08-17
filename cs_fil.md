@@ -131,7 +131,7 @@
 * **Isa-Isang Pagbabahala** Separation of Concerns
 * **Pagkahalabid** = Coupling
     * Halabid is used because it has a very specific meaning: "tangled rope and the like", and metaphorically extend from there
-* **Pagsasadihalabid** = Coupling
+* **Pagsasadihalabid** = Decoupling
     * *Sa-* + *di-* + halabid = A method (means) to get (purpose) a lessening (*di-*) of coupling (halabid)
 * **Halabid Masyado** = High Coupling
 * **Di Masyado Halabid** = Low Coupling

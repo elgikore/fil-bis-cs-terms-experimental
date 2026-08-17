@@ -137,7 +137,7 @@
 * **Usa-usa nga Pagbahala** Separation of Concerns
 * **Pagkagumon** = Coupling
     * Gumon is used because it has a very specific meaning: "ball of entangled fiber", and metaphorically extend from there
-* **Pagpadipagumon** = Coupling
+* **Pagpadipagumon** = Decoupling
     * *Di-* + *pa-* + gumon = "To not cause coupling"
 * **Gumon Masyado** = High Coupling
 * **Di Masyado Gumon** = Low Coupling
@@ -152,7 +152,7 @@
     * Because why not -- it is the thing that you take home or order a takeout to your local machine (house) but instead of food, its a file
     * It also solves the ambiguity problem of deskarga and only relegating it (and karga variants) to containerization
 * **Ronsha** = Upload
-    * "Reverse Syllable Order" Filipino slang style
+    * "Reversed Syllable Order" Filipino slang style
 
 # Low-Level Programming
 ## Memory and CPU
