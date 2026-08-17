@@ -140,6 +140,10 @@
     * Mojularidad is a modern style transliteration while Modyularidad is a legacy-style transliteration (dy basically became j, e.g. Dyip = Jip = Jeep)
 * **Kod** = Code
     * Transliteration
+* **Yun-ano** / **Kuan** = Wildcard
+    * Yun-ano literally means "yung ano", similar in function in Bisaya's kuan
+    * Kuan borrowed from Bisaya
+    * Because a wildcard represents one or more unknown chars. i.e. "yung mga ano"/"yung ano"/"yung kuan(Bistaglish)" 
 
 # Low-Level Programming
 ## Memory
