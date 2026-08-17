@@ -756,6 +756,7 @@
     * Lit. "That was caused (*gipina-*) to be shown (dayag; hyperfocus on the object being shown because of obj. focus stacking *gipina-*)"
     * Intentionally redundant (*gi-* + *pina-*) to mirror heavy Latinate structure; normally its either pinadayag or gipadayag is the proper form
     * Also picked a common root (dayag) just because demonstrandum is probably a common term in their time and the root word for it is what gave English the word "demonstration"
+    * ~~"Demodo: nadaog A.G.P" = "Therefore, win Q.E.D."~~
 * **Sangsalabotang Tao** = Uomo Universale / Renaissance Man / Polymath
     * *Sang-* (borrowed from Filipino since its more encompassing than *dak-*) + salabotan
     * Idk but I find salabotan more fitting than pangutok, probably because it is more abstract even if both translate to intelligence

@@ -746,6 +746,7 @@
     * Lit. "That was caused (*naipina-*) to be shown (kita; hyperfocus on the object being shown because of obj. focus stacking *naipina-*)"
     * Intentionally redundant (*nai-* + *pina-*) to mirror heavy Latinate structure; normally its either naipakita or pinakita is the proper form
     * Also picked a common root (kita) just because demonstrandum is probably a common term in their time and the root word for it is what gave English the word "demonstration"
+    * ~~"Samakatuwid: napanalo A.N.P" = "Therefore: win Q.E.D."~~
 * **Sangkatalinuhang Tao** = Uomo Universale / Renaissance Man / Polymath
     * *Sang-* + katalinuhan
 * **At Mga Kaakda (At mgk.)** = Et al.
