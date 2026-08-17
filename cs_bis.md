@@ -755,3 +755,6 @@
 * **Ang Gipinadayag (A.G.P.)** = Quod Erat Demonstrandum
     * Lit. "That was caused (*gipina-*) to be shown (dayag; hyperfocus on the object being shown because of obj. focus stacking *gipina-*)"
     * Intentionally redundant (*gi-* + *pina-*) to mirror heavy Latinate structure; normally its either pinadayag or gipadayag is the proper form
+* **Sangsalabotang Tao** = Uomo Universalis / Renaissance Man / Polymath
+    * *Sang-* + salabotan
+    * Idk but I find salabotan more fitting than pangutok, probably because it is more abstract even if both translate to intelligence
