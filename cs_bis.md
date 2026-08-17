@@ -397,6 +397,11 @@
     * This is because a risk is a "chance/posibility" (basin) of something happening or not happening that is negative but can be one or multiple instances that you may did not anticipate even if it is already identified (kuan)
 * **Pagatiman sa Mga Basimakuan** / **Pangangasiwa sa Mga Risgo** = Risk Management
     * Pagatiman is chosen because it has the "hands-on vibe", where as pagdumala is more grander and more like an "overseer" vibe
+* **Pakigpalambigit** = People Management
+    * *Pakig-* (activity or endeavor to do something) + *pa-* (cause involvement/relate/socialize)
+    * This is because it is not "management" in the traditional sense, it is ultimately mingling with other people, social dynamics, communication, and working as a team
+* **Pakigtinabangay** / **Tinatinabangay** / **Tinabangay** = Teamwork
+    * I am actually surprised that this is not the official translation for teamwork lol, like it is super obvious that this should be the word for teamwork
 
 # Internet
 * **Websayt** = Website

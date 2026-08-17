@@ -392,6 +392,10 @@
     * Risgo is borrowed from Bisaya
 * **Pangangasiwa sa Mga Bakasakali** / **Pangangasiwa sa Mga Risgo** = Risk Management
     * Pangangasiwa is chosen because it has the "hands-on vibe", where as pamamahala is more grander and more like an "overseer" vibe
+* **Pakikipagsalamuha** = People Management
+    * This is because it is not "management" in the traditional sense, it is ultimately mingling with other people, social dynamics, communication, and working as a team
+* **Pakikipagtulungan** = Teamwork
+    * I am actually surprised that this is not the official translation for teamwork lol, like it is super obvious that this should be the word for teamwork
 
 # Internet
 * **Websayt** = Website
