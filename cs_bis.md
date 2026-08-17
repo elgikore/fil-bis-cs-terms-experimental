@@ -779,3 +779,5 @@
 * **Daklukpanan** = Universe
     * *Dak-* + lukop (do the entire area) + *-anan*
     * Natural extension from malukpanon (universal/widespread)
+* **Dagitbalani** = Electromagnetic Wave / Electro-magneto
+    * Borrowed from Filipino as a modern version of "dagibalniing lihoy"

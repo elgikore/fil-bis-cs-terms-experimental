@@ -757,3 +757,6 @@
     * Borrowed ※ from CJK because it looks cooler than N.B. or an asterisk
 * **Ibig Sabihin (i.s.)** = i.e.
     * Natural extension
+* **Dagitbalani** = Electromagnetic Wave / Electro-magneto
+    * Dagitab + balani -> Dagitabalani -> Dagitbalani (by simplification)
+    * Made because the official term, "dagibalniing lihoy" from Maugnaying Talasalitaan, is such a messy word, for what could have been an easy compound. The "wave" part is carried by balani because it is not just magnetism, but also means charm (metaphorically) or magnetic force
