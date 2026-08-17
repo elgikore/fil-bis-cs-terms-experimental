@@ -386,6 +386,10 @@
     * Software is kept as is for now
 * **Pagpapanatili** = Maintenance
 * **Pagsasagawa** = Implementation
+* **Bakasakali** / **Risgo** = Risk
+    * Bakasakali was chosen because of the expression: "baka sakali mag-..."/"baka sakali mangyari"/"baka sakali masira", and its variations
+        * It also extends from the "to take risk" sense of nagbakasakali
+    * Risgo is borrowed from Bisaya
 
 # Internet
 * **Websayt** = Website

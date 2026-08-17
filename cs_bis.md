@@ -392,6 +392,9 @@
 * **Pagpaalima** = Maintenance
     * Alima already means maintain, so just need the right affixes
 * **Pagpatuman** = Implementation
+* **Basimakuan** / **Risgo** = Risk
+    * Basin + *ma-* + kuan
+    * This is because a risk is a "chance/posibility" (basin) of something happening or not happening that is negative but can be one or multiple instances that you may did not anticipate even if it is already identified (kuan)
 
 # Internet
 * **Websayt** = Website
