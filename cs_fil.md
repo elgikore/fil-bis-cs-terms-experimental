@@ -742,8 +742,18 @@
     * Shortening
 * **Hakbang** = Threshold (Generic Sense)
     * Used hakbang figuratively to mean the gap between steps, which implies a sharp cutoff/discretized jumps, and also because hakbangan literally means threshold
-* **Ang Naipinakita (A.N.P.)** = Quod Erat Demonstrandum
+* **Ang Naipinakita (A.N.P.)** = Quod Erat Demonstrandum (Q.E.D.)
     * Lit. "That was caused (*naipina-*) to be shown (kita; hyperfocus on the object being shown because of obj. focus stacking *naipina-*)"
     * Intentionally redundant (*nai-* + *pina-*) to mirror heavy Latinate structure; normally its either naipakita or pinakita is the proper form
-* **Sangkatalinuhang Tao** = Uomo Universalis / Renaissance Man / Polymath
+    * Also picked a common root (kita) just because demonstrandum is probably a common term in their time and the root word for it is what gave English the word "demonstration"
+* **Sangkatalinuhang Tao** = Uomo Universale / Renaissance Man / Polymath
     * *Sang-* + katalinuhan
+* **At Mga Kaakda (At mgk.)** = Et al.
+    * **At mgk.** = **At** **Mg**a **K**aakda
+    * Though et al. means "and others", I used kaakda to highlight co-signed by/co-authorship (*ka-* + akda)
+* **Kapareho (Kpr.)** = Ibid. / Ibidem
+* **Paalala** / **Paal.** / **※** = Note / N.B. / Reference Note
+    * Paalala already used for notices or reminders, and sometimes in notes
+    * Borrowed ※ from CJK because it looks cooler than N.B. or an asterisk
+* **Ibig Sabihin (i.s.)** = i.e.
+    * Natural extension

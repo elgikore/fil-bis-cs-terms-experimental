@@ -752,9 +752,27 @@
     * Shortening
 * **Hagdan** = Threshold (Generic Sense)
     * Used hagdan figuratively to mean the gap between staircase steps, which implies a sharp cutoff/discretized jumps
-* **Ang Gipinadayag (A.G.P.)** = Quod Erat Demonstrandum
+* **Ang Gipinadayag (A.G.P.)** = Quod Erat Demonstrandum (Q.E.D.)
     * Lit. "That was caused (*gipina-*) to be shown (dayag; hyperfocus on the object being shown because of obj. focus stacking *gipina-*)"
     * Intentionally redundant (*gi-* + *pina-*) to mirror heavy Latinate structure; normally its either pinadayag or gipadayag is the proper form
-* **Sangsalabotang Tao** = Uomo Universalis / Renaissance Man / Polymath
-    * *Sang-* + salabotan
+    * Also picked a common root (dayag) just because demonstrandum is probably a common term in their time and the root word for it is what gave English the word "demonstration"
+* **Sangsalabotang Tao** = Uomo Universale / Renaissance Man / Polymath
+    * *Sang-* (borrowed from Filipino since its more encompassing than *dak-*) + salabotan
     * Idk but I find salabotan more fitting than pangutok, probably because it is more abstract even if both translate to intelligence
+* **Pngl.** = E.g.
+    * **Pngl.** = **P**a**n**an**gl**itan; *gl* at the end because if it was only png., it can be easily confused for *pangalan*
+    * Surprisingly Bisaya doesnt have a direct equivalent to hal. like in Filipino
+* **Ubp.** = Etc.
+    * **Ubp.** = **U**g U**b**an **P**a or **Ub**an Pa
+    * Surprisingly Bisaya doesnt have a direct equivalent to atbp. like in Filipino
+* **Ug Mga Kasuwat (Ug mgk.)** = Et al.
+    * **Ug mgk.** = **Ug** **Mg**a **K**asuwat
+    * Though et al. means "and others", I used kasuwat to highlight co-signed by/co-written (*ka-* + suwat)
+* **Sama Niini (Samni.)** = Ibid. / Ibidem
+    * **Samni.** = **Sam**a **Ni**ini
+* **Pahibalo** / **Pahib.** / **※** = Note / N.B. / Reference Note
+    * Pahibalo already used for notices, and sometimes in notes
+    * Borrowed ※ from CJK because it looks cooler than N.B. or an asterisk
+* **Na Nagpasabot / Nagpasabot (n.p.)** i.e.
+    * **n.p.** = **N**a Nag**p**asabot or **N**ag**p**asabot
+    * Contraction of common phrase "...na nagpasabot og"/"...nagpasabot na"
