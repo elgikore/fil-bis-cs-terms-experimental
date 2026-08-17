@@ -763,7 +763,7 @@
     * **Pngl.** = **P**a**n**an**gl**itan; *gl* at the end because if it was only png., it can be easily confused for *pangalan*
     * Surprisingly Bisaya doesnt have a direct equivalent to hal. like in Filipino
 * **Ubp.** = Etc.
-    * **Ubp.** = **U**g U**b**an **P**a or **Ub**an Pa
+    * **Ubp.** = **U**g U**b**an **P**a or **Ub**an **P**a
     * Surprisingly Bisaya doesnt have a direct equivalent to atbp. like in Filipino
 * **Ug Mga Kasuwat (Ug mgk.)** = Et al.
     * **Ug mgk.** = **Ug** **Mg**a **K**asuwat
