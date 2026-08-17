@@ -144,6 +144,11 @@
     * Yun-ano literally means "yung ano", similar in function in Bisaya's kuan
     * Kuan borrowed from Bisaya
     * Because a wildcard represents one or more unknown chars. i.e. "yung mga ano"/"yung ano"/"yung kuan(Bistaglish)" 
+* **Sharon** = Download
+    * Because why not -- it is the thing that you take home or order a takeout to your local machine (house) but instead of food, its a file
+    * It also solves the ambiguity problem of deskarga and only relegating it (and karga variants) to containerization
+* **Ronsha** = Upload
+    * "Reverse Syllable Order" Filipino slang style
 
 # Low-Level Programming
 ## Memory
