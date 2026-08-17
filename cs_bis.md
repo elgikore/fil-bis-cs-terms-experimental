@@ -395,6 +395,8 @@
 * **Basimakuan** / **Risgo** = Risk
     * Basin + *ma-* + kuan
     * This is because a risk is a "chance/posibility" (basin) of something happening or not happening that is negative but can be one or multiple instances that you may did not anticipate even if it is already identified (kuan)
+* **Pagatiman sa Mga Basimakuan** / **Pangangasiwa sa Mga Risgo** = Risk Management
+    * Pagatiman is chosen because it has the "hands-on vibe", where as pagdumala is more grander and more like an "overseer" vibe
 
 # Internet
 * **Websayt** = Website

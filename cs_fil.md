@@ -390,6 +390,8 @@
     * Bakasakali was chosen because of the expression: "baka sakali mag-..."/"baka sakali mangyari"/"baka sakali masira", and its variations
         * It also extends from the "to take risk" sense of nagbakasakali
     * Risgo is borrowed from Bisaya
+* **Pangangasiwa sa Mga Bakasakali** / **Pangangasiwa sa Mga Risgo** = Risk Management
+    * Pangangasiwa is chosen because it has the "hands-on vibe", where as pamamahala is more grander and more like an "overseer" vibe
 
 # Internet
 * **Websayt** = Website
