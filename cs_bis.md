@@ -770,7 +770,7 @@
     * Though et al. means "and others", I used kasuwat to highlight co-signed by/co-written (*ka-* + suwat)
 * **Sama Niini (Samni.)** = Ibid. / Ibidem
     * **Samni.** = **Sam**a **Ni**ini
-* **Pahibalo** / **Pahib.** / **※** = Note / N.B. / Reference Note
+* **Pahibalo** / **Pahib.** / **※** = Note / N.B. / Reference Mark
     * Pahibalo already used for notices, and sometimes in notes
     * Borrowed ※ from CJK because it looks cooler than N.B. or an asterisk
 * **Na Nagpasabot / Nagpasabot (n.p.)** = i.e.

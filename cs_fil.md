@@ -752,7 +752,7 @@
     * **At mgk.** = **At** **Mg**a **K**aakda
     * Though et al. means "and others", I used kaakda to highlight co-signed by/co-authorship (*ka-* + akda)
 * **Kapareho (Kpr.)** = Ibid. / Ibidem
-* **Paalala** / **Paal.** / **※** = Note / N.B. / Reference Note
+* **Paalala** / **Paal.** / **※** = Note / N.B. / Reference Mark
     * Paalala already used for notices or reminders, and sometimes in notes
     * Borrowed ※ from CJK because it looks cooler than N.B. or an asterisk
 * **Ibig Sabihin (i.s.)** = i.e.
