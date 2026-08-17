@@ -773,6 +773,6 @@
 * **Pahibalo** / **Pahib.** / **※** = Note / N.B. / Reference Note
     * Pahibalo already used for notices, and sometimes in notes
     * Borrowed ※ from CJK because it looks cooler than N.B. or an asterisk
-* **Na Nagpasabot / Nagpasabot (n.p.)** i.e.
+* **Na Nagpasabot / Nagpasabot (n.p.)** = i.e.
     * **n.p.** = **N**a Nag**p**asabot or **N**ag**p**asabot
     * Contraction of common phrase "...na nagpasabot og"/"...nagpasabot na"
