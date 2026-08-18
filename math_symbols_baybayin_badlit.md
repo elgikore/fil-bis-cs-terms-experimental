@@ -62,3 +62,11 @@
 
 # Uppercase Greek
 * Unplanned for now because the distinction between lowercase and uppercase is not a thing in Baybayin
+
+# Miscellaneous
+* **ᜈ᜕** or **ᜈ᜔**= Null
+    * Using pamudpod/krus-kudlit as a way of saying null
+* **ᜐ᜔ᜋ᜔ᜃ᜔ᜆ᜔** (Fil) / **ᜇᜒᜋᜓᜇᜓ** (Bis) = ∴
+    * Instead of one symbol, I used a word as base
+    * 【Fil】**ᜐ᜔ᜋ᜔ᜃ᜔ᜆ᜔** = **S**a**m**a**k**a**t**uwid
+    * 【Bis】**ᜇᜒᜋᜓᜇᜓ** = **Demodo/Dimudu** (used instead of busa to give a high-register vibe by using an uncommon synonym)
