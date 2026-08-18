@@ -8,7 +8,7 @@
 
 > [!NOTE]
 >
-> I just realized that AIU vowels in the original Baybayin makes a lot of sense when you see many spelling variations in modern Filipino is swapping e to i or o to u and vice versa. It is even more apparent in Bisaya, as [John Wolff transcribed it](https://www.gutenberg.org/cache/epub/40074/pg40074-images.html).
+> I just realized that AIU vowels in the original Baybayin makes a lot of sense when you see many spelling variations in modern Filipino is swapping e to i or o to u and vice versa. It is even more apparent in Bisaya, as [John Wolff transcribed it](https://www.gutenberg.org/cache/epub/40074/pg40074-images.html):
 > > "We write only three vowels: i, u, a. In Cebuano publications /i/ is sometimes written i, sometimes e, but with no consistency; and /u/ sometimes is written u, sometimes o (again with no consistency). But here the letters e and o are not used." 
 >
 > This makes sense when you realize the official spelling for structure in Filipino is istraktura, and for Bisaya, it is estraktura.
