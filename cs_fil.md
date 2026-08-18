@@ -152,6 +152,8 @@
     * It also solves the ambiguity problem of deskarga and only relegating it (and karga variants) to containerization
 * **Ronsha** = Upload
     * "Reversed Syllable Order" Filipino slang style
+* **Diskarte** = Heuristic
+    * *Resourcefulness* (no brute force) + *competence* (finds the locally optimal solution given time constraints) + *street smart* (informed assumptions to get to the goal) + *effective strategy and adaptation* (adapts because of the heuristic function)
 
 # Low-Level Programming
 ## Memory
