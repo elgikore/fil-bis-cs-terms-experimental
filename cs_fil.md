@@ -4,6 +4,9 @@
     * Lit. State of changeability/swappability
 * **Sangkapalitanidad** = Multivariable
     * *Sang-* + *ka-* (companionship reading) + Palitan + *-idad*
+* **Sapad** = Plane
+    * Though Maugnaying Talasalitaan defined plane as lapya, I think its better to reserve lapya for flattening processes since it is very highly specific: "flatten to level", and [Diksyunaryo.ph](https://diksiyonaryo.ph/search/lapya?page=1) states that a product of lapya is sapad (para maging sapad)
+    * Sapad is better than patag because it is more specific than patag -- "flat surface" / "[patag na pahalang](https://diksiyonaryo.ph/search/sapad?page=1)"
 * **Kagamitan** = Utility
 * **Kasangkapan** = Library
     * Using the "collection" reading of *ka- -an* and sangkap implies ingredients
