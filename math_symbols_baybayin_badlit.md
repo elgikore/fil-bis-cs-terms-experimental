@@ -68,13 +68,15 @@
 > 
 > For some symbols, instead of using one symbol, I used a word as base because there are only so many letters in the Baybayin alphabet. For the words that are derived from symbols, the max char. length is four to mimic old-style char. limitations in early computing. In addition, this works because you can pack 2x the length in Baybayin because of the consonant-vowel nature, unlike the Latin script.
 
-* **ᜈ᜕** or **ᜈ᜔**= **Null**
+* **ᜈ᜕** or **ᜈ᜔** (By Itself) = **Null**
     * Using pamudpod/krus-kudlit as a way of saying null
+    * If attached to other logical operators, use **ᜈ᜕᜵** or **ᜈ᜔᜵** (by treating ᜵ like a verse splitter, similar to CSV commas)
 * **ᜐ᜔ᜋ᜔ᜃ᜔ᜆ᜔** (Fil) / **ᜇᜒᜋᜓᜇᜓ** (Bis) = **∴**
     * 【Fil】**ᜐ᜔ᜋ᜔ᜃ᜔ᜆ᜔** = **S**a**m**a**k**a**t**uwid
     * 【Bis】**ᜇᜒᜋᜓᜇᜓ** = **Demodo/Dimudu** (used instead of busa to give a high-register vibe by using an uncommon synonym)
-* **ᜇ᜕** or **ᜇ᜔** = **Not**
+* **ᜇ᜕** or **ᜇ᜔** (By Itself) = **Not**
     * Using pamudpod/krus-kudlit as a way of saying cancellation
+    * If attached to other logical operators, use **ᜇ᜕᜵** or **ᜇ᜔᜵** (by treating ᜵ like a verse splitter, similar to CSV commas)
 * **ᜁᜎᜈ᜔** (Fil) / **ᜉᜒᜉᜒᜎ** (Bis) = **∃**
     * 【Fil】**ᜁᜎᜈ᜔** = **Ilan**
     * 【Bis】**ᜉᜒᜉᜒᜎ** = **Pipila**
