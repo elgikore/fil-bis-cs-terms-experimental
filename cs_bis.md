@@ -7,7 +7,8 @@
     * Borrowed *Sang-* from Filipino because it rhymes better than *dak-*
 * **Sapad** = Plane
     * Borrowed it from Filipino because it is more specific than patag -- "flat surface" / "[patag na pahalang](https://diksiyonaryo.ph/search/sapad?page=1)"
-* **Tulun-anang Pangiphan** / **Ihaptuon** = Mathematics
+* **Tulun-anang Pangiphan** / **Ihaptuon** / **Palaiphanan** = Mathematics
+    * Using the "study discipline" reading of *pala- -an* from Filipino
 * **Kagamitan** = Utility
     * Using the "collection" reading of *ka- -an*
 * **Kasangkapan** = Library
