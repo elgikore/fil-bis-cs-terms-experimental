@@ -41,7 +41,7 @@
 * **ᜅᜓ** = **ν**
     * By *new* sound of nu, which sounds like *ngu* as in ngunit
 * **ᜐ** = **ξ**
-    * **Kza**i (pronounciation) -> **Sa**i
+    * **Kza**i (pronounciation) -> **Sa**i (transliteration)
 * **ᜉ** = **π** (anything that is not 3.14 like in statistics)
     * By *pa* (pai) sound of pi
 * **ᜍᜓ** = ρ
