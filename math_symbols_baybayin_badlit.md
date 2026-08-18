@@ -59,3 +59,6 @@
     * P**si** -> P**say** (by transliteration) -> Ps**ay** (ay gets reinterpreted as ya)
 * **ᜋᜒ** = **ω**
     * From O**me**ga (Me = Mi) and also o**mni** (interpreted as mi)
+
+# Uppercase Greek
+* Unplanned for now because the distinction between lowercase and uppercase is not a thing in Baybayin
