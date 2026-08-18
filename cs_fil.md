@@ -739,6 +739,12 @@
 * **Pagsasatalaarawan** / **Pagsasakalendaryo** / **Pagsasaskedyul** = Calendaring (SaaS)
     * *Sa-* + talaarawan/kalendaryo/skedyul = A method (means) to put (purpose) something to a calendar
 
+## Cloud
+* **Aksespasok** = Ingress
+    * Access first (akses), then enter (pasok)
+* **Labaspamahagi** = Egress
+    * Go outside (labas), then distribute (pamahagi) to other networks
+
 # Others
 * **Ilustra** = Illustration
     * Shortening

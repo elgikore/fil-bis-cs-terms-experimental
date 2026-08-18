@@ -750,6 +750,14 @@
     * Used the *hi-*/*hin-*/*hing-* to replicate *pagsasa-* in Bisaya;
     * *Pa-* + *Hi-*/*Hin-*/*Hing-* + talaarawan/kalendaryo/skedyul = To cause inclination to put to a calendar
 
+## Cloud
+* **Aksesulod** = Ingress
+    * Access first (akses), then enter (sulod)
+    * Akses-sulod -> Aksessulod -> Aksesulod
+* **Gawasabwag** = Egress
+    * Go outside (gawas), then spread and be known (sabwag) to other networks
+    * Gawas-sabwag -> Gawassabwag -> Gawasabwag
+
 # Others
 * **Ilustra** / **Ilustrar** = Illustration
     * Shortening
