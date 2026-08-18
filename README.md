@@ -20,4 +20,5 @@ Repo born out of boredom from studying Deep Learning finals lol because I realiz
     * [https://www.youtube.com/watch?v=8ol7DsPnHcE](https://www.youtube.com/watch?v=8ol7DsPnHcE)
     * [https://www.youtube.com/watch?v=L2KGcxYyeM4](https://www.youtube.com/watch?v=L2KGcxYyeM4)
 * The word [madinugtongdugtongon (agglutinative)](https://en.wiktionary.org/wiki/madinugtungdugtongon#Cebuano) found on [https://en.wiktionary.org/wiki/Category:Cebuano_terms_suffixed_with_-on](https://en.wiktionary.org/wiki/Category:Cebuano_terms_suffixed_with_-on)
-	 
+* Probably the best Bisaya dictionary aside from binisaya.com: [A Dictionary of Cebuano Visayan by John U. Wolff](https://www.gutenberg.org/cache/epub/40074/pg40074-images.html)
+* A little bit of [Maugnaying Talasalitaan](https://archive.org/details/maugnayin-talasalitaan-1969-ocr/page/65/mode/2up?q=discrete), mostly for inspirations only
