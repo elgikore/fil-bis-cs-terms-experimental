@@ -349,6 +349,9 @@
     * *Dak-* modeled from dakbayan, dakbalay
 * **Talaang Dos por Dos** / **Talaihapang Dos por Dos** / **Dos por Dos** = 2x2 Matrix
     * Used a common carpentry expression: X por Y
+* **Pasikaran** = Primitive
+    * Based on existing metaphorical extension from kick (sikad) to base (pasikad) and foundation (kapasikaran)
+    * Lit. "To cause a kick (jumpstart) on a place (*-an*)", in this case, primitive types kick/jumpstart the foundation of complex systems
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development

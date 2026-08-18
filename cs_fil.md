@@ -344,6 +344,8 @@
 * **Sangtalaan** / **Talatalaan** = Multidimensional Array / Multidimensional Matrix / n-Dimensional Array
 * **Talaang Dos por Dos** / **Talabilangang Dos por Dos** / **Dos por Dos** = 2x2 Matrix
     * Used a common carpentry expression: X por Y
+* **Sandigan** = Primitive
+    * Primitive = Foundation
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development
