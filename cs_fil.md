@@ -766,3 +766,6 @@
 * **Sapantaha** / **Proposisyon** = Hypothesis
     * Sapantaha is literally ideya/palagay/paniniwala that is not proven
     * Proposisyon is repurposed because a hypothesis is quite literally a set of propositions waiting to be validated
+* **Sanglupalopan** = Transcendental / Transcendental Number Line
+    * Lupalop = Faraway Land / Distant Places / Far Lands
+    * Idk man, 2.71828182845904523536028747135266249775724709369995... looks like a far away land for me to see where it ends 
