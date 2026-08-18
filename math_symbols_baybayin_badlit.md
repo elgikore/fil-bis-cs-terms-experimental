@@ -44,9 +44,9 @@
     * **Kza**i (pronounciation) -> **Sa**i (transliteration)
 * **ᜉ** = **π** (anything that is not 3.14 like in statistics)
     * By *pa* (pai) sound of pi
-* **ᜍᜓ** = ρ
+* **ᜍᜓ** = **ρ**
     * **Rh**o -> **Ro** (Ro = Ru)
-* **ᜅ** = σ
+* **ᜅ** = **σ**
     * Si**gma** -> Si**gna** (gna is reinterpreted as nga by sound similarity)
 * **ᜆ** = **τ**
     * From **Ta**u
