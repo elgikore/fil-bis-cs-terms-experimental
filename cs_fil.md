@@ -374,6 +374,8 @@
 * **Nagpawangis** = Base Class / Superclass / Parent Class
 * **Kawangis** = Derived Class / Subclass / Child Class
     * Companion reading of *ka-*
+* **Kawangisan** = Abstract Class
+    * What's a better way to translate "abstract" by just using circumfix logic lol? *Ka- -an* is literally an abjective to abstract noun converter
 * **Pagpapamana** / **Pagpapawangis** = Inheritance
 * **Suliraning Wangis-Giswan** = Diamond Problem
     * Giswan is just wangis, using the "Reverse Syllable" Filipino slang pattern
@@ -384,6 +386,7 @@
     * Lit. Class/Kind-oriented Programming or Programming for Classes/Kind
 * **Kasari** = Object / Instance of a Class
 * **Pagpapasari** = Instantiation
+
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development

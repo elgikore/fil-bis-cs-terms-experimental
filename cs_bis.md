@@ -376,6 +376,8 @@
 * **Nagpaanggid** = Base Class / Superclass / Parent Class
 * **Kaanggid** = Derived Class / Subclass / Child Class
     * Companion reading of *ka-*
+* **Kaanggiran** = Abstract Class
+    * What's a better way to translate "abstract" by just using circumfix logic lol? *Ka- -an* is literally an abjective to abstract noun converter
 * **Panulundon** / **Pagpaanggid** = Inheritance
 * **Gumunhapang Anggid-Gid-ang** = Diamond Problem
     * Gid-ang is just anggid, using the "Reverse Syllable" Filipino slang pattern. Uses dash to preserve the slight pause of anggid
