@@ -374,7 +374,7 @@
 * **Nagpawangis** = Base Class / Superclass / Parent Class
 * **Kawangis** = Derived Class / Subclass / Child Class
     * Companion reading of *ka-*
-* **Pagpapamana** = Inheritance
+* **Pagpapamana** / **Pagpapawangis** = Inheritance
 * **Suliraning Wangis-Giswan** = Diamond Problem
     * Giswan is just wangis, using the "Reverse Syllable" Filipino slang pattern
     * Did this to express the ambiguity of likeness because giswan is not a valid Filipino word lol
