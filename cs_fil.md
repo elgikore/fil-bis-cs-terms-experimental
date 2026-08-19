@@ -377,6 +377,7 @@
 * **Pagpapamana** = Inheritance
 * **Suliraning Wangis-Giswan** = Diamond Problem
     * Giswan is just wangis, using the "Reverse Syllable" Filipino slang pattern
+    * Did this to express the ambiguity of likeness because giswan is not a valid Filipino word lol
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development
