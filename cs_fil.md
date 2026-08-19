@@ -389,7 +389,8 @@
     * Lit. Class/Kind-oriented Programming or Programming for Classes/Kind
 * **Kasari** = Object / Instance of a Class
 * **Pagpapasari** = Instantiation
-
+* **Ito** = This / Self
+    * Ito already has a dual function: both near things or itself
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development

@@ -393,6 +393,8 @@
     * Lit. Class-oriented Programming or Programming for Classes
 * **Kaling-on** = Object / Instance of a Class
 * **Pagpaling-on** = Instantiation
+* **Kini** = This / Self
+    * Kini already has a dual function: both near things or itself
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development
