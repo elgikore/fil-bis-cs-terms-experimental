@@ -378,6 +378,12 @@
 * **Suliraning Wangis-Giswan** = Diamond Problem
     * Giswan is just wangis, using the "Reverse Syllable" Filipino slang pattern
     * Did this to express the ambiguity of likeness because giswan is not a valid Filipino word lol
+* **Pasari** / **Klase** = Class
+    * *Pa-* + sari (kind, as in class), since a class in OOP causes to create an object (blueprint to an instance of a class i.e. obj.)
+* **Pagpoprogramang Pangsari** / **Pagpoprogramang Pangklase** = Object-Oriented Programming
+    * Lit. Class/Kind-oriented Programming or Programming for Classes/Kind
+* **Kasari** = Object / Instance of a Class
+* **Pagpapasari** = Instantiation
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development

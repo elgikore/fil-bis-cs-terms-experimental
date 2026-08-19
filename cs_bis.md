@@ -371,7 +371,7 @@
     * Generic types conform to whatever the type they're passed
     * Tipo Heneriko / Tipo Generico is Filipino-made Spanish because it sounds cool
 * **Panagpaanggiran** = Polymorphism
-    * *Panag-* (*pag-* plural; rough analog with *poly-* in this case, since panagsa means it appears once but on a schedule i.e. *panag-* or multiple actions) + *pa-* (cause) + anggid (resemblance, not just similar like amgid) + *-an* (focus on a thing)
+    * *Panag-* (*pag-* plural but focus on multiple actors; rough analog with *poly-* in this case, since panagsa means it appears once but on a schedule when read literally i.e. *panag-* which focuses on the actor) + *pa-* (cause) + anggid (resemblance, not just similar like amgid) + *-an* (focus on a thing)
         * Paanggid because polymorphism cause a likeness/resemblance from the base class, plus the subclasses' own additions
 * **Nagpaanggid** = Base Class / Superclass / Parent Class
 * **Kaanggid** = Derived Class / Subclass / Child Class
@@ -380,6 +380,14 @@
 * **Gumunhapang Anggid-Gid-ang** = Diamond Problem
     * Gid-ang is just anggid, using the "Reverse Syllable" Filipino slang pattern. Uses dash to preserve the slight pause of anggid
     * Did this to express the ambiguity of likeness because gid-ang is not a valid Bisaya word lol
+* **Paling-on** / **Klase** = Class
+    * *Pa-* + ling-on, since a class in OOP causes to create an object (blueprint to an instance of a class i.e. obj.)
+* **Pamprogramang Pangling-on** / **Pamprogramang Pangklase** = Object-Oriented Programming
+    * Pamprogramang uses the "multiple actions" reading of *pang-*, which I think fits more than *pag-* alone
+    * Pangling-on/Pangklase uses the "X for Y" reading of *pang-*
+    * Lit. Class-oriented Programming or Programming for Classes
+* **Kaling-on** = Object / Instance of a Class
+* **Pagpaling-on** = Instantiation
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development
