@@ -371,7 +371,12 @@
     * *Panag-* (anything pertaining to; rough analog with *poly-* in this case) + *pa-* (cause) + wangis (likeness/resemblance) + *-an* (focus on a thing)
         * Pawangis because polymorphism cause a likeness/resemblance from the base class, plus the subclasses' own additions
     * Patterned from pagwawangis and a somewhat common expression of "wangis-X" (X-lookalike)
+* **Nagpawangis** = Base Class / Superclass / Parent Class
+* **Kawangis** = Derived Class / Subclass / Child Class
+    * Companion reading of *ka-*
 * **Pagpapamana** = Inheritance
+* **Suliraning Wangis-Giswan** = Diamond Problem
+    * Giswan is just wangis, using the "Reverse Syllable" Filipino slang pattern
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development

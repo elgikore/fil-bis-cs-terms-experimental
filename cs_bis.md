@@ -373,7 +373,12 @@
 * **Panagpaanggiran** = Polymorphism
     * *Panag-* (*pag-* plural; rough analog with *poly-* in this case, since panagsa means it appears once but on a schedule i.e. *panag-* or multiple actions) + *pa-* (cause) + anggid (resemblance, not just similar like amgid) + *-an* (focus on a thing)
         * Paanggid because polymorphism cause a likeness/resemblance from the base class, plus the subclasses' own additions
+* **Nagpaanggid** = Base Class / Superclass / Parent Class
+* **Kaanggid** = Derived Class / Subclass / Child Class
+    * Companion reading of *ka-*
 * **Panulundon** = Inheritance
+* **Gumohapang Anggid-Gid-ang** = Diamond Problem
+    * Gid-ang is just anggid, using the "Reverse Syllable" Filipino slang pattern. Uses dash to preserve the slight pause of anggid
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development
