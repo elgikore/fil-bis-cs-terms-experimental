@@ -372,7 +372,7 @@
     * Tipo Heneriko / Tipo Generico is Filipino-made Spanish because it sounds cool
 * **Panagpaanggiran** = Polymorphism
     * *Panag-* (*pag-* plural; rough analog with *poly-* in this case, since panagsa means it appears once but on a schedule i.e. *panag-* or multiple actions) + *pa-* (cause) + anggid (resemblance, not just similar like amgid) + *-an* (focus on a thing)
-        * Paanggid because polymorphism cause a likeness/resemblance to anything inheriting the base class
+        * Paanggid because polymorphism cause a likeness/resemblance from the base class, plus the subclasses' own additions
 * **Panulundon** = Inheritance
 
 # Development Process

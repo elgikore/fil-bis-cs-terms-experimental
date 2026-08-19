@@ -369,7 +369,7 @@
     * Tipo Heneriko / Tipo Generico is Filipino-made Spanish because it sounds cool
 * **Panagpawangisan** = Polymorphism
     * *Panag-* (anything pertaining to; rough analog with *poly-* in this case) + *pa-* (cause) + wangis (likeness/resemblance) + *-an* (focus on a thing)
-        * Pawangis because polymorphism cause a likeness/resemblance to anything inheriting the base class
+        * Pawangis because polymorphism cause a likeness/resemblance from the base class, plus the subclasses' own additions
     * Patterned from pagwawangis and a somewhat common expression of "wangis-X" (X-lookalike)
 * **Pagpapamana** = Inheritance
 
