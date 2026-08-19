@@ -365,6 +365,15 @@
 * **Pasikaran** = Primitive
     * Based on existing metaphorical extension from kick (sikad) to base (pasikad) and foundation (kapasikaran)
     * Lit. "To cause a kick (jumpstart) on a place (*-an*)", in this case, primitive types kick/jumpstart the foundation of complex systems
+* **Pinasikaran** = Composite
+    * Lit. "That which was caused a kick (jumpstart) on a place (*-an*)", in this case, composite types are the ones that did something to jumpstart an entire system
+* **Pahiayon** / **Tipo Heneriko** / **Tipo Generico** = Generics / Generic Type
+    * Generic types conform to whatever the type they're passed
+    * Tipo Heneriko / Tipo Generico is Filipino-made Spanish because it sounds cool
+* **Panagpaanggiran** = Polymorphism
+    * *Panag-* (*pag-* plural; rough analog with *poly-* in this case, since panagsa means it appears once but on a schedule i.e. *panag-* or multiple actions) + *pa-* (cause) + anggid (resemblance, not just similar like amgid) + *-an* (focus on a thing)
+        * Paanggid because polymorphism cause a likeness/resemblance to anything inheriting the base class
+* **Panulundon** = Inheritance
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development

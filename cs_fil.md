@@ -362,6 +362,16 @@
     * Used a common carpentry expression: X por Y
 * **Sandigan** = Primitive
     * Primitive = Foundation
+* **Sinandigsandigan** / **Sinandigan** = Composite
+    * Lit. That which was depended on a thing / That which was founded (from something)
+* **Lansak** / **Tipo Heneriko** / **Tipo Generico** = Generics / Generic Type
+    * Lansak is based from palansak (common noun/generic noun), and it just so happens that lansak has a very specific meaning that fits: [copying and conforming (tulad and pakikisama) on the behavior of others](https://diksiyonaryo.ph/search/lansak?page=1), in this case, types
+    * Tipo Heneriko / Tipo Generico is Filipino-made Spanish because it sounds cool
+* **Panagpawangisan** = Polymorphism
+    * *Panag-* (anything pertaining to; rough analog with *poly-* in this case) + *pa-* (cause) + wangis (likeness/resemblance) + *-an* (focus on a thing)
+        * Pawangis because polymorphism cause a likeness/resemblance to anything inheriting the base class
+    * Patterned from pagwawangis and a somewhat common expression of "wangis-X" (X-lookalike)
+* **Pagpapamana** = Inheritance
 
 # Development Process
 * **Kaugmaran** / **Pagpaugmad** = Development
