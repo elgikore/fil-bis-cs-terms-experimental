@@ -377,7 +377,7 @@
 * **Kaanggid** = Derived Class / Subclass / Child Class
     * Companion reading of *ka-*
 * **Panulundon** = Inheritance
-* **Gumohapang Anggid-Gid-ang** = Diamond Problem
+* **Gumunhapang Anggid-Gid-ang** = Diamond Problem
     * Gid-ang is just anggid, using the "Reverse Syllable" Filipino slang pattern. Uses dash to preserve the slight pause of anggid
 
 # Development Process
