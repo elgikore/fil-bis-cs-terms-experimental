@@ -378,6 +378,9 @@
     * Companion reading of *ka-*
 * **Kaanggiran** = Abstract Class
     * What's a better way to translate "abstract" by just using circumfix logic lol? *Ka- -an* is literally an abjective to abstract noun converter
+* **Kapamaanggiran** = Interface (OOP)
+    * *Ka- -an* (verb to abstract noun converter reading) + *pa-* (cause) + *ma-* (in the future aspect) + anggid; highlights the assigning of likeness in the future, like a contract to be followed in the inheriting class from the interface
+    * Interface in OOP has a whole different meaning than the the usual interface in computers
 * **Panulundon** / **Pagpaanggid** = Inheritance
 * **Gumunhapang Anggid-Gid-ang** = Diamond Problem
     * Gid-ang is just anggid, using the "Reverse Syllable" Filipino slang pattern. Uses dash to preserve the slight pause of anggid

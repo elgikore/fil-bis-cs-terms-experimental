@@ -376,6 +376,9 @@
     * Companion reading of *ka-*
 * **Kawangisan** = Abstract Class
     * What's a better way to translate "abstract" by just using circumfix logic lol? *Ka- -an* is literally an abjective to abstract noun converter
+* **Kapamawangisan** = Interface (OOP)
+    * *Ka- -an* (verb to abstract noun converter reading) + *pa-* (cause) + *ma-* (in the future aspect) + wangis; highlights the assigning of likeness in the future, like a contract to be followed in the inheriting class from the interface
+    * Interface in OOP has a whole different meaning than the the usual interface in computers
 * **Pagpapamana** / **Pagpapawangis** = Inheritance
 * **Suliraning Wangis-Giswan** = Diamond Problem
     * Giswan is just wangis, using the "Reverse Syllable" Filipino slang pattern
