@@ -159,6 +159,13 @@
     * "Reversed Syllable Order" Filipino slang style
 * **Diskarte** = Heuristic
     * *Resourcefulness* (no brute force) + *competence* (finds the locally optimal solution given time constraints) + *street smart* (informed assumptions to get to the goal) + *effective strategy and adaptation* (adapts because of the heuristic function)
+* **Pagpailahon** = Authentication
+    * Lit. Act of causing (establish/acknowledge; *pagpa-*) a recognition (ila) on a place (*-on*)
+* **Pagpahinulubagon** / **Awtorisasyon** = Authorization   
+    * Used the *hin-* to replicate *pagsasa-* in Bisaya;
+    * Lit. Act of causing (*pagpa-*) a propensity (*hin-*) of obligation (tulubagon)
+* **Ilhanan** = Identity
+
 
 # Low-Level Programming
 ## Memory and CPU
