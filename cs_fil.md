@@ -10,6 +10,8 @@
 * **Araling Pambilangan** / **Aralimbilang** / **Palabilangan** = Mathematics
     * For people that don't like sipnayan yet don't like to use matematika -- using the familiar Araling Panlipunan template
     * Using the "study discipline" reading of *pala- -an*, yet still works under "where the [root word] is frequently performed" reading
+* **Balikparehas** = Idempotent
+    * Balik pindot -> Parehas output/ang gawa -> Balik pindot -> Parehas output/ang gawa -> ...
 * **Kagamitan** = Utility
 * **Kasangkapan** = Library
     * Using the "collection" reading of *ka- -an* and sangkap implies ingredients

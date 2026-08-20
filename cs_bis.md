@@ -9,6 +9,8 @@
     * Borrowed it from Filipino because it is more specific than patag -- "flat surface" / "[patag na pahalang](https://diksiyonaryo.ph/search/sapad?page=1)"
 * **Tulun-anang Pangiphan** / **Ihaptuon** / **Palaiphanan** = Mathematics
     * Using the "study discipline" reading of *pala- -an* from Filipino
+* **Balikparehas** = Idempotent
+    * Balik pislit -> Parehas output/ang gihimo -> Balik pislit -> Parehas output/ang gihimo -> ...
 * **Kagamitan** = Utility
     * Using the "collection" reading of *ka- -an*
 * **Kasangkapan** = Library
