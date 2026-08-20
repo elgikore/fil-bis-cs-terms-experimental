@@ -167,7 +167,6 @@
 * **Pagkakakilanlan** / **Kilanlan** = Identity
     * Kilanlan can be understood as kilala + *-an* i.e. "place of know or acquainted/identity"
 
-
 # Low-Level Programming
 ## Memory
 * **Pisa** = Bit
@@ -320,7 +319,7 @@
 * **Ipahimbing** / **Pahimbingin** = Hibernate
 * **Ipatakbo** / **Patakbuhin** = Boot / Start
 * **Ipabalik-takbo** / **Balik-Patakbuhin** = Reboot / Restart
-* **Kaliwanagan** / **Liwanag** = Brightness
+* **Kaliwanagan** / **Liwanag** = Brightness / Value
     * General brightness
 * **Pagkaaliwalas** / **Aliwalas** = Luminance
     * Uses the more "encompassing" meaning of clearness/brightness on the outside house for the specific brightness of luminance -- a more holistic measurement of brightness by using a specific apparatus
@@ -330,6 +329,12 @@
 * **Basura** = Recycle Bin / Trash
 * **Igadgad** / **Gadgarin** = Permanent Delete
     * Metaphorical/semantic extension of grating/shredding
+* **Dekolor** / **Dekulay** = Hue
+    * Literal reading; "quality of color"
+* **Kapuruhan** / **Puro** = Saturation
+    * Based on the "color purity" meaning of saturation
+* **Kailawan** / **Ilaw** = Lightness
+    * As in ilaw from a bumbilya -- this is because of "0% light (no light) to 100% light (full light)"" description
 
 # Data Types
 * **Titik** = Character

@@ -168,7 +168,6 @@
     * Lit. Act of causing (*pagpa-*) a propensity (*hin-*) of obligation (tulubagon)
 * **Ilhanan** = Identity
 
-
 # Low-Level Programming
 ## Memory and CPU
 * **Pisa** = Bit
@@ -322,7 +321,7 @@
 * **Ipamuok** / **Pamuoka** = Hibernate
 * **Ipatukar** / **Patukara** = Boot / Start
 * **Ipatukar-Balik** / **Patukara-Balik** = Reboot / Restart
-* **Kahayag** / **Hayag** = Brightness
+* **Kahayag** / **Hayag** = Brightness / Value
     * General brightness
 * **Kalamdagan** / **Lamdag** = Luminance
     * Uses the lightness meaning of "bright" in lamdag
@@ -333,6 +332,12 @@
 * **Basura** = Recycle Bin / Trash
 * **Ibanggod** / **Banggudi** = Permanent Delete
     * Metaphorical/semantic extension of grating/shredding
+* **Dekolor** / **Debuluk** = Hue
+    * Literal reading; "quality of color"
+* **Kapuruhan** / **Puro** = Saturation
+    * Based on the "color purity" meaning of saturation
+* **Kasugaan** / **Suga** = Lightness
+    * As in suga from a bumbilya -- this is because of "0% light (no light) to 100% light (full light)"" description
 
 # Data Types
 * **Titik** = Character
