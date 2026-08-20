@@ -335,6 +335,10 @@
     * Based on the "color purity" meaning of saturation
 * **Kailawan** / **Ilaw** = Lightness
     * As in ilaw from a bumbilya -- this is because of "0% light (no light) to 100% light (full light)" description
+* **Kontrakolor** / **Kontrakulay** = Color Invert
+    * Polar opposite color i.e. $255 - x$
+* **Silom** = Color Spectrum
+    * Borrowed from Bisaya -- yep it has a word specifically for the color spectrum
 
 # Data Types
 * **Titik** = Character
