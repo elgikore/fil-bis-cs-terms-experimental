@@ -850,3 +850,5 @@
     * Borrowed *sam- -an* from Filipino to capture the scale and vastness, not just scale alone (*dak-*)
     * By metaphor; when you see a number like 2.71828182845904523536028747135266249775724709369995..., it is like you are wishing, longing, and craving the sequence to end, like it is an ambition or desire i.e. "Kanuns-a kaha?"
     * Similar metaphor jump as to how kaham (touch with the whole hand) became kinaham (favorite)
+* **Kinubokubo** = Tesseract
+    * Based on its 3d projection i.e. kinubo (the outer cube) ang kubo (inner cube) progressively (redup. of kubo)

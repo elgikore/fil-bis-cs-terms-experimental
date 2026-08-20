@@ -827,3 +827,5 @@
 * **Sanglupalopan** = Transcendental / Transcendental Number Line
     * Lupalop = Faraway Land / Distant Places / Far Lands
     * Idk man, 2.71828182845904523536028747135266249775724709369995... looks like a far away land for me to see where it ends 
+* **Kinubokubo** = Tesseract
+    * Based on its 3d projection i.e. kinubo (the outer cube) ang kubo (inner cube) progressively (redup. of kubo)
