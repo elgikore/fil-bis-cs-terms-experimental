@@ -800,6 +800,9 @@
 * **Gawasabwag** = Egress
     * Go outside (gawas), then spread and be known (sabwag) to other networks
     * Gawas-sabwag -> Gawassabwag -> Gawasabwag
+* **Pagpapamuno** = Orchestration
+    * Because you lead others
+    * By corollary, this is also the generic term for orchestration
 
 # Others
 * **Ilustra** / **Ilustrar** = Illustration

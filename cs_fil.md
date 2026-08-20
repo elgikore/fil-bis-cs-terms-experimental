@@ -789,6 +789,9 @@
     * Access first (akses), then enter (pasok)
 * **Labaspamahagi** = Egress
     * Go outside (labas), then distribute (pamahagi) to other networks
+* **Pagpapapamuno** = Orchestration
+    * Because you lead others
+    * By corollary, this is also the generic term for orchestration
 
 # Others
 * **Ilustra** = Illustration
