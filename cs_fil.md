@@ -334,7 +334,7 @@
 * **Kapuruhan** / **Puro** = Saturation
     * Based on the "color purity" meaning of saturation
 * **Kailawan** / **Ilaw** = Lightness
-    * As in ilaw from a bumbilya -- this is because of "0% light (no light) to 100% light (full light)"" description
+    * As in ilaw from a bumbilya -- this is because of "0% light (no light) to 100% light (full light)" description
 
 # Data Types
 * **Titik** = Character
