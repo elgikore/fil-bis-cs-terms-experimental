@@ -167,6 +167,7 @@
     * Used the *hin-* to replicate *pagsasa-* in Bisaya;
     * Lit. Act of causing (*pagpa-*) a propensity (*hin-*) of obligation (tulubagon)
 * **Ilhanan** = Identity
+* **I-atras** / **Atrasi** / **Atras** = `ROLLBACK` / Roll Back
 
 # Low-Level Programming
 ## Memory and CPU

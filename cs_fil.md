@@ -166,6 +166,7 @@
     * *Sa-* + tungkulin = Sakailangan = To assign (means) responsibility/duty (purpose)
 * **Pagkakakilanlan** / **Kilanlan** = Identity
     * Kilanlan can be understood as kilala + *-an* i.e. "place of know or acquainted/identity"
+* **I-atras** / **Atrasan** / **Atras** = `ROLLBACK` / Roll Back
 
 # Low-Level Programming
 ## Memory
