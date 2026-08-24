@@ -12,6 +12,9 @@
     * Using the "study discipline" reading of *pala- -an*, yet still works under "where the [root word] is frequently performed" reading
 * **Balikparehas** = Idempotent
     * Balik pindot -> Parehas output/ang gawa -> Balik pindot -> Parehas output/ang gawa -> ...
+* **Masirin** = Empirical
+    * Lit. Close observation (masid) on a thing (*-in*; obj. focus)
+    * From Maugnaying Talasalitaan
 * **Kagamitan** = Utility
 * **Kasangkapan** = Library
     * Using the "collection" reading of *ka- -an* and sangkap implies ingredients

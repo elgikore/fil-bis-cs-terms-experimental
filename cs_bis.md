@@ -11,6 +11,8 @@
     * Using the "study discipline" reading of *pala- -an* from Filipino
 * **Balikparehas** = Idempotent
     * Balik pislit -> Parehas output/ang gihimo -> Balik pislit -> Parehas output/ang gihimo -> ...
+* **Maaninawon** = Empirical
+    * Lit. "Quality of careful observation (aninaw) on a thing"
 * **Kagamitan** = Utility
     * Using the "collection" reading of *ka- -an*
 * **Kasangkapan** = Library
