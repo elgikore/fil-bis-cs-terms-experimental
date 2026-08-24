@@ -845,7 +845,7 @@
     * Literally Kubernaytes + Daker (Kubernetes + Docker) in the most generic sense (not literally just Kubenetes and Docker)
     * Mashup patterned from mamsir, where combining two forms creates the whole general domain
 * **Terakuber** = The whole IaC and cloud provisioning domain
-    * Literally Teraporm + Kubernaytes (Terraform + Kubernetes) in the most generic sense (not literally just Kubenetes and Docker)
+    * Literally Teraporm + Kubernaytes (Terraform + Kubernetes) in the most generic sense (not literally just Kubenetes and Terraform)
     * Mashup patterned from mamsir, where combining two forms creates the whole general domain
 * **Pandakeranan** = Docker Cluster / Docker Swarm
     * Borrowed from Filipino with slight changes; still retains the meaning since it is just *pang-* + *-anan*,
