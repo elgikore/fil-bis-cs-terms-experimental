@@ -481,6 +481,12 @@
 * **Kada Libo (Panukat)** / **Kod kada Libo** = Thousands of Lines per Code (KLOC)
 * **Pampasuri** = Analytics
     * Analytics focuses more on a set of tools (*pam-*) that cause/analyze (*pa-*) on something
+* **Bilang ng Kawangis** / **Kawangis (Panukat)** = Number of Children (NOC)
+    * Kawangis = Derived Class / Child Class / Subclass
+* **Kaantasan ng Mana** / **Antas (Panukat)** = Depth of Inheritance
+* **Pagkakahalabid** = Coupling Between Objects/Classes
+    * Pagkahalabid = Coupling
+    * Pagkakahalabid works for either objects or classes since *pagkaka-* focuses on the manner/degree than just the status of coupling
 
 # Internet
 * **Websayt** = Website

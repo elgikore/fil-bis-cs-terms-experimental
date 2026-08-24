@@ -387,8 +387,9 @@
     * *Panag-* (*pag-* plural but focus on multiple actors; rough analog with *poly-* in this case, since panagsa means it appears once but on a schedule when read literally i.e. *panag-* which focuses on the actor) + *pa-* (cause) + anggid (resemblance, not just similar like amgid) + *-an* (focus on a thing)
         * Paanggid because polymorphism cause a likeness/resemblance from the base class, plus the subclasses' own additions
 * **Nagpaanggid** = Base Class / Superclass / Parent Class
-* **Kaanggid** = Derived Class / Subclass / Child Class
+* **Kaanggid** / **Iganggid** / **Igkasianggid** = Derived Class / Subclass / Child Class
     * Companion reading of *ka-*
+    * "Fellow/relationship between things" reading of *ig-/igkasi-*
 * **Kaanggiran** = Abstract Class
     * What's a better way to translate "abstract" by just using circumfix logic lol? *Ka- -an* is literally an abjective to abstract noun converter
 * **Kapamaanggiran** = Interface (OOP)
@@ -482,6 +483,15 @@
 * **Pampatukib** = Analytics
     * Analytics focuses more on a set of tools (*pam-*) that cause to be well-described (*pa-*) on something
     * Root word choice (tukib) is based on Matukibon nga Sukodbutang (Analytic Geometry)
+* **Kantidad sa Kaanggid/Iganggid/Igkasianggid** / **Kaanggid/Iganggid/Igkasianggid (Panukat)** = Number of Children (NOC)
+    * Kaanggid / Iganggid / Igkasianggid = Derived Class / Child Class / Subclass
+    * Iganggid/Igkasianggid makes more sense here to use than Kaanggid in my opinion
+* **Katagi sa Pinanulundon** / **Katagi sa Pinanundon** / **Katagi (Panukod)** = Depth of Inheritance
+    * Pinanulundon simplifies to Pinanundon when spoken fast enough
+* **Pagkahingumon** = Coupling Between Objects/Classes
+    * Pagkagumon = Coupling
+    * *Pagkahin-* to replicate *pagkaka-* in Filipino; works for either objects or classes since it focuses on the manner/degree than just the status of coupling
+
 
 # Internet
 * **Websayt** = Website
