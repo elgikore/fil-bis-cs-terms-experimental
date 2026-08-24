@@ -842,7 +842,7 @@
 * **Kuberilyo** / **Kuberilya** = Pod (Kubernetes)
     * Kuberilyo/a is just interchangable; really comes down to personal preference since -o/-a are very flexible in IRL speech
 * **Tagapangkuber** = Control Plane (Kubernetes and the Like)
-    * Lit. One whos occupation (*taga-*) is to use an instrument (*pama-*) for Kubenetes (kuber) related items
+    * Lit. One whos occupation (*taga-*) is to use an instrument (*pang-*) for Kubenetes (kuber) related items
 
 
 # Others
