@@ -483,7 +483,7 @@
 * **Pampatukib** = Analytics
     * Analytics focuses more on a set of tools (*pam-*) that cause to be well-described (*pa-*) on something
     * Root word choice (tukib) is based on Matukibon nga Sukodbutang (Analytic Geometry)
-* **Kantidad sa Kaanggid/Iganggid/Igkasianggid** / **Kaanggid/Iganggid/Igkasianggid (Panukat)** = Number of Children (NOC)
+* **Kantidad sa Kaanggid/Iganggid/Igkasianggid** / **Kaanggid/Iganggid/Igkasianggid (Panukod)** = Number of Children (NOC)
     * Kaanggid / Iganggid / Igkasianggid = Derived Class / Child Class / Subclass
     * Iganggid/Igkasianggid makes more sense here to use than Kaanggid in my opinion
 * **Katagi sa Pinanulundon** / **Katagi sa Pinanundon** / **Katagi (Panukod)** = Depth of Inheritance
