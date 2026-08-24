@@ -842,7 +842,9 @@
 * **Daker** / **Kargador** = Container Engine / Docker
     * Daker is a transliteration of Docker, used generically here because people also use it generically e.g. Podman commands get aliased as "Docker"
 * **Kuberdaker** = The whole containerization domain
-    * Literally Kubernaytes + Daker (Kubernetes + Docker)
+    * Literally Kubernaytes + Daker (Kubernetes + Docker) in the most generic sense (not literally just Kubenetes and Docker)
+* **Terakuber** = The whole IaC and cloud provisioning domain
+    * Literally Teraporm + Kubernaytes (Terraform + Kubernetes) in the most generic sense (not literally just Kubenetes and Docker)
 * **Pandakeranan** = Docker Cluster / Docker Swarm
     * Borrowed from Filipino with slight changes; still retains the meaning since it is just *pang-* + *-anan*,
 * **Pangkuberanan** / **Pangkubernaytesanan** = Kubernetes Cluster
