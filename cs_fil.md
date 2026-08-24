@@ -828,7 +828,11 @@
 * **Daker** / **Kargador** = Container Engine / Docker
     * Daker is a transliteration of Docker, used generically here because people also use it generically e.g. Podman commands get aliased as "Docker"
 * **Kuberdaker** = The whole containerization domain
-    * Literally Kubernaytes + Dacker (Kubernetes + Docker)
+    * Literally Kubernaytes + Daker (Kubernetes + Docker)
+* **Pandakeran** = Docker Cluster / Docker Swarm
+    * Modeled from pamilihan (i.e. *pang- -an*)
+* **Pangkuberan** / **Pangkubernaytesan** = Kubernetes Cluster
+    * Modeled from pamilihan (i.e. *pang- -an*)
 
 # Others
 * **Ilustra** = Illustration
