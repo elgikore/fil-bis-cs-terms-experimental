@@ -469,6 +469,14 @@
 * **Makigtrabahoon** / **Makugihon** = Task-Oriented Individual
 * **Makiguban-ubanon** = Interaction-Oriented Individual
 * **Makinaugalingon** = Self-Oriented Individual
+* **Panukdanang Pangsoftware** = Software Measurements
+    * English uses the "measure to a standard" reading on measurements here
+* **Panukod** / **Panukdanan** / **Pampanukdanang Pangsoftware** = Software Metric / Metric
+    * *Pampa-* + panukod -> Pampapanukod -> Pampanukod (by simplification)
+    * *Pampa-* because you cause/measure the thing, not just the general instrument like panukatang
+* **Ginabag-ohan (Panukod)** = Code Churn
+* **Kantidad sa Kod** = Lines of Code
+* **Matag Libo (Panukod)** / **Kod matag Libo** = Thousands of Lines per Code (KLOC)
 
 
 # Internet

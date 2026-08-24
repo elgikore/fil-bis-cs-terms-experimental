@@ -468,6 +468,14 @@
 * **Makikisamahin** = Interaction-Oriented Individual
 * **Mahangarin** = Self-Oriented Individual
     * Motivated by their end goal
+* **Panukatang Pangsoftware** = Software Measurements
+    * English uses the "measure to a standard" reading on measurements here
+* **Panukat** / **Panukatan** / **Pampanukatang Pangsoftware** = Software Metric / Metric
+    * *Pampa-* + panukat -> Pampapanukat -> Pampanukat (by simplification)
+    * *Pampa-* because you cause/measure the thing, not just the general instrument like panukatang
+* **Pinagbago (Panukat)** = Code Churn
+* **Bilang ng Pagkokod** = Lines of Code
+* **Kada Libo (Panukat)** / **Kod kada Libo** = Thousands of Lines per Code (KLOC)
 
 
 # Internet
