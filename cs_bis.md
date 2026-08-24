@@ -844,11 +844,11 @@
 * **Kuberdaker** = The whole containerization domain
     * Literally Kubernaytes + Daker (Kubernetes + Docker)
 * **Pandakeranan** = Docker Cluster / Docker Swarm
-    * Borrowed from Filipino with slight changes; still retains the meaning since it is 
+    * Borrowed from Filipino with slight changes; still retains the meaning since it is just *pang-* + *-anan*,
 * **Pangkuberanan** / **Pangkubernaytesanan** = Kubernetes Cluster
-    * Borrowed from Filipino with slight changes; still retains the meaning since it is 
+    * Borrowed from Filipino with slight changes; still retains the meaning since it is just *pang-* + *-anan*,
 * **Kuberilyo** / **Kuberilya** = Pod (Kubernetes)
-    * Kuberilyo/a is just interchangable
+    * Kuberilyo/a is just interchangable; really comes down to personal preference since -o/-a are very flexible in IRL speech
 
 # Others
 * **Ilustra** / **Ilustrar** = Illustration

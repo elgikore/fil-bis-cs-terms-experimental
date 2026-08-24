@@ -834,7 +834,7 @@
 * **Pangkuberan** / **Pangkubernaytesan** = Kubernetes Cluster
     * Modeled from pamilihan (i.e. *pang- -an*)
 * **Kuberilyo** / **Kuberilya** = Pod (Kubernetes)
-    * Kuberilyo/a is just interchangable
+    * Kuberilyo/a is just interchangable; really comes down to personal preference since -o/-a are very flexible in IRL speech
 
 # Others
 * **Ilustra** = Illustration
