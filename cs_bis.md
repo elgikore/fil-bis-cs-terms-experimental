@@ -170,6 +170,8 @@
     * Lit. Act of causing (*pagpa-*) a propensity (*hin-*) of obligation (tulubagon)
 * **Ilhanan** = Identity
 * **I-atras** / **Atrasi** / **Atras** = `ROLLBACK` / Roll Back
+* **Gitagoan** = Secrets (as in security/API sense)
+    * Metaphor works the same way as English
 
 # Low-Level Programming
 ## Memory and CPU

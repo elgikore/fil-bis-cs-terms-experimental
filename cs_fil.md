@@ -170,6 +170,8 @@
 * **Pagkakakilanlan** / **Kilanlan** = Identity
     * Kilanlan can be understood as kilala + *-an* i.e. "place of know or acquainted/identity"
 * **I-atras** / **Atrasan** / **Atras** = `ROLLBACK` / Roll Back
+* **Pinaglihim** = Secrets (as in security/API sense)
+    * Metaphor works the same way as English
 
 # Low-Level Programming
 ## Memory
