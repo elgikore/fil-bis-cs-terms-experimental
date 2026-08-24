@@ -5,6 +5,9 @@
 * **Sangkalisdidad** = Multivariable
     * *Sang-* + *ka-* (companionship reading) + Ilisdi + *-dad* because a variable is a placeholder where you can swap any value if known
     * Borrowed *Sang-* from Filipino because it rhymes better than *dak-*
+* **Sipak**, **Ihapan**, **Dagnayan** = Fraction, Numerator, Denominator
+    * [www.binisaya.com/node/731/](www.binisaya.com/node/731/)
+    * Believe it or not, the Bisaya version for numerator and denominator is almost a 1:1 match of the original Latin metaphor ("to count" = ihapan; "to nickname" = dagnayan)
 * **Sapad** = Plane
     * Borrowed it from Filipino because it is more specific than patag -- "flat surface" / "[patag na pahalang](https://diksiyonaryo.ph/search/sapad?page=1)"
 * **Tulun-anang Pangiphan** / **Ihaptuon** / **Palaiphanan** = Mathematics

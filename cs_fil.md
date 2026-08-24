@@ -4,6 +4,10 @@
     * Lit. State of changeability/swappability
 * **Sangkapalitanidad** = Multivariable
     * *Sang-* + *ka-* (companionship reading) + Palitan + *-idad*
+* **Patid**, **Patiran**, **Tagapatid** = Fraction, Numerator, and Denominator
+    * Same metaphor as English i.e. *fract*-ion, *fract*-ure, *fract*-al (though a fractal isn't really a fraction in the traditional mathematical sense), etc. since if you think about it, a fraction is a small-cut quality of a whole (literally the same idiom of "a fraction of")
+    * Patiran and Tagapatid is based on this expression: "5 over 4" -> "5 divided by 4" -> "5 is to be patid'd (patiran) by (tagapatid) 4" = 1.25
+    * The official terms are [Bahagimbilang, Panakda, Pamahagi](https://archive.org/details/maugnayin-talasalitaan-1969-ocr/page/47/mode/2up), which I think is unintuitive
 * **Sapad** = Plane
     * Though Maugnaying Talasalitaan defined plane as lapya, I think its better to reserve lapya for flattening processes since it is very highly specific: "flatten to level", and [Diksyunaryo.ph](https://diksiyonaryo.ph/search/lapya?page=1) states that a product of lapya is sapad (para maging sapad)
     * Sapad is better than patag because it is more specific than patag -- "flat surface" / "[patag na pahalang](https://diksiyonaryo.ph/search/sapad?page=1)"
