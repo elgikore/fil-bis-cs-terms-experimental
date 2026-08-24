@@ -833,6 +833,8 @@
     * Modeled from pamilihan (i.e. *pang- -an*)
 * **Pangkuberan** / **Pangkubernaytesan** = Kubernetes Cluster
     * Modeled from pamilihan (i.e. *pang- -an*)
+* **Kuberilyo** / **Kuberilya** = Pod (Kubernetes)
+    * Kuberilyo/a is just interchangable
 
 # Others
 * **Ilustra** = Illustration

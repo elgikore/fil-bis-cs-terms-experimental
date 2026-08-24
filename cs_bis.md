@@ -847,6 +847,8 @@
     * Borrowed from Filipino with slight changes; still retains the meaning since it is 
 * **Pangkuberanan** / **Pangkubernaytesanan** = Kubernetes Cluster
     * Borrowed from Filipino with slight changes; still retains the meaning since it is 
+* **Kuberilyo** / **Kuberilya** = Pod (Kubernetes)
+    * Kuberilyo/a is just interchangable
 
 # Others
 * **Ilustra** / **Ilustrar** = Illustration
