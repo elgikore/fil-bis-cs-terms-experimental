@@ -855,6 +855,8 @@
     * Borrowed from Filipino with slight changes; still retains the meaning since it is just *pang-* + *-anan*,
 * **Kuberilyo** / **Kuberilya** = Pod (Kubernetes)
     * Kuberilyo/a is just interchangable; really comes down to personal preference since -o/-a are very flexible in IRL speech
+* **Tigpangkuber** = Control Plane (Kubernetes and the Like)
+    * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for Kubenetes (kuber) related items
 
 # Others
 * **Ilustra** / **Ilustrar** = Illustration
