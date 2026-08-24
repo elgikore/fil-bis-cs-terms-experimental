@@ -829,8 +829,10 @@
     * Daker is a transliteration of Docker, used generically here because people also use it generically e.g. Podman commands get aliased as "Docker"
 * **Kuberdaker** = The whole containerization domain
     * Literally Kubernaytes + Daker (Kubernetes + Docker) in the most generic sense (not literally just Kubenetes and Docker)
+    * Mashup patterned from mamsir, where combining two forms creates the whole general domain
 * **Terakuber** = The whole IaC and cloud provisioning domain
     * Literally Teraporm + Kubernaytes (Terraform + Kubernetes) in the most generic sense (not literally just Kubenetes and Docker)
+    * Mashup patterned from mamsir, where combining two forms creates the whole general domain
 * **Pandakeran** = Docker Cluster / Docker Swarm
     * Modeled from pamilihan (i.e. *pang- -an*)
 * **Pangkuberan** / **Pangkubernaytesan** = Kubernetes Cluster
