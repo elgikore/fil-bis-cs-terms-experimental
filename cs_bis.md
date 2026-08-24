@@ -857,6 +857,9 @@
     * Kuberilyo/a is just interchangable; really comes down to personal preference since -o/-a are very flexible in IRL speech
 * **Tigpangkuber** = Control Plane (Kubernetes and the Like)
     * Lit. One that does/uses (*tig-*) an instrument (*pang-*) for Kubenetes (kuber) related items
+* **Mangkukuberilyo** = Kubelet / Pod Handler
+    * Because it tends to the pods in Kubernetes
+
 
 # Others
 * **Ilustra** / **Ilustrar** = Illustration
