@@ -822,6 +822,9 @@
 * **Pagpapapamuno** = Orchestration
     * Because you lead others
     * By corollary, this is also the generic term for orchestration
+* **Pagpapakubernaytes** / **Pagpapapamuno** = Container Orchestration
+    * Kubernaytes is a transliteration of Kubernetes. Even though kubernaytis is 1:1 pronounciation accurate, kubernaytes is a lot more familiar because there is a lot of *-es* in Spanish loanwords
+    * Kubernetes is used generically simply because people also use it generically
 
 # Others
 * **Ilustra** = Illustration
