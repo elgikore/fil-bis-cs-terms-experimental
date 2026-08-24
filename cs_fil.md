@@ -825,6 +825,10 @@
 * **Pagpapakubernaytes** / **Pagpapapamuno** = Container Orchestration
     * Kubernaytes is a transliteration of Kubernetes. Even though kubernaytis is 1:1 pronounciation accurate, kubernaytes is a lot more familiar because there is a lot of *-es* in Spanish loanwords
     * Kubernetes is used generically simply because people also use it generically
+* **Daker** / **Kargador** = Container Engine / Docker
+    * Daker is a transliteration of Docker, used generically here because people also use it generically e.g. Podman commands get aliased as "Docker"
+* **Kuberdaker** = The whole containerization domain
+    * Literally Kubernaytes + Dacker (Kubernetes + Docker)
 
 # Others
 * **Ilustra** = Illustration
