@@ -479,7 +479,9 @@
 * **Ginabag-ohan (Panukod)** = Code Churn
 * **Kantidad sa Kod** = Lines of Code
 * **Matag Libo (Panukod)** / **Kod matag Libo** = Thousands of Lines per Code (KLOC)
-
+* **Pampatukib** = Analytics
+    * Analytics focuses more on a set of tools (*pam-*) that cause to be well-described (*pa-*) on something
+    * Root word choice (tukib) is based on Matukibon nga Sukodbutang (Analytic Geometry)
 
 # Internet
 * **Websayt** = Website

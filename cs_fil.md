@@ -479,7 +479,8 @@
 * **Pinagbago (Panukat)** = Code Churn
 * **Bilang ng Pagkokod** = Lines of Code
 * **Kada Libo (Panukat)** / **Kod kada Libo** = Thousands of Lines per Code (KLOC)
-
+* **Pampasuri** = Analytics
+    * Analytics focuses more on a set of tools (*pam-*) that cause/analyze (*pa-*) on something
 
 # Internet
 * **Websayt** = Website
