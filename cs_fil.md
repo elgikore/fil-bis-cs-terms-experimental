@@ -538,6 +538,8 @@
 * [Same as Delete](#delete) = `DELETE`
 * **Sampinainternetan** = Internet of Things
     * *Sam- -an* (all devices being networked) + *pina-* (to be caused to be connected or have a source to the internet) + internet
+* **Sampakikipaghandaan** = Content Delivery Network
+    *Sam- -an* (all servers in unison) + *pakikipag-* (all servers cooperate one another) + handa (my definition for tagahanda = server)
 
 
 # Data Science/ML
