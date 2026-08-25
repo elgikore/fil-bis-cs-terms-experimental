@@ -292,7 +292,7 @@
     * Better than putol or tanggal since hiwa can imply getting a small piece after cutting and not necessarily discarding it right away
 * **Hanapin** / **I-hanap** = Find
 * **Palitan** / **I-palit** = Replace
-* **Tanggala** / **I-tangal** = Delete
+* **Tanggala** / **I-tangal** = Delete <a id="delete"></a>
 * **Seleksyon** = Selection
 * **Tulong** = Help
 * **Atras** = Previous (Navigation Button)
@@ -525,6 +525,18 @@
 * **E-bili** / **E-bilihan** = E-commerce
     * Pun of i-bili and i-bilihan
     * Use e-bilihan if you want to emphasize the commerce side
+* **Suki** = Client
+    * Better than kliyente because in a client-server model, a client is frequently connected to the server for updates, not just a one or few times to do HTTP requests
+* **Tagahanda** = Server
+    * Used handa because the focus here is to prepare resources to be sent to the client i.e. tagahanda (one who's occupation is to handa) prepares the food, and after preparing, they would send the order to the suki (in this case all connected clients)
+* **Pagkuha** / **Makikuha** / **Pakikuha** / **Kuha** / **Kuhain** / **Kunin** = Request / `GET`
+    * Word choice depends on action emphasis, politeness, or direct command
+    * Kuha is literally `GET`
+* **Hinandaan** / **Sagot** = Response
+* **Ipasok** = `POST`
+* **Ilagay** = `PUT`
+* [Same as Delete](#delete) = `DELETE`
+
 
 # Data Science/ML
 * **Datos** = Data
@@ -821,6 +833,8 @@
     * *Sa-* + talaarawan/kalendaryo/skedyul = A method (means) to put (purpose) something to a calendar
 
 ## Cloud
+* **Probisyon** / **Pampahanda** = Provision
+    * *Pampa-* (tools/instruments to cause something to) + handa (ready)
 * **Aksespasok** = Ingress
     * Access first (akses), then enter (pasok)
 * **Labaspamahagi** = Egress

@@ -290,7 +290,7 @@
     * Better than putol or tanggal since hiwa can imply getting a small piece after cutting and not necessarily discarding it right away
 * **Pangita-a** / **I-pangita** = Find
 * **Ilisdi** / **I-ilis** = Replace
-* **Tanggala** / **I-tangal** = Delete
+* **Tanggala** / **I-tangal** <a id="delete"></a> = Delete 
 * **Seleksyon** = Selection
 * **Tabang** = Help
 * **Atras** = Previous (Navigation Button)
@@ -526,7 +526,17 @@
 * **E-palit** / **E-palitanan** = E-commerce
     * Pun of i-palit and i-palitanan
     * Use e-palitanan if you want to emphasize the commerce side
-
+* **Suki** = Client
+    * Better than kliyente because in a client-server model, a client is frequently connected to the server for updates, not just a one or few times to do HTTP requests
+* **Tigandam** = Server
+    * Used andam because the focus here is to prepare resources to be sent to the client i.e. tigandam (one who prepares) prepares the food, and after preparing, they would send the order to the suki (in this case all connected clients)
+* **Pagkuha** / **Makikuha** / **Pakikuha** / **Kuha** / **Kuhaa** = Request / `GET`
+    * Word choice depends on action emphasis, politeness, or direct command
+    * Kuha is literally `GET`
+* **Inamdaman** / **Tugon** = Response
+* **Ibutang** = `POST`
+* **Iplastar** = `PUT`
+* [Same as Delete](#delete) = `DELETE`
 
 # Data Science/ML
 * **Datos** = Data
@@ -832,6 +842,8 @@
     * *Pa-* + *Hi-*/*Hin-*/*Hing-* + talaarawan/kalendaryo/skedyul = To cause inclination to put to a calendar
 
 ## Cloud
+* **Probisyon** / **Pampaandam** = Provision
+    * *Pampa-* (tools/instruments to cause something to) + andam (ready)
 * **Aksesulod** = Ingress
     * Access first (akses), then enter (sulod)
     * Akses-sulod -> Aksessulod -> Aksesulod
