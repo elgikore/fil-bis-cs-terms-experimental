@@ -496,7 +496,8 @@
 * **Pagkahingumon** = Coupling Between Objects/Classes
     * Pagkagumon = Coupling
     * *Pagkahin-* to replicate *pagkaka-* in Filipino; works for either objects or classes since it focuses on the manner/degree than just the status of coupling
-
+* **Sampinainternetan** = Internet of Things
+    * *Sam- -an* (all devices being networked; borrowed *sam- -an* from Filipino to represent all-encompassing nature and not just scale like *dak-*) + *pina-* (to be caused to be connected or have a source to the internet) + internet
 
 # Internet
 * **Websayt** = Website

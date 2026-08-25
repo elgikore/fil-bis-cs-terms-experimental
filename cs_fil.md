@@ -536,6 +536,8 @@
 * **Ipasok** = `POST`
 * **Ilagay** = `PUT`
 * [Same as Delete](#delete) = `DELETE`
+* **Sampinainternetan** = Internet of Things
+    * *Sam- -an* (all devices being networked) + *pina-* (to be caused to be connected or have a source to the internet) + internet
 
 
 # Data Science/ML
