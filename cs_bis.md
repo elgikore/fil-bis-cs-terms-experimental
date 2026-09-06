@@ -931,3 +931,10 @@
     * Similar metaphor jump as to how kaham (touch with the whole hand) became kinaham (favorite)
 * **Kinubokubo** = Tesseract
     * Based on its 3d projection i.e. kinubo (the outer cube) ang kubo (inner cube) progressively (redup. of kubo)
+* **Sangkahupayan** = Utopia
+    * *Sang-* + *ka- -an* + hupay
+    * Borrowed *sang- -an* from Filipino to represent all-encompassing nature and not just scale like *dak-*
+* **Sangkinadaotan** = Dystopia
+    * *Sang-* + *kina- -an* + daot i.e. *sang-* + kinadaotan (worst)
+    * Used daot because of usage of daotan
+    * Borrowed *sang- -an* from Filipino to represent all-encompassing nature and not just scale like *dak-*
