@@ -6,6 +6,10 @@
     * Lit. State of changeability/swappability
 * **Sangkapalitanidad** = Multivariable
     * *Sang-* + *ka-* (companionship reading) + Palitan + *-idad*
+* **Sangkaparte** / **Sangkabahagi** = Composition
+    * *Sang-* (whole) + *ka-* (companionship reading) + parte/bahagi
+    * A composition/composable is a thing where it is made by parts like a LEGO brick
+    * Sangkabahagi, while technically looks fine, can be hard to pronounce
 * **Patid**, **Patiran**, **Tagapatid** = Fraction, Numerator, and Denominator
     * Same metaphor as English i.e. *fract*-ion, *fract*-ure, *fract*-al (though a fractal isn't really a fraction in the traditional mathematical sense), etc. since if you think about it, a fraction is a small-cut quality of a whole (literally the same idiom of "a fraction of")
     * Patiran and Tagapatid is based on this expression: "5 over 4" -> "5 divided by 4" -> "5 is to be patid'd (patiran) by (tagapatid) 4" = 1.25

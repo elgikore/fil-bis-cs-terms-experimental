@@ -7,6 +7,9 @@
 * **Sangkalisdidad** = Multivariable
     * *Sang-* + *ka-* (companionship reading) + Ilisdi + *-dad* because a variable is a placeholder where you can swap any value if known
     * Borrowed *Sang-* from Filipino because it rhymes better than *dak-*
+* **Sangkaparte** / **Sangkabahin** = Composition
+    * *Sang-* (whole) + *ka-* (companionship reading) + parte/bahagi
+    * A composition/composable is a thing where it is made by parts like a LEGO brick
 * **Sipak**, **Ihapan**, **Dagnayan** = Fraction, Numerator, Denominator
     * [www.binisaya.com/node/731/](www.binisaya.com/node/731/)
     * Believe it or not, the Bisaya version for numerator and denominator is almost a 1:1 match of the original Latin metaphor ("to count" = ihapan; "to nickname" = dagnayan)
