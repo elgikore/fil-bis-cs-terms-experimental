@@ -1,4 +1,6 @@
 # Basic Terms
+* **Makinremotilya** = Teletypewriter
+    * Makinilya (typewriter) + remot (remote as in remote control, remote network, etc. to signify *tele-*) = Makin + remot + *-ilya*
 * **Ilisdidad** = Variable
     * Ilisdi + *-dad* because a variable is a placeholder where you can swap any value if known
     * Lit. State of changeability/exchangeability
