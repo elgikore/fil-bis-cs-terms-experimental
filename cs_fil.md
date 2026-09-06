@@ -541,6 +541,100 @@
 * **Sampakikipaghandaan** = Content Delivery Network
     *Sam- -an* (all servers in unison) + *pakikipag-* (all servers cooperate one another) + handa (my definition for tagahanda = server)
 
+# Font and Typography
+* **Patitikan** = Font / Typeface
+    * Repurposing because if you think about it, "to mark with letters on a thing" fits the font being used to type characters with a certain style and it can be any style so the ambiguity is the point
+* **Kapatitikan** = Font Family
+    * Collection reading of *ka- -an* since patitikan here now behaves like a noun
+* **Titik** = Glyph / Character
+* **Diin** = Font Weight 
+    * From expression "binigyang-diin"
+* **Madiin** = Bold
+* **Madiin-diin** = Bolder
+* **Tagilid** = Italic
+* **Nakahilig** = Oblique
+    * Repurposing
+* **Laki** = Font Size
+* **Estilo** = Font Style
+* **Pagkakaguhit** = Font Decorations (CSS)
+    * Lit. Style/Manner of lines
+* **Manipis** = Light
+* **Manipis-nipis** = Lighter
+* **Patpatin** = Thin
+    * Patpatin = skinny
+    * Repurposing
+* **Gitnangguhit** = Strikethrough
+    * Based on the etymology of salungguhit (salo na guhit)
+* **Ibabaw-guhit** = Overline
+    * Ibid.
+* **Ibabawtitik** = Superscript
+    * Ibabaw + titik
+* **Ilalimtitik** = Subscript
+    * Ilalim + titik
+* **Pansalo** = Baseline
+    * Because it catches all the letters' bases mostly
+* **Kapantay** = X-height
+    * Because most of the letters that match in height are lowercase only
+* **Inusli** = Ascender
+    * Usli = Protrusion
+    * Repurposing 
+* **Tinusok** = Descender
+    * Since the letters that protrudes at the bottom looks like it punctured or stuck to the ground
+* **Dunggot** = Serif
+    * Dunggot is highly specific: a small protruding point or end
+* **Gutdong** = Sans-serif
+    * * Root reversal method from Filipino slang to make the opposite of dunggot
+* **Kasinghaba** = Monospace
+    * Every letter has equal length i.e. kasinghaba
+* **Talatay** = Cursive / Script
+    * By metaphor; Talatay means specifically the flow in a vein -- if you think about it, when you write cursive, writing it feels like flowing, and the vein part is the ink
+    * Surprisingly even if Baybayin calligraphy is a thing, there is no other name for cursive than transliteration (kursiba)
+* **Pagkakatalatay** = Calligraphy
+    * Calligrahy focuses more on the art/manner of doing handwritten lettering than just *-graphy*
+* **Pagkakatitik** = Typography
+    * Typography focuses more on the art/manner of doing lettering than just *-graphy*
+* **Ikid** = Loop
+    * Coiled loop
+* **Nakakubli** / **Kubli** = Counter
+    * Since it is enclosed/concealed
+* **Nakabuka** / **Buka** = Open Counter
+    * Since it is opened (not kubli)
+* **Tangkay** = Stem
+    * Same English metaphor since it is visual
+* **Pinatakan** = Teardrop Terminal
+    * Patak + *-in-* (Complete Aspect) + *-an* ("on a place" reading)
+* **Bar** = **Bar**
+    * As is since everybody knows what is a bar and it isn't awkward to pronounce
+* **Bangs** = **Ear**
+    * By metaphor since bangs are the overhangs of hair in the face
+    * Common English word in the Philippines to describe a style of hair so why not, and it is not awkward to pronounce
+* **Dulo** = Terminal
+    * "Ending point" reading of terminal is used in English
+* **Balikat** = Shoulder
+    * Same English metaphor since it is visual
+* **Bingit** = Cap
+    * Since it is near the edge (brink)
+* **Tuktok** = Apex
+* **Kanto** = Vertex
+    * This is because a vertex in typograhy is like a corner or a junction
+* **Inagapayan** = Ligature
+    * *-in-* (Complete Aspect) + agapayan
+    * This is because for example ff or st ligatures for example makes the letter go alongside/side-by-side by means of connecting the two letters in in one stroke
+* **Suluksulat** = Axis
+    * Literal definition of axis: sulok (angle) + sulat (written letter)
+    * Sulok is used as angle because of tatsulok and siha is much better suited for micro-gaps
+* **Umbok** = Bowl
+    * A bowl is a buldge
+* **Nakadapo** / **Dapo** = Leg
+    * Because the stroke lands on the baseline
+* **Pagitan (ng Kalinya)** = Leading / Line Height
+    * Chosen pagitan because its more on the interval between lines, and height here can be negative
+* **Siha** = Spacing
+    * Spacing here specifically refers to the micro-space between letters, and the "space between fingers" metaphor is very fitting here
+* **Katitiksiha** = Kerning
+    * Lit. Siha ng Katitik = Space between letter pairs, since a kerning is more on specific space on the next and previous letter
+* **Titiksiha** = Tracking
+    * Lit. Siha ng titik = Space between letters (equal spacing for each letter unlike kerning)
 
 # Data Science/ML
 * **Datos** = Data
