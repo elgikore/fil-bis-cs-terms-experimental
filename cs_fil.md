@@ -355,6 +355,7 @@
     * Polar opposite color i.e. $255 - x$
 * **Silom** = Color Spectrum
     * Borrowed from Bisaya -- yep it has a word specifically for the color spectrum
+* **Imbakan** = Storage
 
 # Data Types
 * **Titik** = Character

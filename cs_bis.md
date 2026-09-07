@@ -354,6 +354,7 @@
 * **Kontrakolor** / **Kontrabuluk** = Color Invert
     * Polar opposite color i.e. $255 - x$
 * **Silom** = Color Spectrum
+* **Tipiganan** = Storage
 
 # Data Types
 * **Titik** = Character
