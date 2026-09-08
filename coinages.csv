@@ -108,3 +108,26 @@ Natural Language Processing,AI/Deep Learning,Pagpoproseso ng Wika,Pagpaproseso s
 Language,General Programming,Lengwa,Lengwa,"To avoid confusion with spoken language (wika). By context of ""programming language"".","To avoid confusion with spoken language (pinulongan). By context of ""programming language"".",By Extension,By Extension
 Programming Language,General Programming,Lengwa,Lengwa,To avoid confusion with spoken language (wika).,To avoid confusion with spoken language (pinulongan).,By Extension,By Extension
 Large Language Model,AI/Deep Learning,Modelong Sangwikaan,Modelong Dakpulongan,*Sang- -an* (Bigger whole; the large part) + wika (language).,"*Dak-* (Big scale; the large part) + pulong (word; used metonymically for language) + *-an* (""place of X"" reading).",,
+Format,General,Modaporma,Modaporma,"Moda (style/fashion) + porma (form/style) to avoid confusion with just porma. Format as in ""the way it is presented"".","Moda (style/fashion) + porma (form/style) to avoid confusion with just porma. Format as in ""the way it is presented"".",Mashup,Mashup
+Internationalization,Software Development,Internasyonalisasyon,Internasyonalisasyon,Transliterated from English.,Transliterated from English.,Transliteration,Transliteration
+Localization,Software Development,Lokalisasyon,Lokalisasyon,Transliterated from English.,Transliterated from English.,Transliteration,Transliteration
+Globalization,Software Development,Globalisasyon,Globalisasyon,Transliterated from English.,Transliterated from English.,Transliteration,Transliteration
+Globalization,Software Development,Internaloksalinsasyon,Internalokhubarisasyon,INTERNAsyonal + LOKal + SALIN + *-sasyon*. Actual globalization stack.,INTERNAsyonal + LOKal + HUBAD (d to r on last letter) + *-isasyon*. Actual globalization stack.,Portmanteau,Portmanteau
+Printer,General,Tagaprenta,Tigprenta,,,,
+Audio,Audio,Tinig,Tingog,By metonymy since it can also mean sound.,By metonymy since it can also mean sound.,By Extension,By Extension
+Headphone,Audio,Tinigkalo,Tingugkalo,"Tinig (voice/sound) + kalo (cap). Even though the official translation is ""pang-ulong hatinig"", this is more shorter.\n\nSee audio (tinig).",Tingog (voice/sound) + kalo (cap). See audio (tingog).,Mashup,Mashup
+Telephone,General,Tinigusap,Tingugsulti,"Tinig (voice/sound) + usap (talk). Even though the official translation is ""hatinig"", it sounds very similar to katinig and patinig.\n\nSee audio (tinig).",Tingog (voice/sound) + sulti (talk). See audio (tingog).,Mashup,Mashup
+Microphone,Audio,Tinigkuha,Tingugkuha,"Tinig (voice/sound) + kuha (get), even though the official translation is ""miktinig"" lol.\n\nSee audio (tinig).",Tingog (voice/sound) + kuha (get). See audio (tingog).,Mashup,Mashup
+Microphone,Audio,Mike,Mike,Common shortening. Uses English pronounciation.,Common shortening. Uses English pronounciation.,,
+Speaker,Audio,Tinigkubo,Tingogkubo,Tinig (voice/sound) + kubo (cube). See audio (tinig).,Tingog (voice/sound) + kubo (cube). See audio (tingog).,Mashup,Mashup
+Earphone,Audio,Tinigtenga,Tingugdunggan,Tinig (voice/sound) + tenga (ear). See audio (tinig).,Tingog (voice/sound) + dunggan (ear). See audio (tingog).,Mashup,Mashup
+Bass,Audio,Tiniglagong,Tingugbaho,Tinig (voice/sound) + lagong (bass). See audio (tinig).,Tingog (voice/sound) + baho (bass). See audio (tingog).,Mashup,Mashup
+Bass,Audio,Lagong,Baho,,,,
+Treble,Audio,Tinigtiple,Tingugtiple,Tinig (voice/sound) + tiple (treble). See audio (tinig).,Tingog (voice/sound) + tiple (treble). See audio (tinig).,Mashup,Mashup
+Treble,Audio,Tiple,Tiple,,,,
+Midrange,Audio,Tiniggitna,Tingugtunga,Tinig (voice/sound) + gitna (middle). See audio (tinig).,Tingog (voice/sound) + tunga (middle). See audio (tinig).,Mashup,Mashup
+Soundbar,Audio,Tinighilera,Tingughilera,Tinig (voice/sound) + hilera (row/line). See audio (tinig).,Tingog (voice/sound) + hilera (row/line). See audio (tinig).,Mashup,Mashup
+Surround,Audio,Tinigpaligid,Tingugpalibot,Tinig (voice/sound) + paligid (surroundings). See audio (tinig).,Tingog (voice/sound) + palibot (surroundings). See audio (tinig).,Mashup,Mashup
+Subwoofer,Audio,Kubolagong,Kubobaho,Kubo (cube; used metonymically for a speaker box) + lagong (bass).,Kubo (cube; used metonymically for a speaker box) + baho (bass).,Mashup,Mashup
+Tweeter,Audio,Kubutiple,Kubutiple,Kubo (cube; used metonymically for a speaker box) + tiple (treble).,Kubo (cube; used metonymically for a speaker box) + tiple (treble).,Mashup,Mashup
+Scanner,General,Tagaskan,Tigskan,"Transliteration of root word (scan) from English + *taga-*, since it is not scan in the search sense.","Transliteration of root word (scan) from English + *tig-*, since it is not scan in the search sense.",Transliteration,Transliteration
