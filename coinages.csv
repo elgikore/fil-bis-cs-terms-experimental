@@ -231,6 +231,9 @@ Error,General,Sayop,Sayop,Borrowed from Bisaya because mali is too broad.,,Borro
 Error Budget,Cloud,Alawans sa Nasayop,Alawans sa Nasayop,Its more on allowance in error.,Its more on allowance in error.,,
 Allowance,General,Alawans,Alawans,"Already used broadly in Philippine English to mean “some leeway”, “some gap so that it is not full to the brim”, aside from its common meaning of panbaon.","Already used broadly in Philippine English to mean “some leeway”, “some gap so that it is not full to the brim”, aside from its common meaning of panbaon.",Transliteration,Transliteration
 Allowance,General,Alawanse,Alawanse,Primarily for affixing e.g. alawansehan.,Primarily for affixing e.g. alawansehan.,Transliteration + Modded,Transliteration + Modded
-Burn Rate,Cloud,,,,,,
-Slow Burn,Cloud,,,,,,
-Fast Burn,Cloud,,,,,,
+Burn Rate,Cloud,Paggagastos,Paggastos,Gastos already implies motion.,Gastos already implies motion.,By Extension,By Extension
+Slow Burn,Cloud,Tulo-tulo,Tulo-tulo,"There is no slow version of gastos, but leakage (tulo-tulo) does.","There is no slow version of gastos, but leakage (tulo-tulo) does.",By Extension,By Extension
+Fast Burn,Cloud,Magastos,Magastos,Lit. “Characteristic of gastos” since gastos already implies wastefulness.,Lit. “Characteristic of gastos” since gastos already implies wastefulness.,By Extension,By Extension
+Page,Cloud,Aksyonan,Aksyonan,Needs action.,Needs action.,By Extension,By Extension
+Ticket,Cloud,Gawain,Himoon,"Lit. “Things to do”, not as immediate as aksyon.","Lit. “Things to do”, not as immediate as aksyon.",By Extension,By Extension
+Cardinality,Cloud,Yunikombinar,Yunikombinar,Lit. “Unique combinations”. Kombinar borrowed from Bisaya as a shorthand for kombinasyon since kombina just means combine.,Lit. “Unique combinations”.,Mashup + Blend + Borrowing,Mashup + Blend
