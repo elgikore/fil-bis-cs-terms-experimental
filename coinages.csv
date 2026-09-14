@@ -225,3 +225,12 @@ Span,Cloud,Dangkal,Dupa,"If you do a handspan, the distance between the thumb an
 Observability,Cloud,Kalagayanlabas,Kahimutanggawas,Kalagayan (status) + labas (out; used here as output). Lit. “State of outside/output”. This is because the emphasis is the state of something by analyzing external outputs.,Kahimutang (status) + gawas (out; used here as output). Lit. “State of outside/output”. This is because the emphasis is the state of something by analyzing external outputs.,Mashup,Mashup
 Lag,General,Kabagalan,Kahinayon,Lag just means how slow it is.,Lag just means how slow it is.,By Extension,By Extension
 Latency,General Programming,Katagalan,Kadugayon,Latency just means how long it is to take.,Latency just means how long it is to take.,By Extension,By Extension
+Latency,Cloud,Katagalan,Kadugayon,Latency just means how long it is to take.,Latency just means how long it is to take.,By Extension,By Extension
+Logs,General Programming,Tala,Tala,By extension because it’s literally just a record of something.,By extension because it’s literally just a record of something.,By Extension,By Extension
+Error,General,Sayop,Sayop,Borrowed from Bisaya because mali is too broad.,,Borrowing,
+Error Budget,Cloud,Alawans sa Nasayop,Alawans sa Nasayop,Its more on allowance in error.,Its more on allowance in error.,,
+Allowance,General,Alawans,Alawans,"Already used broadly in Philippine English to mean “some leeway”, “some gap so that it is not full to the brim”, aside from its common meaning of panbaon.","Already used broadly in Philippine English to mean “some leeway”, “some gap so that it is not full to the brim”, aside from its common meaning of panbaon.",Transliteration,Transliteration
+Allowance,General,Alawanse,Alawanse,Primarily for affixing e.g. alawansehan.,Primarily for affixing e.g. alawansehan.,Transliteration + Modded,Transliteration + Modded
+Burn Rate,Cloud,,,,,,
+Slow Burn,Cloud,,,,,,
+Fast Burn,Cloud,,,,,,
